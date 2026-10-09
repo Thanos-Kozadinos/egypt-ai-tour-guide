@@ -33,7 +33,7 @@ HEADERS = {"User-Agent": "EgyptGuide/0.1 (personal offline travel guide; python-
 S = requests.Session()
 S.headers.update(HEADERS)
 IMG_MAX, IMG_QUALITY = 1000, 82
-BAD = re.compile(r"(map|plan|diagram|logo|flag|icon|\.svg|coat_of_arms|locat|chart|graph|drawing|sketch|cartouche|hieroglyph|banner|collage)", re.I)
+BAD = re.compile(r"(^|[_\-\s(])(map|plan|diagram|logo|flag|icon|chart|graph|drawing|sketch|banner|collage|coat_of_arms|location|locator)([_\-\s).]|$)|\.svg|\.png$", re.I)
 
 summary_cache = {}
 
@@ -82,10 +82,11 @@ def thumb_candidates(summary_json):
     width = orig.get("width") or 10000
     out = []
     if th and re.search(r"/\d+px-", th):
-        for w in (1000, 800, 660, 440):
+        # the thumbnail host only serves bucket sizes: 250, 330, 500, 960, 1280, 1920
+        for w in (960, 500):
             if w < width:
                 out.append(re.sub(r"/\d+px-", f"/{w}px-", th, count=1))
-        out.append(th)  # the size the API itself serves (always cached)
+        out.append(th)  # 330 px, the size the API itself serves (always cached)
     src = orig.get("source", "").split("?")[0]
     if src:
         out.append(src)

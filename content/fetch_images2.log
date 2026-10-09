@@ -21,3 +21,39 @@
 [20/293] OK  gem-tut-coffins  <- Tomb of Tutankhamun (shared)
 [21/293] --  gem-tut-throne  no usable lead image for ['Golden Throne of Tutankhamun', 'Throne of Tutankhamun']
 [22/293] OK  gem-tut-canopic  <- Canopic jar
+[23/293] OK  gem-tut-guardian-statues  <- Tomb of Tutankhamun (shared)
+[24/293] OK  gem-tut-anubis-shrine  <- Anubis Shrine
+[25/293] OK  gem-tut-shrines  <- Tomb of Tutankhamun (shared)
+[26/293] --  gem-tut-dagger  no usable lead image for ["Tutankhamun's meteoric iron dagger"]
+[27/293] OK  gem-tut-jewellery  <- Libyan desert glass
+[28/293] OK  mp-narmer-palette  <- Narmer Palette
+[29/293] OK  mp-khafre-statue  <- Khafre Enthroned
+[30/293] OK  mp-khufu-statuette  <- Khufu Statuette (shared)
+[31/293] OK  mp-rahotep-nofret  <- Prince Rahotep
+[32/293] OK  mp-akhenaten-colossi  <- Colossal Statues of Akhenaten at East Karnak (shared)
+[33/293] OK  mp-amenhotep3-tiye  <- Colossal statue of Amenhotep III and Tiye
+[34/293] OK  mp-psusennes-gold  <- Psusennes I
+[35/293] OK  giza-overview  <- Giza pyramid complex
+[36/293] OK  giza-great-pyramid  <- Great Pyramid of Giza
+[37/293] OK  giza-great-pyramid-interior  <- Great Pyramid of Giza (shared)
+[38/293] OK  giza-khafre-pyramid  <- Pyramid of Khafre
+[39/293] OK  giza-khafre-valley-temple  <- Pyramid of Khafre (shared)
+[40/293] OK  giza-menkaure-pyramid  <- Pyramid of Menkaure
+[41/293] OK  giza-sphinx  <- Great Sphinx of Giza
+[42/293] OK  giza-workers  <- Giza pyramid complex (shared)
+[43/293] OK  giza-how-built  <- Construction of the Egyptian pyramids (shared)
+[44/293] OK  le-overview  <- Luxor
+[45/293] OK  le-lt-overview  <- Luxor Temple
+[46/293] OK  le-lt-sphinx-avenue  <- Avenue of Sphinxes
+[47/293] OK  le-lt-pylon-obelisk  <- Luxor Obelisks
+[48/293] OK  le-lt-abu-haggag  <- Abu Haggag Mosque
+[49/293] OK  le-lt-colonnade-opet  <- Opet Festival
+[50/293] OK  le-lt-roman-chapel  <- Luxor Temple (shared)
+[51/293] OK  le-lt-alexander-shrine  <- Luxor Temple (shared)
+[52/293] OK  le-k-overview  <- Karnak
+[53/293] OK  le-k-avenue-rams  <- Karnak (shared)
+[54/293] OK  le-k-first-pylon-court  <- Karnak (shared)
+[55/293] OK  le-k-hypostyle  <- Great Hypostyle Hall (shared)
+[56/293] OK  le-k-obelisks  <- Karnak (shared)
+[57/293] OK  le-k-akhmenu  <- Festival Hall of Thutmose III
+[58/293] OK  le-k-sacred-lake  <- Karnak (shared)

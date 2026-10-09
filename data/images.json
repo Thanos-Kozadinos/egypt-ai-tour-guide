@@ -139,7 +139,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:3840px-Obelisco_inacabado,_Asuán,_Egipto,_2022-04-01,_DD_153.jpg",
   "page": "https://en.wikipedia.org/wiki/Unfinished_obelisk",
-  "shared": false
+  "shared": true
  },
  "bg-gods-overview": {
   "file": "La_Tombe_de_Horemheb_cropped.jpg",
@@ -148,7 +148,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:La_Tombe_de_Horemheb_cropped.jpg",
   "page": "https://en.wikipedia.org/wiki/Ancient_Egyptian_deities",
-  "shared": false
+  "shared": true
  },
  "bg-osiris-myth": {
   "file": "3840px-Jewel_Osiris_family-E_6204-IMG_0641-gradient.jpg",
@@ -175,7 +175,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:Egypt.Mythology.Set.jpg",
   "page": "https://en.wikipedia.org/wiki/Was-sceptre",
-  "shared": false
+  "shared": true
  },
  "bg-eye-of-horus-scarab": {
   "file": "Scarab_of_Sithathoryunet_with_the_Name_of_Amenemhat_III_MET_16.1.22_bot.jpeg",
@@ -283,7 +283,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:Howard_carter.jpg",
   "page": "https://en.wikipedia.org/wiki/Howard_Carter",
-  "shared": false
+  "shared": true
  },
  "bg-nile-inundation-calendar": {
   "file": "ModernEgypt,_Festival_of_the_Nile_at_Cairo,_BAP_24819.jpg",
@@ -337,7 +337,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:Cairo,_madrasa_del_sultano_qalaun,_02.JPG",
   "page": "https://en.wikipedia.org/wiki/Al-Mu'izz_Street",
-  "shared": false
+  "shared": true
  },
  "isl-qalawun": {
   "file": "Cairo,_madrasa_del_sultano_qalaun,_04.JPG",
@@ -346,7 +346,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:Cairo,_madrasa_del_sultano_qalaun,_04.JPG",
   "page": "https://en.wikipedia.org/wiki/Qalawun_complex",
-  "shared": false
+  "shared": true
  },
  "gem-ramesses-colossus": {
   "file": "Grand_Egyptian_Museum_2019-11-07d.jpg",
@@ -355,7 +355,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2019-11-07d.jpg",
   "page": "https://en.wikipedia.org/wiki/Statue_of_Ramesses_II",
-  "shared": false
+  "shared": true
  },
  "gem-khufu-boat-1": {
   "file": "3840px-GEM_Khufus_Boat_front_2025.jpg",
@@ -364,7 +364,7 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:3840px-GEM_Khufus_Boat_front_2025.jpg",
   "page": "https://en.wikipedia.org/wiki/Khufu_ship",
-  "shared": false
+  "shared": true
  },
  "gem-tut-gallery": {
   "file": "Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
@@ -373,15 +373,978 @@
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
   "page": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
-  "shared": false
+  "shared": true
  },
  "gem-tut-coffins": {
+  "file": "CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tutankhamun",
+  "shared": true
+ },
+ "gem-tut-canopic": {
+  "file": "Canopic_jars_(casts),_Egypt,_945-712_BC_-_National_Museum_of_Natural_History,_United_States_-_DSC00557.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Canopic_jars_(casts),_Egypt,_945-712_BC_-_National_Museum_of_Natural_History,_United_States_-_DSC00557.jpg",
+  "page": "https://en.wikipedia.org/wiki/Canopic_jar",
+  "shared": true
+ },
+ "gem-tut-guardian-statues": {
   "file": "Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
   "artist": "",
   "license": "",
   "credit": "Wikimedia Commons",
   "source": "https://commons.wikimedia.org/wiki/File:Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
   "page": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
+  "shared": true
+ },
+ "gem-tut-anubis-shrine": {
+  "file": "Tutankhamun_jackal.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Tutankhamun_jackal.jpg",
+  "page": "https://en.wikipedia.org/wiki/Anubis_Shrine",
+  "shared": true
+ },
+ "gem-tut-shrines": {
+  "file": "Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
+  "shared": true
+ },
+ "gem-tut-jewellery": {
+  "file": "CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tutankhamun",
+  "shared": true
+ },
+ "mp-narmer-palette": {
+  "file": "Narmer_Palette.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Narmer_Palette.jpg",
+  "page": "https://en.wikipedia.org/wiki/Narmer_Palette",
+  "shared": true
+ },
+ "mp-khafre-statue": {
+  "file": "Kairo_Museum_Sitzstatue_Chephren_06.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Kairo_Museum_Sitzstatue_Chephren_06.jpg",
+  "page": "https://en.wikipedia.org/wiki/Khafre_Enthroned",
+  "shared": true
+ },
+ "mp-khufu-statuette": {
+  "file": "Statue_of_Khufu_in_the_Cairo_Egyptian_Museum.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Khufu_in_the_Cairo_Egyptian_Museum.jpg",
+  "page": "https://en.wikipedia.org/wiki/Khufu_Statuette",
+  "shared": true
+ },
+ "mp-rahotep-nofret": {
+  "file": "Rahotep_statue.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Rahotep_statue.jpg",
+  "page": "https://en.wikipedia.org/wiki/Prince_Rahotep",
+  "shared": true
+ },
+ "mp-akhenaten-colossi": {
+  "file": "GD-EG-Caire-Musée061.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-Musée061.JPG",
+  "page": "https://en.wikipedia.org/wiki/Colossal_Statues_of_Akhenaten_at_East_Karnak",
+  "shared": true
+ },
+ "mp-amenhotep3-tiye": {
+  "file": "Colossal_Amenhotep_III_statue.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Colossal_Amenhotep_III_statue.jpg",
+  "page": "https://en.wikipedia.org/wiki/Colossal_statue_of_Amenhotep_III_and_Tiye",
+  "shared": true
+ },
+ "mp-psusennes-gold": {
+  "file": "Psusennes_I's_Funerary_Mask_in_2012_(cropped).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Psusennes_I's_Funerary_Mask_in_2012_(cropped).jpg",
+  "page": "https://en.wikipedia.org/wiki/Psusennes_I",
+  "shared": true
+ },
+ "giza-overview": {
+  "file": "3840px-Pyramids_of_the_Giza_Necropolis.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Pyramids_of_the_Giza_Necropolis.jpg",
+  "page": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+  "shared": true
+ },
+ "giza-great-pyramid": {
+  "file": "Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+  "page": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+  "shared": true
+ },
+ "giza-great-pyramid-interior": {
+  "file": "Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+  "page": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+  "shared": true
+ },
+ "giza-khafre-pyramid": {
+  "file": "Pyramid_of_Khafre_and_Sphinx,_Giza,_Greater_Cairo,_Egypt.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre_and_Sphinx,_Giza,_Greater_Cairo,_Egypt.jpg",
+  "page": "https://en.wikipedia.org/wiki/Pyramid_of_Khafre",
+  "shared": true
+ },
+ "giza-khafre-valley-temple": {
+  "file": "Pyramid_of_Khafre_and_Sphinx,_Giza,_Greater_Cairo,_Egypt.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre_and_Sphinx,_Giza,_Greater_Cairo,_Egypt.jpg",
+  "page": "https://en.wikipedia.org/wiki/Pyramid_of_Khafre",
+  "shared": true
+ },
+ "giza-menkaure-pyramid": {
+  "file": "Cairo,_Gizeh,_Pyramid_of_Menkaure,_Egypt,_Oct_2005.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Cairo,_Gizeh,_Pyramid_of_Menkaure,_Egypt,_Oct_2005.jpg",
+  "page": "https://en.wikipedia.org/wiki/Pyramid_of_Menkaure",
+  "shared": true
+ },
+ "giza-sphinx": {
+  "file": "3840px-Sphinx_with_the_third_pyramid.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Sphinx_with_the_third_pyramid.jpg",
+  "page": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+  "shared": true
+ },
+ "giza-workers": {
+  "file": "3840px-Pyramids_of_the_Giza_Necropolis.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Pyramids_of_the_Giza_Necropolis.jpg",
+  "page": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+  "shared": true
+ },
+ "giza-how-built": {
+  "file": "3840px-Pyramids_of_the_Giza_Necropolis.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Pyramids_of_the_Giza_Necropolis.jpg",
+  "page": "https://en.wikipedia.org/wiki/Construction_of_the_Egyptian_pyramids",
+  "shared": true
+ },
+ "le-overview": {
+  "file": "LuxorHotelsIbnWalidSt.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:LuxorHotelsIbnWalidSt.jpg",
+  "page": "https://en.wikipedia.org/wiki/Luxor",
+  "shared": true
+ },
+ "le-lt-overview": {
+  "file": "3840px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Temple",
+  "shared": true
+ },
+ "le-lt-sphinx-avenue": {
+  "file": "3840px-1300_Sphinxen_säumten_ursprünglich_die_Allee._07.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-1300_Sphinxen_säumten_ursprünglich_die_Allee._07.jpg",
+  "page": "https://en.wikipedia.org/wiki/Avenue_of_Sphinxes",
+  "shared": true
+ },
+ "le-lt-pylon-obelisk": {
+  "file": "Paris,_Obelisk_in_the_Place_de_la_Concorde,_July_22,_2008.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Paris,_Obelisk_in_the_Place_de_la_Concorde,_July_22,_2008.jpg",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Obelisks",
+  "shared": true
+ },
+ "le-lt-abu-haggag": {
+  "file": "3840px-Abu_el-Haggag_R02.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Abu_el-Haggag_R02.jpg",
+  "page": "https://en.wikipedia.org/wiki/Abu_Haggag_Mosque",
+  "shared": true
+ },
+ "le-lt-colonnade-opet": {
+  "file": "Luxor_temple_2.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor_temple_2.JPG",
+  "page": "https://en.wikipedia.org/wiki/Opet_Festival",
+  "shared": true
+ },
+ "le-lt-roman-chapel": {
+  "file": "3840px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Temple",
+  "shared": true
+ },
+ "bg-hieroglyphs": {
+  "file": "Hieroglyphs_from_the_tomb_of_Seti_I.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Hieroglyphs_from_the_tomb_of_Seti_I.jpg",
+  "page": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
+  "shared": false
+ },
+ "bg-cartouche": {
+  "file": "Birth_and_Throne_cartouches_of_pharaoh_Seti_I,_from_KV17_at_the_Valley_of_the_Kings,_Egypt._Neues_Museum.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Birth_and_Throne_cartouches_of_pharaoh_Seti_I,_from_KV17_at_the_Valley_of_the_Kings,_Egypt._Neues_Museum.jpg",
+  "page": "https://en.wikipedia.org/wiki/Cartouche",
+  "shared": false
+ },
+ "bg-tutankhamun": {
+  "file": "CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tutankhamun",
+  "shared": false
+ },
+ "bg-art-conventions": {
+  "file": "CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "page": "https://en.wikipedia.org/wiki/Art_of_ancient_Egypt",
+  "shared": true
+ },
+ "gem-tut-mask": {
+  "file": "CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+  "page": "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun",
+  "shared": true
+ },
+ "le-lt-alexander-shrine": {
+  "file": "3840px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-1550_bis_1070_v._Chr._ca._wurde_der_Tempel_von_Luxor_erbaut._01.jpg",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Temple",
+  "shared": true
+ },
+ "le-k-overview": {
+  "file": "Temple_de_Louxor_68.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+  "page": "https://en.wikipedia.org/wiki/Karnak",
+  "shared": false
+ },
+ "le-k-avenue-rams": {
+  "file": "Temple_de_Louxor_68.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+  "page": "https://en.wikipedia.org/wiki/Karnak",
+  "shared": true
+ },
+ "le-k-first-pylon-court": {
+  "file": "Temple_de_Louxor_68.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+  "page": "https://en.wikipedia.org/wiki/Karnak",
+  "shared": true
+ },
+ "le-k-hypostyle": {
+  "file": "Temple_de_Louxor_68.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+  "page": "https://en.wikipedia.org/wiki/Great_Hypostyle_Hall",
+  "shared": true
+ },
+ "le-k-obelisks": {
+  "file": "Temple_de_Louxor_68.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+  "page": "https://en.wikipedia.org/wiki/Karnak",
+  "shared": true
+ },
+ "le-k-scarab": {
+  "file": "Temple_de_Louxor_68.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+  "page": "https://en.wikipedia.org/wiki/Karnak",
+  "shared": true
+ },
+ "le-k-khonsu-temple": {
+  "file": "Karnak_Khonsou_080501.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Karnak_Khonsou_080501.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Khonsu",
+  "shared": false
+ },
+ "le-k-ptah-temple-sekhmet": {
+  "file": "Karnak_Ptah_07.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Karnak_Ptah_07.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Ptah_(Karnak)",
+  "shared": false
+ },
+ "le-k-open-air-museum": {
+  "file": "White_Chapel.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:White_Chapel.jpg",
+  "page": "https://en.wikipedia.org/wiki/Karnak_Open_Air_Museum",
+  "shared": false
+ },
+ "le-k-white-chapel": {
+  "file": "White_Chapel.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:White_Chapel.jpg",
+  "page": "https://en.wikipedia.org/wiki/White_Chapel",
+  "shared": true
+ },
+ "le-k-red-chapel": {
+  "file": "Red_chapel_of_Hatshepsut_at_karnak_83d40m_egyptarchiveUKkarnak62.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Red_chapel_of_Hatshepsut_at_karnak_83d40m_egyptarchiveUKkarnak62.JPG",
+  "page": "https://en.wikipedia.org/wiki/Chapelle_Rouge",
+  "shared": false
+ },
+ "le-lm-overview": {
+  "file": "Luxor_Museum_1.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_1.JPG",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Museum",
+  "shared": false
+ },
+ "le-lm-amenhotep3-sobek": {
+  "file": "Luxor_Museum_1.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_1.JPG",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Museum",
+  "shared": true
+ },
+ "le-lm-thutmose3": {
+  "file": "Luxor_Museum_1.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_1.JPG",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Museum",
+  "shared": true
+ },
+ "le-lm-cachette-hall": {
+  "file": "Luxor_Museum_1.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_1.JPG",
+  "page": "https://en.wikipedia.org/wiki/Luxor_Museum",
+  "shared": true
+ },
+ "le-lm-talatat-wall": {
+  "file": "3840px-Ancient_Egypt_Limestone_Bas-Relief_(27803705353).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Ancient_Egypt_Limestone_Bas-Relief_(27803705353).jpg",
+  "page": "https://en.wikipedia.org/wiki/Talatat",
+  "shared": false
+ },
+ "le-opet-festival": {
+  "file": "Luxor_temple_2.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor_temple_2.JPG",
+  "page": "https://en.wikipedia.org/wiki/Opet_Festival",
+  "shared": true
+ },
+ "lw-overview": {
+  "file": "SFEC_AEH_-ThebesNecropolis-2010-FULL-Overview-039.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:SFEC_AEH_-ThebesNecropolis-2010-FULL-Overview-039.jpg",
+  "page": "https://en.wikipedia.org/wiki/Theban_Necropolis",
+  "shared": false
+ },
+ "lw-vok-overview": {
+  "file": "Luxor,_Tal_der_Könige_(1995,_860x605).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor,_Tal_der_Könige_(1995,_860x605).jpg",
+  "page": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+  "shared": false
+ },
+ "lw-kv62": {
+  "file": "Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
+  "shared": true
+ },
+ "lw-kv9": {
+  "file": "3840px-Tumba_de_Ramsés_V_y_de_Ramsés_VI,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_54.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Tumba_de_Ramsés_V_y_de_Ramsés_VI,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_54.jpg",
+  "page": "https://en.wikipedia.org/wiki/KV9",
+  "shared": false
+ },
+ "lw-kv17": {
+  "file": "KV17,_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty,_Valley_of_the_Kings,_Egypt_(49846343021).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:KV17,_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty,_Valley_of_the_Kings,_Egypt_(49846343021).jpg",
+  "page": "https://en.wikipedia.org/wiki/Tomb_of_Seti_I",
+  "shared": false
+ },
+ "lw-deir-el-bahari-overview": {
+  "file": "Tempel_der_Hatschepsut_(Deir_el-Bahari).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Tempel_der_Hatschepsut_(Deir_el-Bahari).jpg",
+  "page": "https://en.wikipedia.org/wiki/Deir_el-Bahari",
+  "shared": false
+ },
+ "lw-hatshepsut-temple": {
+  "file": "3840px-Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg",
+  "page": "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+  "shared": false
+ },
+ "lw-hatshepsut-punt": {
+  "file": "3840px-Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg",
+  "page": "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+  "shared": true
+ },
+ "lw-hatshepsut-divine-birth": {
+  "file": "3840px-Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg",
+  "page": "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+  "shared": true
+ },
+ "lw-db320-royal-cache": {
+  "file": "TT320.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:TT320.jpg",
+  "page": "https://en.wikipedia.org/wiki/Royal_Cache",
+  "shared": false
+ },
+ "lw-deir-el-medina": {
+  "file": "3840px-Deir_el-Medina,_Luxor,_Egipto,_2022-04-03,_DD_18.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Deir_el-Medina,_Luxor,_Egipto,_2022-04-03,_DD_18.jpg",
+  "page": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+  "shared": false
+ },
+ "lw-tt1-sennedjem": {
+  "file": "Deir_el-Medina-08-Grab_1-Sennedjem-18.-20.Dyn-1982-gje.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Deir_el-Medina-08-Grab_1-Sennedjem-18.-20.Dyn-1982-gje.jpg",
+  "page": "https://en.wikipedia.org/wiki/TT1",
+  "shared": false
+ },
+ "lw-dem-strike-ostraca": {
+  "file": "3840px-Deir_el-Medina,_Luxor,_Egipto,_2022-04-03,_DD_18.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Deir_el-Medina,_Luxor,_Egipto,_2022-04-03,_DD_18.jpg",
+  "page": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+  "shared": true
+ },
+ "lw-voq-overview": {
+  "file": "Valley_of_the_Queens_by_Zureks.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Valley_of_the_Queens_by_Zureks.jpg",
+  "page": "https://en.wikipedia.org/wiki/Valley_of_the_Queens",
+  "shared": false
+ },
+ "lw-qv66": {
+  "file": "Queen_Nefertari_Playing_Senet_MET_DT11770.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Queen_Nefertari_Playing_Senet_MET_DT11770.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tomb_of_Nefertari",
+  "shared": false
+ },
+ "lw-colossi-memnon": {
+  "file": "3840px-Colossi_of_Memnon_May_2015_2.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Colossi_of_Memnon_May_2015_2.JPG",
+  "page": "https://en.wikipedia.org/wiki/Colossi_of_Memnon",
+  "shared": false
+ },
+ "lw-medinet-habu-overview": {
+  "file": "3840px-Templo_funerario_de_Ramsés_III,_Luxor,_Egipto,_2022-04-03,_DD_22.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Templo_funerario_de_Ramsés_III,_Luxor,_Egipto,_2022-04-03,_DD_22.jpg",
+  "page": "https://en.wikipedia.org/wiki/Medinet_Habu",
+  "shared": false
+ },
+ "lw-mh-sea-peoples": {
+  "file": "3840px-Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg",
+  "page": "https://en.wikipedia.org/wiki/Sea_Peoples",
+  "shared": false
+ },
+ "lw-mh-courts": {
+  "file": "3840px-Templo_funerario_de_Ramsés_III,_Luxor,_Egipto,_2022-04-03,_DD_22.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Templo_funerario_de_Ramsés_III,_Luxor,_Egipto,_2022-04-03,_DD_22.jpg",
+  "page": "https://en.wikipedia.org/wiki/Medinet_Habu",
+  "shared": true
+ },
+ "lw-mh-harem-conspiracy": {
+  "file": "Weihrauchopfer_RamsesIII_aus_KV11.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Weihrauchopfer_RamsesIII_aus_KV11.jpg",
+  "page": "https://en.wikipedia.org/wiki/Harem_conspiracy",
+  "shared": false
+ },
+ "nr-overview": {
+  "file": "Philae_Temple_R03.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Philae_Temple_R03.jpg",
+  "page": "https://en.wikipedia.org/wiki/Egyptian_temple",
+  "shared": true
+ },
+ "nr-ptolemaic-temple-101": {
+  "file": "Philae_Temple_R03.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Philae_Temple_R03.jpg",
+  "page": "https://en.wikipedia.org/wiki/Egyptian_temple",
+  "shared": true
+ },
+ "nr-kom-ombo-overview": {
+  "file": "3840px-Kom_Ombo_Portal_04.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Kom_Ombo_Portal_04.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
+  "shared": false
+ },
+ "nr-kom-ombo-surgical": {
+  "file": "3840px-Kom_Ombo_Portal_04.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Kom_Ombo_Portal_04.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
+  "shared": true
+ },
+ "nr-edfu-overview": {
+  "file": "Temple_Edfou_Egypte.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_Edfou_Egypte.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+  "shared": false
+ },
+ "nr-edfu-pylon-court": {
+  "file": "Temple_Edfou_Egypte.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_Edfou_Egypte.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+  "shared": true
+ },
+ "nr-edfu-hypostyle-sanctuary": {
+  "file": "Temple_Edfou_Egypte.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_Edfou_Egypte.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+  "shared": true
+ },
+ "nr-edfu-horus-seth-drama": {
+  "file": "Temple_Edfou_Egypte.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_Edfou_Egypte.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+  "shared": true
+ },
+ "nr-esna-overview": {
+  "file": "Egypt.Esna.Temple.01.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Egypt.Esna.Temple.01.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Esna",
+  "shared": false
+ },
+ "nr-esna-ceiling": {
+  "file": "Egypt.Esna.Temple.01.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Egypt.Esna.Temple.01.jpg",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Esna",
+  "shared": true
+ },
+ "siwa-overview": {
+  "file": "يوم_جديد.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:يوم_جديد.jpg",
+  "page": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+  "shared": false
+ },
+ "siwa-great-sand-sea": {
+  "file": "3840px-SiwaSandDunes.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-SiwaSandDunes.jpg",
+  "page": "https://en.wikipedia.org/wiki/Great_Sand_Sea",
+  "shared": false
+ },
+ "siwa-lost-army": {
+  "file": "Cambyses_II-lost-army.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Cambyses_II-lost-army.jpg",
+  "page": "https://en.wikipedia.org/wiki/Lost_Army_of_Cambyses",
+  "shared": false
+ },
+ "siwa-oracle-temple": {
+  "file": "يوم_جديد.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:يوم_جديد.jpg",
+  "page": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+  "shared": true
+ },
+ "siwa-alexander": {
+  "file": "Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg",
+  "page": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+  "shared": false
+ },
+ "siwa-gebel-mawta": {
+  "file": "يوم_جديد.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:يوم_جديد.jpg",
+  "page": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+  "shared": true
+ },
+ "siwa-tomb-si-amun": {
+  "file": "يوم_جديد.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:يوم_جديد.jpg",
+  "page": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+  "shared": true
+ },
+ "siwa-shali": {
+  "file": "يوم_جديد.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:يوم_جديد.jpg",
+  "page": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+  "shared": true
+ },
+ "siwa-siwi-culture": {
+  "file": "يوم_جديد.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:يوم_جديد.jpg",
+  "page": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+  "shared": true
+ },
+ "abs-marriage-stela": {
+  "file": "Karnak_Ägyptisch-Hethitischer_Friedensvertrag_06.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Karnak_Ägyptisch-Hethitischer_Friedensvertrag_06.jpg",
+  "page": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty",
+  "shared": false
+ },
+ "abs-lake-nasser": {
+  "file": "Lake_Nasser_Vista.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Lake_Nasser_Vista.jpg",
+  "page": "https://en.wikipedia.org/wiki/Lake_Nasser",
+  "shared": false
+ },
+ "abs-ramesses-nubia": {
+  "file": "3840px-Rulers_of_Kush,_Kerma_Museum.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Rulers_of_Kush,_Kerma_Museum.jpg",
+  "page": "https://en.wikipedia.org/wiki/Nubia",
+  "shared": true
+ },
+ "asw-botanical-garden": {
+  "file": "3840px-Aswan_Botanical_Garden_09.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Aswan_Botanical_Garden_09.jpg",
+  "page": "https://en.wikipedia.org/wiki/El_Nabatat_Island",
+  "shared": false
+ },
+ "asw-elephantine": {
+  "file": "Aswan,_Elephantine,_west_bank,_Egypt,_Oct_2004.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Aswan,_Elephantine,_west_bank,_Egypt,_Oct_2004.jpg",
+  "page": "https://en.wikipedia.org/wiki/Elephantine",
+  "shared": false
+ },
+ "asw-nilometer": {
+  "file": "Cairo_Nilometer_2.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Cairo_Nilometer_2.jpg",
+  "page": "https://en.wikipedia.org/wiki/Nilometer",
+  "shared": false
+ },
+ "asw-philae-christian-closing": {
+  "file": "3840px-1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_höher_gelegene_Insel_Agilka_versetzt._01.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_höher_gelegene_Insel_Agilka_versetzt._01.jpg",
+  "page": "https://en.wikipedia.org/wiki/Philae_temple_complex",
+  "shared": true
+ },
+ "asw-philae-relocation": {
+  "file": "Philae,_seen_from_the_water,_Aswan,_Egypt,_Oct_2004.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Philae,_seen_from_the_water,_Aswan,_Egypt,_Oct_2004.jpg",
+  "page": "https://en.wikipedia.org/wiki/Agilkia_Island",
+  "shared": false
+ },
+ "asw-nm-new-kingdom": {
+  "file": "3840px-Rulers_of_Kush,_Kerma_Museum.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Rulers_of_Kush,_Kerma_Museum.jpg",
+  "page": "https://en.wikipedia.org/wiki/Nubia",
+  "shared": true
+ },
+ "asw-nm-meroe": {
+  "file": "NubianMeroePyramids30sep2005(2).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:NubianMeroePyramids30sep2005(2).jpg",
+  "page": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+  "shared": false
+ },
+ "asw-nm-ethnography": {
+  "file": "3840px-Nubians_at_Aswan.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Nubians_at_Aswan.jpg",
+  "page": "https://en.wikipedia.org/wiki/Nubians",
+  "shared": false
+ },
+ "asw-granite-quarries": {
+  "file": "Panoramic_view_of_Aswan,_Egypt.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Aswan,_Egypt.jpg",
+  "page": "https://en.wikipedia.org/wiki/Aswan",
+  "shared": true
+ },
+ "asw-qubbet-el-hawa": {
+  "file": "3840px-Assuan_12.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Assuan_12.jpg",
+  "page": "https://en.wikipedia.org/wiki/Qubbet_el-Hawa",
+  "shared": false
+ },
+ "asw-harkhuf": {
+  "file": "Flickr_-_schmuela_-_IMG_6385.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_schmuela_-_IMG_6385.jpg",
+  "page": "https://en.wikipedia.org/wiki/Autobiography_of_Harkhuf",
+  "shared": false
+ },
+ "asw-aga-khan": {
+  "file": "Assuan_Mausoleum_Aga_Khan_III._08.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Assuan_Mausoleum_Aga_Khan_III._08.JPG",
+  "page": "https://en.wikipedia.org/wiki/Mausoleum_of_Aga_Khan",
+  "shared": false
+ },
+ "asw-high-dam": {
+  "file": "BarragemAssuão.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:BarragemAssuão.jpg",
+  "page": "https://en.wikipedia.org/wiki/Aswan_High_Dam",
+  "shared": false
+ },
+ "asw-souq-nubian-village": {
+  "file": "Panoramic_view_of_Aswan,_Egypt.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Aswan,_Egypt.jpg",
+  "page": "https://en.wikipedia.org/wiki/Aswan",
   "shared": true
  }
 }
