@@ -329,5 +329,59 @@
   "source": "https://commons.wikimedia.org/wiki/File:خان_الخليلي_1.jpg",
   "page": "https://en.wikipedia.org/wiki/Khan_el-Khalili",
   "shared": false
+ },
+ "isl-muizz-street": {
+  "file": "Cairo,_madrasa_del_sultano_qalaun,_02.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Cairo,_madrasa_del_sultano_qalaun,_02.JPG",
+  "page": "https://en.wikipedia.org/wiki/Al-Mu'izz_Street",
+  "shared": false
+ },
+ "isl-qalawun": {
+  "file": "Cairo,_madrasa_del_sultano_qalaun,_04.JPG",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Cairo,_madrasa_del_sultano_qalaun,_04.JPG",
+  "page": "https://en.wikipedia.org/wiki/Qalawun_complex",
+  "shared": false
+ },
+ "gem-ramesses-colossus": {
+  "file": "Grand_Egyptian_Museum_2019-11-07d.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2019-11-07d.jpg",
+  "page": "https://en.wikipedia.org/wiki/Statue_of_Ramesses_II",
+  "shared": false
+ },
+ "gem-khufu-boat-1": {
+  "file": "3840px-GEM_Khufus_Boat_front_2025.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-GEM_Khufus_Boat_front_2025.jpg",
+  "page": "https://en.wikipedia.org/wiki/Khufu_ship",
+  "shared": false
+ },
+ "gem-tut-gallery": {
+  "file": "Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
+  "shared": false
+ },
+ "gem-tut-coffins": {
+  "file": "Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Inside_Pharaoh_Tutankhamun's_tomb,_18th_dynasty.jpg",
+  "page": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
+  "shared": true
  }
 }

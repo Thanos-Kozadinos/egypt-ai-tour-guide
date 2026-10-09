@@ -45,7 +45,10 @@ def get(url, pace, **kw):
         if r.status_code == 404:
             return None
         if r.status_code in (429, 503):
-            wait = min(float(r.headers.get("Retry-After", 0) or 0) or 10, 60)
+            ra = float(r.headers.get("Retry-After", 0) or 0)
+            if "wikimedia.org" in url and "rest_v1" not in url and (ra > 45 or attempt >= 1):
+                return r  # image host throttled: let the caller try a smaller, cached size
+            wait = min(ra or 10, 45)
             print(f"      {r.status_code} on {url.split('/')[2]}, waiting {wait:.0f}s", flush=True)
             time.sleep(wait)
             continue
@@ -71,24 +74,29 @@ def summary(title, pace):
     return s
 
 
-def thumb_candidates(original_url):
-    """original: .../wikipedia/commons/a/ab/Name.jpg -> thumb .../commons/thumb/a/ab/Name.jpg/1000px-Name.jpg"""
-    u = original_url.split("?")[0]
-    m = re.match(r"^(https://upload\.wikimedia\.org/wikipedia/[^/]+)/([0-9a-f])/([0-9a-f]{2})/(.+)$", u)
+def thumb_candidates(summary_json):
+    """Build thumbnail URLs from the summary's own thumbnail URL (thumb.wikimedia.org), largest first.
+    Sizes above the original width are skipped (the thumbnailer answers 400 for those)."""
+    th = (summary_json.get("thumbnail") or {}).get("source", "").split("?")[0]
+    orig = summary_json.get("originalimage") or {}
+    width = orig.get("width") or 10000
     out = []
-    if m:
-        base, h1, h2, name = m.groups()
-        ext = name.rsplit(".", 1)[-1].lower()
-        suffix = ".png" if ext in ("svg", "tif", "tiff", "webp", "gif") else ""
-        for w in (1000, 800):
-            out.append(f"{base}/thumb/{h1}/{h2}/{name}/{w}px-{name}{suffix}")
-    out.append(u)
+    if th and re.search(r"/\d+px-", th):
+        for w in (1000, 800, 660, 440):
+            if w < width:
+                out.append(re.sub(r"/\d+px-", f"/{w}px-", th, count=1))
+        out.append(th)  # the size the API itself serves (always cached)
+    src = orig.get("source", "").split("?")[0]
+    if src:
+        out.append(src)
     return out
 
 
 def save_image(url, out_path, pace):
     r = get(url, pace)
     if r is None or r.status_code != 200 or not r.headers.get("Content-Type", "").startswith("image/"):
+        return False
+    if len(r.content) < 3000:
         return False
     im = Image.open(io.BytesIO(r.content)).convert("RGB")
     im.thumbnail((IMG_MAX, IMG_MAX))
@@ -144,7 +152,7 @@ def main():
             fname = urllib.parse.unquote(src.split("?")[0].rsplit("/", 1)[-1])
             if BAD.search(fname):
                 continue
-            for cand in thumb_candidates(src):
+            for cand in thumb_candidates(s):
                 try:
                     if save_image(cand, out, args.pace):
                         got = True
