@@ -1,5 +1,5 @@
 /* Egypt Guide service worker. VERSION is rewritten by tools/build.py on every build. */
-const VERSION = '20261009-1623';
+const VERSION = '20261009-1631';
 const SHELL = 'egypt-shell-' + VERSION;
 const MEDIA = 'egypt-media-v1';
 const SHELL_FILES = [
