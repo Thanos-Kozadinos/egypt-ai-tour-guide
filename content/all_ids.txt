@@ -1,0 +1,340 @@
+abs-overview	abu-simbel	Abu Simbel: the temples Ramesses carved into a mountain
+abs-great-temple-facade	abu-simbel	Facade of the Great Temple: the four colossi
+abs-marriage-stela	abu-simbel	The Hittite marriage stela and the peace treaty
+abs-great-temple-hall	abu-simbel	The Great Hypostyle Hall: Osiride pillars and the Battle of Kadesh
+abs-sanctuary-sun	abu-simbel	The sanctuary and the sun alignment (22 Feb and 22 Oct)
+abs-small-temple	abu-simbel	The Small Temple of Hathor and Nefertari
+abs-relocation	abu-simbel	The rescue: cutting a mountain into 1,036 blocks
+abs-lake-nasser	abu-simbel	Lake Nasser and drowned Nubia
+abs-ramesses-nubia	abu-simbel	Why here? Ramesses and the gold of Nubia
+asw-overview	aswan	Aswan: Egypt's southern gate
+asw-felucca-first-cataract	aswan	Felucca on the Nile and the First Cataract
+asw-botanical-garden	aswan	Kitchener's Island: the Aswan Botanical Garden
+asw-elephantine	aswan	Elephantine Island: the ancient town
+asw-khnum-temple-elephantine	aswan	Temple of Khnum and the shrine of Heqaib on Elephantine
+asw-nilometer	aswan	The Nilometers of Elephantine
+asw-aswan-museum	aswan	The Aswan Museum on Elephantine
+asw-elephantine-papyri	aswan	The Elephantine papyri: a Jewish garrison and its temple
+asw-philae-overview	aswan	Philae: the Temple of Isis on Agilkia
+asw-philae-kiosk-nectanebo-colonnades	aswan	Kiosk of Nectanebo and the colonnades
+asw-philae-first-pylon	aswan	The first pylon and the mammisi (birth house)
+asw-philae-hypostyle-sanctuary	aswan	Second pylon, hypostyle hall and the sanctuary of Isis
+asw-philae-hadrian-gate-last-hieroglyphs	aswan	Gate of Hadrian and the last hieroglyphic inscription (394 AD)
+asw-philae-trajan-kiosk	aswan	Trajan's Kiosk, 'the Pharaoh's Bed'
+asw-philae-hathor-temple	aswan	Temple of Hathor with the musicians and Bes
+asw-philae-christian-closing	aswan	From Isis to Christ: the closing of Philae
+asw-philae-relocation	aswan	Moving Philae: coffer dam and 40,000 blocks
+asw-nubian-museum	aswan	The Nubian Museum: how to see it
+asw-nubia-history	aswan	Nubia in ten minutes: Egypt's rival and twin
+asw-nm-prehistory-agroup	aswan	Prehistory and the A-Group: Nubia before Egypt
+asw-nm-cgroup-kerma	aswan	C-Group, Pan-Grave and the Kingdom of Kerma
+asw-nm-new-kingdom	aswan	New Kingdom Nubia: the viceroys and the temples
+asw-nm-kush-25th	aswan	The Black Pharaohs: Napata and the 25th Dynasty
+asw-nm-meroe	aswan	Meroe: iron, queens and an unread script
+asw-nm-christian-islamic	aswan	Christian and Islamic Nubia
+asw-nm-ethnography	aswan	Nubian life: houses, jewellery, music and the lost villages
+asw-unfinished-obelisk	aswan	The Unfinished Obelisk
+asw-granite-quarries	aswan	The granite quarries: Aswan stone all over Egypt
+asw-qubbet-el-hawa	aswan	Qubbet el-Hawa: Tombs of the Nobles
+asw-harkhuf	aswan	Harkhuf and the dancing pygmy letter
+asw-aga-khan	aswan	Mausoleum of the Aga Khan
+asw-st-simeon	aswan	Monastery of St Simeon (Anba Hatre)
+asw-high-dam	aswan	The Aswan High Dam and the old British dam
+asw-kalabsha	aswan	Kalabsha, Beit el-Wali and the Kiosk of Qertassi (near the dam)
+asw-old-cataract-agatha	aswan	The Old Cataract Hotel and Agatha Christie
+asw-souq-nubian-village	aswan	Aswan souq and the Nubian village of Gharb Soheil
+bg-timeline	basics	Ancient Egypt in ten minutes: the timeline you need
+bg-old-kingdom	basics	The Old Kingdom: the age of the pyramids
+bg-middle-kingdom	basics	The Middle Kingdom: the classical age
+bg-new-kingdom	basics	The New Kingdom: empire and gold
+bg-third-intermediate-late	basics	After the glory: priest-kings, Libyans, Kushites, Persians
+bg-ptolemaic-roman	basics	Greeks and Romans as pharaohs
+bg-gods-overview	basics	The gods: a family tree in five minutes
+bg-osiris-myth	basics	The Osiris myth: murder, resurrection and the first mummy
+bg-amun	basics	Amun, the hidden one who became king of the gods
+bg-ra	basics	Ra and the sun's daily journey
+bg-osiris	basics	Osiris: king of the dead
+bg-isis	basics	Isis: great of magic
+bg-horus-set	basics	Horus and Seth: order against chaos
+bg-anubis-thoth	basics	Anubis and Thoth: the embalmer and the scribe
+bg-hathor	basics	Hathor: love, music, drunkenness and the cow
+bg-ptah-sekhmet	basics	Ptah and Sekhmet: the craftsman and the lioness
+bg-khnum-sobek-local	basics	Local gods you'll meet: Khnum, Sobek, Min, Montu, Satet, Anuket
+bg-maat-nut-geb	basics	Ma'at, Nut and Geb: truth, sky and earth
+bg-bes-taweret	basics	Bes and Taweret: the household protectors
+bg-aten-amarna	basics	The Aten and the Amarna revolution
+bg-hieroglyphs	basics	Hieroglyphs in ten minutes: how the writing works
+bg-cartouche	basics	Reading a cartouche: spot Ramesses, Tut, Hatshepsut and friends
+bg-symbols	basics	Ankh, djed, was, shen, sema-tawy: the symbols on every wall
+bg-eye-of-horus-scarab	basics	The Eye of Horus and the scarab
+bg-crowns-regalia	basics	Crowns and regalia: how to tell which Egypt a king rules
+bg-temple-101	basics	How an Egyptian temple works: the house of the god
+bg-tomb-101	basics	How a royal tomb works: the books on the walls
+bg-book-of-the-dead	basics	The Book of the Dead and the weighing of the heart
+bg-mummification	basics	Mummification: why and how
+bg-objects-canopic-ushabti	basics	Canopic jars, shabtis, false doors and other things in tombs
+bg-khufu-khafre-menkaure	basics	Khufu, Khafre and Menkaure: the three Giza kings
+bg-hatshepsut	basics	Hatshepsut: the woman who was king
+bg-thutmose3-amenhotep3	basics	Thutmose III and Amenhotep III: the conqueror and the sun king
+bg-akhenaten-nefertiti	basics	Akhenaten and Nefertiti
+bg-tutankhamun	basics	Tutankhamun: the boy king, the facts behind the gold
+bg-seti-ramesses2	basics	Seti I and Ramesses II: the Ramesside peak
+bg-ramesses3-sea-peoples	basics	Ramesses III and the end of the Bronze Age
+bg-nubian-pharaohs	basics	Piye and Taharqa: when Nubia ruled Egypt
+bg-alexander-ptolemies-cleopatra	basics	Alexander, the Ptolemies and Cleopatra
+bg-queens-and-gods-wives	basics	Queens and God's Wives: women with power
+bg-champollion-rosetta	basics	Champollion and the Rosetta Stone
+bg-belzoni-mariette	basics	Belzoni, Mariette and the age of plunder and rescue
+bg-carter-carnarvon-curse	basics	Carter, Carnarvon and the curse
+bg-nile-inundation-calendar	basics	The Nile flood, the three seasons and the calendar
+bg-festivals	basics	Festivals: Opet, the Beautiful Festival of the Valley, Sed
+bg-daily-life	basics	Daily life: bread, beer, linen, make-up and medicine
+bg-art-conventions	basics	Why they drew like that: the rules of Egyptian art
+bg-baksheesh-etiquette	basics	Baksheesh, touts and temple etiquette
+bg-greek-egypt-links	basics	Greece and Egypt: Herodotus, Alexandria and the Greek layer
+isl-overview	cairo-islamic	Islamic Cairo in one day: how the city grew
+isl-dynasties	cairo-islamic	Fatimids, Ayyubids, Mamluks, Ottomans: a 5-minute cheat sheet
+isl-khan-el-khalili	cairo-islamic	Khan el-Khalili
+isl-fishawi	cairo-islamic	El Fishawi café and Naguib Mahfouz
+isl-al-azhar	cairo-islamic	Al-Azhar Mosque and University
+isl-al-hussein	cairo-islamic	Al-Hussein Mosque
+isl-muizz-street	cairo-islamic	Al-Muizz Street: the Fatimid spine
+isl-bab-al-futuh	cairo-islamic	Bab al-Futuh and Bab al-Nasr, the Fatimid gates
+isl-al-hakim	cairo-islamic	Mosque of al-Hakim
+isl-bayt-al-suhaymi	cairo-islamic	Bayt al-Suhaymi: a Cairene merchant's house
+isl-sabil-katkhuda	cairo-islamic	Sabil-Kuttab of Abd al-Rahman Katkhuda
+isl-al-aqmar	cairo-islamic	Al-Aqmar Mosque: the 'moonlit' façade
+isl-qalawun	cairo-islamic	Complex of Sultan Qalawun: mausoleum, madrasa and hospital
+isl-nasir-muhammad-madrasa	cairo-islamic	Madrasa of al-Nasir Muhammad (with the Gothic portal)
+isl-barquq	cairo-islamic	Madrasa-Khanqah of Sultan Barquq
+isl-al-ghuri	cairo-islamic	Al-Ghuri complex and Wikala: the last Mamluk sultan
+isl-muayyad	cairo-islamic	Mosque of Sultan al-Mu'ayyad and Bab Zuwayla
+isl-sultan-hassan	cairo-islamic	Mosque-Madrasa of Sultan Hassan
+isl-al-rifai	cairo-islamic	Al-Rifa'i Mosque: royal tombs and the Shah of Iran
+isl-citadel	cairo-islamic	The Citadel of Saladin
+isl-muhammad-ali-mosque	cairo-islamic	Mosque of Muhammad Ali (the Alabaster Mosque)
+isl-nasir-mosque-citadel	cairo-islamic	Mosque of al-Nasir Muhammad on the Citadel
+isl-gawhara-palace	cairo-islamic	Gawhara Palace and the Mamluk massacre site
+isl-joseph-well	cairo-islamic	Joseph's Well (Bir Yusuf)
+isl-military-museum	cairo-islamic	The Egyptian Military Museum (Harim Palace)
+isl-abdeen	cairo-islamic	Abdeen Palace
+isl-ibn-tulun	cairo-islamic	Mosque of Ibn Tulun (if you have time)
+isl-mashrabiya-muqarnas	cairo-islamic	How to read a Mamluk building: ablaq, muqarnas, mashrabiya
+gem-overview	gem	Grand Egyptian Museum: how to tackle it
+gem-ramesses-colossus	gem	Colossus of Ramesses II in the atrium
+gem-hanging-obelisk	gem	The Hanging Obelisk of Ramesses II
+gem-grand-staircase	gem	The Grand Staircase
+gem-pyramid-window	gem	The pyramid window at the top of the stairs
+gem-khufu-boat-1	gem	Khufu's first solar boat
+gem-khufu-boat-2	gem	Khufu's second boat
+gem-tut-gallery	gem	Tutankhamun Galleries: the whole treasure, first time together
+gem-tut-mask	gem	Gold Mask of Tutankhamun
+gem-tut-coffins	gem	Tutankhamun's three nested coffins
+gem-tut-throne	gem	Tutankhamun's Golden Throne
+gem-tut-canopic	gem	Canopic shrine, chest and jars
+gem-tut-guardian-statues	gem	The two guardian (ka) statues
+gem-tut-chariots	gem	Tutankhamun's chariots
+gem-tut-beds	gem	The three ritual funerary beds
+gem-tut-painted-box	gem	The Painted Box (hunting and battle scenes)
+gem-tut-anubis-shrine	gem	The Anubis Shrine
+gem-tut-shrines	gem	The four gilded shrines
+gem-tut-dagger	gem	The meteoric iron dagger
+gem-tut-trumpets	gem	Tutankhamun's trumpets
+gem-tut-senet	gem	Senet boards and games
+gem-tut-sandals	gem	Sandals, shoes and the 'enemy underfoot'
+gem-tut-mannequin	gem	The wooden 'mannequin' bust
+gem-tut-wishing-cup	gem	The alabaster 'Wishing Cup'
+gem-tut-lotus-head	gem	Head of Tutankhamun as Nefertem on the lotus
+gem-tut-jewellery	gem	Pectorals, collars and the desert-glass scarab
+gem-tut-ushabtis	gem	The 413 shabtis
+gem-tut-statuettes	gem	Gilded statuettes: the king on a panther, harpooning, and the gods
+gem-tut-fans	gem	Ostrich-feather fans and walking sticks
+gem-tut-little-golden-shrine	gem	The Little Golden Shrine
+gem-tut-linen-clothes	gem	The king's wardrobe: tunics, gloves, loincloths
+gem-tut-mummy-and-tomb	gem	What stayed in the tomb: the mummy, the sarcophagus, the paintings
+mp-narmer-palette	gem	Narmer Palette
+mp-khafre-statue	gem	Khafre Enthroned (diorite statue with Horus)
+mp-menkaure-triads	gem	The Menkaure triads
+mp-khufu-statuette	gem	The tiny ivory statuette of Khufu
+mp-rahotep-nofret	gem	Rahotep and Nofret
+mp-meidum-geese	gem	The Meidum Geese
+mp-kaaper	gem	Ka-aper, the 'Sheikh el-Balad'
+mp-seneb	gem	Seneb the dwarf and his family
+mp-hetepheres	gem	Queen Hetepheres' furniture
+mp-hesy-ra	gem	The wooden panels of Hesy-Ra
+mp-djoser-statue	gem	The seated statue of Djoser
+mp-mentuhotep-statue	gem	Black seated statue of Mentuhotep II
+mp-akhenaten-colossi	gem	The colossi of Akhenaten from Karnak
+mp-amenhotep3-tiye	gem	Colossal pair of Amenhotep III and Queen Tiye
+mp-yuya-tjuyu	gem	Yuya and Tjuyu: Tutankhamun's great-grandparents
+mp-merneptah-stele	gem	The Merneptah Stele (the 'Israel Stele')
+mp-psusennes-gold	gem	The gold of Tanis: mask and silver coffin of Psusennes I
+mp-ahhotep-jewellery	gem	Queen Ahhotep's jewellery and the golden flies
+mp-fayum-portraits	gem	Fayum mummy portraits
+mp-royal-mummies-note	gem	Where are the royal mummies? (NMEC, not here)
+giza-overview	giza	Giza Plateau: what you are walking on
+giza-great-pyramid	giza	The Great Pyramid of Khufu
+giza-great-pyramid-interior	giza	Inside the Great Pyramid: Grand Gallery and King's Chamber
+giza-khufu-queens-pyramids	giza	Khufu's queens' pyramids and the Eastern Cemetery
+giza-meresankh-tomb	giza	Tomb of Queen Meresankh III
+giza-western-cemetery	giza	The Western Cemetery: city of the officials
+giza-hemiunu	giza	Hemiunu, the man who built the Great Pyramid
+giza-seshemnefer-iv	giza	Tomb of Seshemnefer IV (near the Sphinx)
+giza-khafre-pyramid	giza	Pyramid of Khafre
+giza-khafre-valley-temple	giza	Valley Temple of Khafre
+giza-khafre-mortuary-temple	giza	Khafre's mortuary temple and causeway
+giza-menkaure-pyramid	giza	Pyramid of Menkaure
+giza-menkaure-queens	giza	Menkaure's three queens' pyramids
+giza-sphinx	giza	The Great Sphinx
+giza-dream-stele	giza	The Dream Stele of Thutmose IV
+giza-sphinx-temple	giza	The Sphinx Temple
+giza-khentkawes	giza	Tomb of Khentkawes I, the 'fourth pyramid'
+giza-workers	giza	The pyramid builders: workers' town and cemetery
+giza-how-built	giza	How the pyramids were built
+giza-diary-of-merer	giza	The Diary of Merer: a Khufu foreman's logbook
+giza-boat-pits	giza	The boat pits around the Great Pyramid
+giza-panorama	giza	The panorama viewpoint
+giza-pyramid-texts-why	giza	Why a pyramid? What it meant
+le-overview	luxor-east	Luxor East Bank: Thebes, the hundred-gated city
+le-lt-overview	luxor-east	Luxor Temple: the temple of the royal ka
+le-lt-sphinx-avenue	luxor-east	The Avenue of Sphinxes (Kebash Road)
+le-lt-pylon-obelisk	luxor-east	Pylon of Ramesses II, the colossi and the lonely obelisk
+le-lt-abu-haggag	luxor-east	The mosque of Abu el-Haggag, standing on the temple
+le-lt-ramesses-court	luxor-east	Court of Ramesses II and the triple shrine
+le-lt-colonnade-opet	luxor-east	The Colonnade of Amenhotep III and the Opet Festival reliefs
+le-lt-amenhotep-court	luxor-east	The sun court of Amenhotep III and the Luxor cachette
+le-lt-roman-chapel	luxor-east	The Roman chapel: emperors painted over pharaohs
+le-lt-alexander-shrine	luxor-east	Alexander the Great's barque shrine and the birth room
+le-k-overview	luxor-east	Karnak: the biggest religious complex ever built
+le-k-avenue-rams	luxor-east	The avenue of ram-headed sphinxes and the quay
+le-k-first-pylon-court	luxor-east	The first pylon, the Great Court and the kiosk of Taharqa
+le-k-ramesses3-temple	luxor-east	Temple of Ramesses III in the Great Court
+le-k-second-pylon-pinedjem	luxor-east	The second pylon and the colossus of Pinedjem
+le-k-hypostyle	luxor-east	The Great Hypostyle Hall
+le-k-kadesh-exterior	luxor-east	The battle walls outside the Hypostyle: Seti in Canaan, Ramesses at Kadesh
+le-k-obelisks	luxor-east	The obelisks of Thutmose I and Hatshepsut
+le-k-fallen-obelisk	luxor-east	The fallen top of Hatshepsut's second obelisk by the lake
+le-k-middle-kingdom-court	luxor-east	The Middle Kingdom court and the hidden heart of Karnak
+le-k-akhmenu	luxor-east	The Festival Hall of Thutmose III (Akh-menu) and the Botanical Garden
+le-k-sacred-lake	luxor-east	The Sacred Lake
+le-k-scarab	luxor-east	The giant scarab of Amenhotep III: seven times round for luck
+le-k-khonsu-temple	luxor-east	Temple of Khonsu: a complete New Kingdom temple
+le-k-opet-temple	luxor-east	Temple of Opet, where Osiris was reborn
+le-k-ptah-temple-sekhmet	luxor-east	Temple of Ptah and the Sekhmet statue in the dark
+le-k-osiris-heqadjet	luxor-east	Chapel of Osiris Heqadjet and the Osiris chapels
+le-k-open-air-museum	luxor-east	The Open Air Museum: reassembled chapels from inside the pylons
+le-k-white-chapel	luxor-east	The White Chapel of Senusret I
+le-k-red-chapel	luxor-east	The Red Chapel of Hatshepsut
+le-k-cachette-court	luxor-east	The Cachette Court: 17,000 bronzes under the floor
+le-k-mut-precinct	luxor-east	The Precinct of Mut and the Sekhmet statues
+le-k-montu-precinct	luxor-east	The Precinct of Montu (optional)
+le-lm-overview	luxor-east	Luxor Museum: small, dark and perfect
+le-lm-amenhotep3-sobek	luxor-east	Sobek and Amenhotep III: the calcite pair
+le-lm-thutmose3	luxor-east	Thutmose III in greywacke
+le-lm-cachette-hall	luxor-east	The Luxor cachette hall: Amenhotep III on his sledge
+le-lm-talatat-wall	luxor-east	The Akhenaten talatat wall and the Amarna heads
+le-lm-tut-cow-head	luxor-east	Tutankhamun's cow head of Mehet-Weret and the KV62 objects
+le-lm-royal-mummies	luxor-east	Two royal mummies: Ahmose I and Ramesses I
+le-lm-amenhotep-son-of-hapu	luxor-east	Amenhotep son of Hapu, the scribe who became a god
+le-lm-senusret3-and-middle-kingdom	luxor-east	Senusret III and the Middle Kingdom faces
+le-mm-overview	luxor-east	Mummification Museum
+le-mm-masaharta	luxor-east	Masaharta: the high priest in his coffin
+le-mm-animals	luxor-east	Mummified animals: cat, crocodile, ram, fish, ibis
+le-mm-tools-process	luxor-east	The embalmer's kit: natron, hooks, resins and amulets
+le-papyrus-real	luxor-east	How to tell real papyrus from banana leaf (and what to pay)
+le-opet-festival	luxor-east	The Opet Festival: Amun's annual journey to Luxor
+lw-overview	luxor-west	The Theban West Bank: city of the dead
+lw-vok-overview	luxor-west	Valley of the Kings: how to choose your tombs
+lw-kv62	luxor-west	KV62: Tomb of Tutankhamun
+lw-kv9	luxor-west	KV9: Ramesses V and VI, the astronomical ceiling
+lw-kv17	luxor-west	KV17: Tomb of Seti I, Belzoni's tomb
+lw-kv11	luxor-west	KV11: Ramesses III, the Harpers' Tomb
+lw-kv2	luxor-west	KV2: Ramesses IV
+lw-kv6	luxor-west	KV6: Ramesses IX
+lw-kv8	luxor-west	KV8: Merenptah
+lw-kv14	luxor-west	KV14: Tausert and Setnakht, a tomb with two owners
+lw-kv15	luxor-west	KV15: Seti II
+lw-kv16	luxor-west	KV16: Ramesses I, small and brilliant
+lw-kv34	luxor-west	KV34: Thutmose III, the cliff tomb with cartoon figures
+lw-kv35	luxor-west	KV35: Amenhotep II and the second royal cache
+lw-kv43	luxor-west	KV43: Thutmose IV and Carter's first royal tomb
+lw-kv47	luxor-west	KV47: Siptah, the boy king with the club foot
+lw-kv57	luxor-west	KV57: Horemheb, the unfinished masterpiece
+lw-kv5	luxor-west	KV5: the sons of Ramesses II (not open, worth knowing)
+lw-kv55	luxor-west	KV55: the Amarna cache and the mystery mummy
+lw-kv1	luxor-west	KV1: Ramesses VII
+lw-kv7	luxor-west	KV7: Ramesses II's own tomb, ruined by floods
+lw-deir-el-bahari-overview	luxor-west	Deir el-Bahari: the bay of temples
+lw-hatshepsut-temple	luxor-west	Mortuary Temple of Hatshepsut (Djeser-Djeseru)
+lw-hatshepsut-punt	luxor-west	The Punt reliefs: an expedition to the land of incense
+lw-hatshepsut-divine-birth	luxor-west	The Divine Birth colonnade: how a woman became king
+lw-hatshepsut-chapels	luxor-west	Chapels of Hathor and Anubis, and the upper terrace
+lw-senenmut	luxor-west	Senenmut: the queen's architect, and more?
+lw-mentuhotep-temple	luxor-west	Temple of Mentuhotep II: the original
+lw-db320-royal-cache	luxor-west	DB320: the royal cache and the Abd el-Rassul family
+lw-deir-el-medina	luxor-west	Deir el-Medina: the village of the tomb builders
+lw-tt1-sennedjem	luxor-west	TT1: Tomb of Sennedjem
+lw-tt3-pashedu	luxor-west	TT3: Tomb of Pashedu
+lw-tt359-inherkhau	luxor-west	TT359: Tomb of Inherkhau
+lw-dem-hathor-temple	luxor-west	The Ptolemaic temple of Hathor and the Great Pit
+lw-dem-strike-ostraca	luxor-west	The first strike in history and the ostraca of daily life
+lw-voq-overview	luxor-west	Valley of the Queens
+lw-qv66	luxor-west	QV66: Tomb of Nefertari, the Sistine Chapel of Egypt
+lw-qv55	luxor-west	QV55: Amunherkhepshef, a prince of nine
+lw-qv44	luxor-west	QV44: Khaemwaset, another son of Ramesses III
+lw-qv52	luxor-west	QV52: Queen Titi
+lw-colossi-memnon	luxor-west	The Colossi of Memnon
+lw-kom-el-hettan	luxor-west	Kom el-Hettan: the lost temple behind the Colossi
+lw-medinet-habu-overview	luxor-west	Medinet Habu: the mortuary temple of Ramesses III
+lw-mh-migdol-gate	luxor-west	The Migdol gate and the harem rooms
+lw-mh-sea-peoples	luxor-west	The Sea Peoples reliefs on the first pylon and north wall
+lw-mh-courts	luxor-west	The first and second courts: Osiride pillars and the Christian church
+lw-mh-harem-conspiracy	luxor-west	The murder of Ramesses III: the harem conspiracy
+lw-mh-small-temple	luxor-west	The small temple of Amun: the oldest and holiest part
+lw-ramesseum	luxor-west	The Ramesseum and the fallen colossus of Ozymandias
+lw-tombs-of-nobles	luxor-west	Tombs of the Nobles at Sheikh Abd el-Qurna
+lw-tt100-rekhmire	luxor-west	TT100: Rekhmire, the vizier's instruction manual
+lw-tt96-sennefer	luxor-west	TT96: Sennefer, the Tomb of the Vines
+lw-tt55-ramose	luxor-west	TT55: Ramose, the tomb that changed style mid-way
+lw-tt52-nakht-tt69-menna	luxor-west	TT52 Nakht and TT69 Menna: harvest and banquet
+lw-carter-house	luxor-west	Howard Carter's house and the replica tomb
+lw-seti-i-qurna	luxor-west	Temple of Seti I at Qurna
+lw-qurn-and-meretseger	luxor-west	The Qurn and Meretseger, 'She Who Loves Silence'
+nr-overview	nile-road	The road from Aswan to Luxor: three Ptolemaic temples in a day
+nr-ptolemaic-temple-101	nile-road	How a Ptolemaic temple works: a walk from light to dark
+nr-kom-ombo-overview	nile-road	Temple of Kom Ombo: one temple, two gods
+nr-kom-ombo-surgical	nile-road	The surgical instruments relief
+nr-kom-ombo-calendar	nile-road	The festival calendar relief
+nr-kom-ombo-sanctuaries	nile-road	The twin sanctuaries, the crypts and the Nilometer
+nr-crocodile-museum	nile-road	The Crocodile Museum
+nr-sobek	nile-road	Sobek: the crocodile who made the Nile
+nr-edfu-overview	nile-road	Temple of Horus at Edfu: the best-preserved temple in Egypt
+nr-edfu-pylon-court	nile-road	The pylon, the falcon statues and the court
+nr-edfu-hypostyle-sanctuary	nile-road	Hypostyle halls, the library, the laboratory and the sanctuary
+nr-edfu-horus-seth-drama	nile-road	The Triumph of Horus: the sacred drama on the west wall
+nr-edfu-mammisi-festivals	nile-road	The mammisi and the Feast of the Beautiful Meeting
+nr-horus	nile-road	Horus: the falcon, the king and the eye
+nr-esna-overview	nile-road	Temple of Khnum at Esna: the hall under the town
+nr-esna-ceiling	nile-road	The restored ceiling: zodiac, vultures and 2,000 years of soot removed
+nr-esna-hymns	nile-road	Khnum's crossword hymns: a text written only in crocodiles
+nr-khnum	nile-road	Khnum: the potter who shaped people
+siwa-overview	siwa	Siwa Oasis: an island of Berbers in the Egyptian desert
+siwa-marsa-matruh	siwa	Marsa Matruh and the road to Siwa
+siwa-rommel	siwa	Rommel, Montgomery and the desert war around here
+siwa-great-sand-sea	siwa	The Great Sand Sea
+siwa-bir-wahed	siwa	Bir Wahed: hot and cold springs in the dunes
+siwa-desert-glass	siwa	Libyan desert glass: the meteorite in Tutankhamun's pectoral
+siwa-lost-army	siwa	The lost army of Cambyses
+siwa-oracle-temple	siwa	Temple of the Oracle of Amun at Aghurmi
+siwa-alexander	siwa	Alexander the Great at the Oracle, 331 BC
+siwa-umm-ubayda	siwa	Temple of Umm Ubayda (Amun's second temple)
+siwa-gebel-mawta	siwa	Gebel al-Mawta, the Mountain of the Dead
+siwa-tomb-si-amun	siwa	Tomb of Si-Amun
+siwa-tomb-mesu-isis	siwa	Tombs of Mesu-Isis, Niperpathot and the Crocodile
+siwa-shali	siwa	Shali Fortress: the melted mud city
+siwa-cleopatra-spring	siwa	Cleopatra's Spring (Ain Guba, Spring of Juba)
+siwa-dakrur	siwa	Dakrur Mountain: sand baths and the Siyaha festival
+siwa-fatnas	siwa	Fatnas Island: sunset over the salt lake
+siwa-salt-lakes	siwa	Siwa's salt lakes and the floating pools
+siwa-siwi-culture	siwa	Siwi people, the Siwa House and the market
+siwa-qattara	siwa	The Qattara Depression and why Siwa is below sea level

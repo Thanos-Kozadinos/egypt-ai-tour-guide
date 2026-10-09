@@ -1,0 +1,503 @@
+[
+{
+"id": "isl-overview",
+"name": "Islamic Cairo in one day: how the city grew",
+"site": "cairo-islamic",
+"area": "Background",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Islamic Cairo"
+],
+"aliases": [
+"Islamic Cairo",
+"Historic Cairo",
+"old Cairo",
+"medieval Cairo"
+],
+"note": "Orientation: Fustat (641), al-Qata'i (Ibn Tulun 870), Fatimid al-Qahira (969, walled city between Bab al-Futuh and Bab Zuwayla), Saladin's Citadel (1176), Mamluk golden age (1250-1517), Ottoman, Muhammad Ali. UNESCO site. The route: Khan el-Khalili, al-Muizz, then Sultan Hassan, Citadel, Abdeen."
+},
+{
+"id": "isl-dynasties",
+"name": "Fatimids, Ayyubids, Mamluks, Ottomans: a 5-minute cheat sheet",
+"site": "cairo-islamic",
+"area": "Background",
+"type": "background",
+"priority": 1,
+"wiki": [
+"History of Cairo",
+"Mamluk Sultanate"
+],
+"aliases": [
+"Mamluks",
+"Fatimids",
+"Ayyubids",
+"who built what",
+"dynasties"
+],
+"note": "Fatimids: Shia caliphs from Tunisia, founded al-Qahira 'the Victorious' 969, al-Azhar. Ayyubids: Saladin (Kurdish), Sunni restoration, Citadel. Mamluks: slave-soldiers who became sultans, defeated Mongols at Ain Jalut 1260, built most of what you see (Qalawun, al-Nasir, Hassan, Barquq, Qaytbay, al-Ghuri). Ottomans 1517. Muhammad Ali 1805 and his dynasty to Farouk 1952. How to tell styles apart: striped ablaq, muqarnas, stone domes with carved patterns."
+},
+{
+"id": "isl-khan-el-khalili",
+"name": "Khan el-Khalili",
+"site": "cairo-islamic",
+"area": "Khan el-Khalili & al-Azhar",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Khan el-Khalili"
+],
+"aliases": [
+"Khan",
+"bazaar",
+"souq",
+"market"
+],
+"note": "Built 1382 by emir Jaharkas al-Khalili over the Fatimid caliphs' tombs (he threw out the bones); rebuilt by Sultan al-Ghuri c. 1511 (the surviving gates); the lanes by trade (goldsmiths, coppersmiths, spices, perfume); al-Fishawi café (since 1773) and Naguib Mahfouz; bargaining culture; the Muski street; what is real vs made in China."
+},
+{
+"id": "isl-fishawi",
+"name": "El Fishawi café and Naguib Mahfouz",
+"site": "cairo-islamic",
+"area": "Khan el-Khalili & al-Azhar",
+"type": "site",
+"priority": 3,
+"wiki": [
+"El Fishawi",
+"Naguib Mahfouz"
+],
+"commons": "El Fishawi cafe Cairo mirrors",
+"aliases": [
+"Fishawi",
+"Fishawy",
+"café of mirrors",
+"Mahfouz café"
+],
+"note": "Short. Open 24h since 1773, mirrors and brass; Nobel laureate Mahfouz wrote there; mint tea, sahlab, shisha; expect tissue sellers and oud players; the Mahfouz novels set in these alleys (Midaq Alley, Cairo Trilogy)."
+},
+{
+"id": "isl-al-azhar",
+"name": "Al-Azhar Mosque and University",
+"site": "cairo-islamic",
+"area": "Khan el-Khalili & al-Azhar",
+"type": "mosque",
+"priority": 1,
+"wiki": [
+"Al-Azhar Mosque"
+],
+"aliases": [
+"Azhar",
+"oldest university"
+],
+"note": "Founded 970-972 by the Fatimids as a Shia foundation, became the chief Sunni university after Saladin; five minarets from different centuries (Qaytbay's double-finial, al-Ghuri's); the Fatimid courtyard; students from all over the Muslim world; dress and shoe etiquette; Sheikh al-Azhar's role today."
+},
+{
+"id": "isl-al-hussein",
+"name": "Al-Hussein Mosque",
+"site": "cairo-islamic",
+"area": "Khan el-Khalili & al-Azhar",
+"type": "mosque",
+"priority": 2,
+"wiki": [
+"Al-Hussein Mosque"
+],
+"aliases": [
+"Hussein mosque",
+"Sayyidna al-Hussein"
+],
+"note": "Said to hold the head of Hussein, the Prophet's grandson, brought from Ascalon in 1153; Cairo's most beloved shrine, the mawlid crowds; the 1870s Ottoman-Gothic rebuild; non-Muslims may not be admitted inside the shrine; the square's cafés."
+},
+{
+"id": "isl-muizz-street",
+"name": "Al-Muizz Street: the Fatimid spine",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Al-Mu'izz Street"
+],
+"aliases": [
+"Muizz",
+"al-Moez",
+"Moez street",
+"Bayn al-Qasrayn"
+],
+"note": "1 km from Bab al-Futuh to Bab Zuwayla along the Fatimid Qasaba, 'the greatest concentration of medieval monuments in the Islamic world'; Bayn al-Qasrayn 'between the two palaces' where the Fatimid palaces stood; restored 2008, pedestrian; order of monuments walking south; Mahfouz's Palace Walk; lit at night."
+},
+{
+"id": "isl-bab-al-futuh",
+"name": "Bab al-Futuh and Bab al-Nasr, the Fatimid gates",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Bab al-Futuh",
+"Bab al-Nasr (Cairo)"
+],
+"aliases": [
+"Bab al-Futuh",
+"Bab al-Nasr",
+"city gates",
+"northern walls"
+],
+"note": "Built 1087 by Armenian vizier Badr al-Jamali with three architects from Edessa; Byzantine-style military architecture, rounded (Futuh) vs square (Nasr) towers, machicolations; Napoleon's troops carved their names (Tour Julien); the wall walk between them; the Northern Cemetery beyond."
+},
+{
+"id": "isl-al-hakim",
+"name": "Mosque of al-Hakim",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "mosque",
+"priority": 2,
+"wiki": [
+"Al-Hakim Mosque"
+],
+"aliases": [
+"al-Hakim",
+"Hakim mosque",
+"mad caliph"
+],
+"note": "Begun 990, finished 1013 by the 'mad caliph' al-Hakim bi-Amr Allah who banned molokheya and women's shoes, vanished on the Muqattam in 1021 (Druze await his return); the odd minaret bastions; used as a prison for Crusaders, Napoleon's fort, a boys' school; rebuilt in marble by the Bohra Ismailis 1980."
+},
+{
+"id": "isl-bayt-al-suhaymi",
+"name": "Bayt al-Suhaymi: a Cairene merchant's house",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "house",
+"priority": 2,
+"wiki": [
+"Bayt Al-Suhaymi"
+],
+"aliases": [
+"Suhaymi house",
+"Ottoman house",
+"mashrabiya house"
+],
+"note": "1648 + 1796, Darb al-Asfar; the salamlik/haramlik split, mashrabiya screens (see out, not in, cool the air, jars of water), the courtyard garden, the bath, the marble fountains in the qa'a; how wealthy Ottoman Cairo lived; Mahfouz's Palace Walk house."
+},
+{
+"id": "isl-sabil-katkhuda",
+"name": "Sabil-Kuttab of Abd al-Rahman Katkhuda",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Sabil-Kuttab of Katkhuda"
+],
+"aliases": [
+"sabil",
+"Katkhuda",
+"fountain school"
+],
+"note": "1744, where the street forks: a sabil (public fountain, charity water from a cistern) below and a kuttab (Quran school for orphans) above; Iznik-style tiles inside; the type is Cairo's signature charity building; Katkhuda the great Ottoman patron."
+},
+{
+"id": "isl-al-aqmar",
+"name": "Al-Aqmar Mosque: the 'moonlit' façade",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "mosque",
+"priority": 2,
+"wiki": [
+"Al-Aqmar Mosque"
+],
+"aliases": [
+"Aqmar",
+"moonlit mosque",
+"small Fatimid mosque"
+],
+"note": "1125, first Cairo mosque with a decorated stone street façade aligned to the street while the interior turns to Mecca; the shell niche with 'Muhammad' and 'Ali' medallion (Shia Fatimid); the 'bent' plan; tiny and easy to miss."
+},
+{
+"id": "isl-qalawun",
+"name": "Complex of Sultan Qalawun: mausoleum, madrasa and hospital",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Qalawun complex"
+],
+"aliases": [
+"Qalawun",
+"Qalawun mausoleum",
+"maristan",
+"Bimaristan"
+],
+"note": "1284-85, built in 13 months with Crusader columns from Acre; the mausoleum is the most lavish Mamluk interior in Cairo (marble, mother-of-pearl, stucco, the dome's inner octagon echoing the Dome of the Rock); the bimaristan hospital treated all free with music therapy and separate wards, operated 600 years; the madrasa; Qalawun founder of a dynasty."
+},
+{
+"id": "isl-nasir-muhammad-madrasa",
+"name": "Madrasa of al-Nasir Muhammad (with the Gothic portal)",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Madrasa of Al-Nasir Muhammad"
+],
+"aliases": [
+"al-Nasir madrasa",
+"Gothic doorway",
+"Crusader portal"
+],
+"note": "1295-1304; the marble Gothic portal was looted from a Crusader church in Acre (1291) and re-erected here, a trophy; the stucco minaret with North African/Andalusian style; al-Nasir Muhammad's three reigns and Cairo's peak."
+},
+{
+"id": "isl-barquq",
+"name": "Madrasa-Khanqah of Sultan Barquq",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Barquq",
+"Al-Mu'izz Street"
+],
+"aliases": [
+"Barquq",
+"Barquq madrasa",
+"Bayn al-Qasrayn third building"
+],
+"note": "1384-86, first Circassian (Burji) Mamluk sultan; the bronze-plated door, porphyry columns, the painted ceiling of the prayer hall; the Sufi khanqah function; Barquq's daughter buried in the dome, he himself in the Northern Cemetery."
+},
+{
+"id": "isl-al-ghuri",
+"name": "Al-Ghuri complex and Wikala: the last Mamluk sultan",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Al-Ghuri Complex",
+"Wikala of al-Ghuri"
+],
+"aliases": [
+"Ghuri",
+"Ghouri",
+"wikala",
+"tannoura dance",
+"caravanserai"
+],
+"note": "1503-05, mosque-madrasa and mausoleum facing each other across the street (the roof once covered the silk market); Qansuh al-Ghuri died at Marj Dabiq 1516 fighting the Ottomans, body never found; the Wikala al-Ghuri caravanserai (five storeys, merchants below, lodgings above) now hosts the Tannoura Sufi whirling show (Wed/Sat evenings)."
+},
+{
+"id": "isl-muayyad",
+"name": "Mosque of Sultan al-Mu'ayyad and Bab Zuwayla",
+"site": "cairo-islamic",
+"area": "Al-Muizz Street",
+"type": "mosque",
+"priority": 2,
+"wiki": [
+"Mosque of Sultan al-Muayyad",
+"Bab Zuweila"
+],
+"aliases": [
+"Bab Zuwayla",
+"Bab Zuweila",
+"Muayyad",
+"southern gate",
+"gate of executions"
+],
+"note": "The 1092 southern Fatimid gate where heads were displayed and the last Mamluk sultan Tumanbay was hanged by the Ottomans in 1517 (rope broke twice); al-Mu'ayyad Shaykh built his mosque 1415-21 on the site of the prison where he had been held, and put his twin minarets on top of the gate: climb them for the best view of the street; the door was taken from Sultan Hassan's mosque."
+},
+{
+"id": "isl-sultan-hassan",
+"name": "Mosque-Madrasa of Sultan Hassan",
+"site": "cairo-islamic",
+"area": "Sultan Hassan & al-Rifa'i",
+"type": "mosque",
+"priority": 1,
+"wiki": [
+"Mosque-Madrasa of Sultan Hassan"
+],
+"aliases": [
+"Sultan Hassan",
+"Hassan mosque",
+"biggest Mamluk mosque"
+],
+"note": "1356-63, built with Black Death inheritances; 36 m portal, the four iwans for the four Sunni law schools with student cells behind; the cruciform plan, the chains of lamps, the mausoleum behind the qibla (Hassan's body never found, two sons buried there); the minaret that collapsed killing 300; used as a fortress to bombard the Citadel; scale: 150 m long, 8,000 m2."
+},
+{
+"id": "isl-al-rifai",
+"name": "Al-Rifa'i Mosque: royal tombs and the Shah of Iran",
+"site": "cairo-islamic",
+"area": "Sultan Hassan & al-Rifa'i",
+"type": "mosque",
+"priority": 2,
+"wiki": [
+"Al-Rifa'i Mosque"
+],
+"aliases": [
+"Rifai",
+"Refai",
+"royal mosque",
+"Shah's tomb",
+"King Farouk tomb"
+],
+"note": "1869-1912, commissioned by Khedive Ismail's mother Khushyar Hanim to mirror Sultan Hassan across the street; neo-Mamluk; tombs of Khedive Ismail, King Fuad I, King Farouk (died Rome 1965) and the last Shah of Iran Mohammad Reza Pahlavi (1980) whose first wife Fawzia was Farouk's sister; Sufi sheikh al-Rifa'i's shrine."
+},
+{
+"id": "isl-citadel",
+"name": "The Citadel of Saladin",
+"site": "cairo-islamic",
+"area": "Citadel",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Cairo Citadel"
+],
+"aliases": [
+"Citadel",
+"Qalaa",
+"Saladin's citadel",
+"Mokattam castle"
+],
+"note": "Begun 1176 by Saladin with Crusader prisoners and stones from small Giza pyramids; seat of government for 700 years until Khedive Ismail moved to Abdeen 1874; Muhammad Ali's 1811 massacre of the Mamluks at the Bab al-Azab gate (the legend of the one who jumped his horse over the wall); Northern vs Southern enclosures; what to see in 90 minutes; the view over Cairo to the pyramids on a clear day."
+},
+{
+"id": "isl-muhammad-ali-mosque",
+"name": "Mosque of Muhammad Ali (the Alabaster Mosque)",
+"site": "cairo-islamic",
+"area": "Citadel",
+"type": "mosque",
+"priority": 1,
+"wiki": [
+"Muhammad Ali Mosque"
+],
+"aliases": [
+"Alabaster Mosque",
+"Mohamed Ali mosque",
+"big Ottoman mosque on the Citadel"
+],
+"note": "1830-48 by Yusuf Bushnaq, an Istanbul-style Ottoman mosque (like Sultan Ahmed) deliberately un-Mamluk to mark the new dynasty; alabaster cladding from Beni Suef; the clock tower a 1845 gift from Louis-Philippe in exchange for the Luxor obelisk (now in Paris), reportedly never worked; Muhammad Ali's tomb (moved 1857); the chandeliers and the 365 lamps."
+},
+{
+"id": "isl-nasir-mosque-citadel",
+"name": "Mosque of al-Nasir Muhammad on the Citadel",
+"site": "cairo-islamic",
+"area": "Citadel",
+"type": "mosque",
+"priority": 2,
+"wiki": [
+"Mosque of al-Nasir Muhammad"
+],
+"aliases": [
+"al-Nasir mosque",
+"Mamluk mosque Citadel",
+"green tiled minarets"
+],
+"note": "1318-35, the only Mamluk building left on the Citadel, royal mosque of the sultans; reused Pharaonic and Roman columns in the arcades; the two minarets with Persian-style green faience tops (Tabriz craftsmen); the Ottomans used it as a stable; the Selim I Ottoman conquest."
+},
+{
+"id": "isl-gawhara-palace",
+"name": "Gawhara Palace and the Mamluk massacre site",
+"site": "cairo-islamic",
+"area": "Citadel",
+"type": "palace",
+"priority": 3,
+"wiki": [
+"Al-Gawhara Palace"
+],
+"aliases": [
+"Gawhara",
+"Jewel Palace",
+"Bijou palace",
+"Muhammad Ali palace"
+],
+"note": "Short. 1814 palace of Muhammad Ali (named after his last wife Gawhara), French-Ottoman style, where he received envoys; his portrait, the throne; fire in 1972; near the Bab al-Azab where the 470 Mamluk beys were shot in 1811 after a banquet."
+},
+{
+"id": "isl-joseph-well",
+"name": "Joseph's Well (Bir Yusuf)",
+"site": "cairo-islamic",
+"area": "Citadel",
+"type": "monument",
+"priority": 3,
+"wiki": [
+"Cairo Citadel"
+],
+"commons": "Joseph's Well Cairo Citadel spiral",
+"aliases": [
+"Bir Yusuf",
+"Saladin's well",
+"spiral well"
+],
+"note": "Short. 87 m spiral well cut through rock by Crusader prisoners c. 1176 to give the Citadel water in a siege; oxen walked down the ramp to turn the waterwheels; named after Saladin (Yusuf), not the biblical Joseph; usually closed, viewable from above."
+},
+{
+"id": "isl-military-museum",
+"name": "The Egyptian Military Museum (Harim Palace)",
+"site": "cairo-islamic",
+"area": "Citadel",
+"type": "museum",
+"priority": 3,
+"wiki": [
+"Egyptian National Military Museum"
+],
+"aliases": [
+"military museum",
+"Harim Palace",
+"tanks at the Citadel"
+],
+"note": "Short. In Muhammad Ali's Harim Palace (1827); dioramas from Pharaonic armies to 1973; the Korean-made panoramas; mainly for the palace interiors; the tanks outside; skip if short on time."
+},
+{
+"id": "isl-abdeen",
+"name": "Abdeen Palace",
+"site": "cairo-islamic",
+"area": "Abdeen",
+"type": "palace",
+"priority": 2,
+"wiki": [
+"Abdeen Palace"
+],
+"aliases": [
+"Abdeen",
+"Abdin palace",
+"presidential palace",
+"royal palace"
+],
+"note": "Built 1863-74 by Khedive Ismail to move government from the Citadel and make Cairo 'Paris on the Nile'; 500 rooms; the 1942 Abdeen incident when British tanks forced King Farouk to appoint a prime minister; the 1952 revolution; museums open to visitors: arms, royal family, silver, presidential gifts; still a presidential palace: strict security, no photos in parts."
+},
+{
+"id": "isl-ibn-tulun",
+"name": "Mosque of Ibn Tulun (if you have time)",
+"site": "cairo-islamic",
+"area": "Background",
+"type": "mosque",
+"priority": 3,
+"wiki": [
+"Mosque of Ibn Tulun"
+],
+"aliases": [
+"Ibn Tulun",
+"spiral minaret",
+"oldest mosque intact"
+],
+"note": "876-879, Cairo's oldest mosque in original form, Samarra-style brick with the spiral minaret (legend: Ibn Tulun twisted a piece of parchment); 2 km from the Citadel, Gayer-Anderson house next door (Bond's 'The Spy Who Loved Me' scene). Optional detour."
+},
+{
+"id": "isl-mashrabiya-muqarnas",
+"name": "How to read a Mamluk building: ablaq, muqarnas, mashrabiya",
+"site": "cairo-islamic",
+"area": "Background",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Mamluk architecture"
+],
+"aliases": [
+"ablaq",
+"muqarnas",
+"mashrabiya",
+"architecture terms",
+"what is an iwan"
+],
+"note": "Visual glossary: ablaq striped masonry, muqarnas stalactite vaults over portals, mashrabiya turned-wood screens, iwan vaulted hall, qibla/mihrab/minbar, dikka, sabil, kuttab, madrasa, khanqah, wikala, carved stone domes (zigzag, star), the tiraz inscription band; and the Mamluk blazons (cup for cupbearer, pen box for secretary)."
+}
+]

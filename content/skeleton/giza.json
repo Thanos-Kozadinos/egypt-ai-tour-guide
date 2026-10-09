@@ -1,0 +1,408 @@
+[
+{
+"id": "giza-overview",
+"name": "Giza Plateau: what you are walking on",
+"site": "giza",
+"area": "Plateau",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Giza pyramid complex"
+],
+"aliases": [
+"Giza",
+"pyramids",
+"necropolis",
+"plateau"
+],
+"note": "Orientation: three kings (Khufu, Khafre, Menkaure, 4th Dynasty c. 2600-2500 BC), each with pyramid + mortuary temple + causeway + valley temple + queens' pyramids + cemeteries of officials; the Sphinx; the order to walk; tickets (plateau vs interior); the camel/horse hustle; the panorama point."
+},
+{
+"id": "giza-great-pyramid",
+"name": "The Great Pyramid of Khufu",
+"site": "giza",
+"area": "Khufu",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Great Pyramid of Giza"
+],
+"aliases": [
+"Cheops pyramid",
+"Khufu pyramid",
+"Great Pyramid",
+"biggest pyramid"
+],
+"note": "146.6 m original (138.5 today), 2.3 million blocks, 20-27 years, tallest man-made structure for 3,800 years; precision of base and orientation; casing stones; the entrance vs the forced 'robbers' tunnel' of al-Ma'mun (820 AD); the 2017 muon 'Big Void'."
+},
+{
+"id": "giza-great-pyramid-interior",
+"name": "Inside the Great Pyramid: Grand Gallery and King's Chamber",
+"site": "giza",
+"area": "Khufu",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Great Pyramid of Giza"
+],
+"commons": "Grand Gallery Great Pyramid interior",
+"aliases": [
+"inside Khufu",
+"King's Chamber",
+"Grand Gallery",
+"Queen's Chamber",
+"sarcophagus"
+],
+"note": "The climb: descending passage, ascending passage, Grand Gallery (8.6 m high corbelled), King's Chamber with granite sarcophagus too big for the passage, relieving chambers with Khufu's workgang graffiti, 'air shafts', Queen's Chamber and Gantenbrink's 'door'. Practical: heat, stoop, no photos rules may apply."
+},
+{
+"id": "giza-khufu-queens-pyramids",
+"name": "Khufu's queens' pyramids and the Eastern Cemetery",
+"site": "giza",
+"area": "Khufu",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Giza East Field"
+],
+"commons": "Queens pyramids Khufu Giza G1a",
+"aliases": [
+"small pyramids",
+"queens pyramids",
+"G1a G1b G1c",
+"eastern cemetery"
+],
+"note": "Three satellite pyramids east of the Great Pyramid for queens Hetepheres(?), Meritites and Henutsen; the tiny cult pyramid found 1991; the royal family mastabas (Kawab, Meresankh, Khufukhaf); the Hetepheres shaft G7000X."
+},
+{
+"id": "giza-meresankh-tomb",
+"name": "Tomb of Queen Meresankh III",
+"site": "giza",
+"area": "Cemeteries & tombs",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"Meresankh III"
+],
+"commons": "Meresankh III tomb Giza statues rock cut",
+"aliases": [
+"Meresankh",
+"G7530",
+"queen's tomb with statues",
+"colourful tomb"
+],
+"note": "Rock-cut chapel in the Eastern Cemetery with vivid painted reliefs and a row of ten rock-cut female statues; Meresankh granddaughter of Khufu, wife of Khafre, daughter of Hetepheres II; 'bought' by her mother; the black granite sarcophagus. Worth the separate ticket."
+},
+{
+"id": "giza-western-cemetery",
+"name": "The Western Cemetery: city of the officials",
+"site": "giza",
+"area": "Cemeteries & tombs",
+"type": "area",
+"priority": 2,
+"wiki": [
+"Giza West Field"
+],
+"aliases": [
+"western cemetery",
+"mastabas",
+"streets of tombs"
+],
+"note": "Grid of mastabas (Arabic for bench) laid out like a town for Khufu's officials: Hemiunu the architect (G4000), Iymery, Nesutnefer; the Reisner/Junker excavations; what a mastaba contains (chapel, false door, serdab, shaft)."
+},
+{
+"id": "giza-hemiunu",
+"name": "Hemiunu, the man who built the Great Pyramid",
+"site": "giza",
+"area": "Cemeteries & tombs",
+"type": "person",
+"priority": 2,
+"wiki": [
+"Hemiunu"
+],
+"aliases": [
+"Hemiunu",
+"architect of Khufu",
+"vizier"
+],
+"note": "Vizier and 'overseer of all the king's works', nephew of Khufu, huge mastaba G4000 near the Great Pyramid; his fat seated statue (Hildesheim) with the eyes gouged by robbers; what the job involved."
+},
+{
+"id": "giza-seshemnefer-iv",
+"name": "Tomb of Seshemnefer IV (near the Sphinx)",
+"site": "giza",
+"area": "Cemeteries & tombs",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"Mastaba of Seshemnefer"
+],
+"commons": "Seshemnefer IV tomb Giza",
+"aliases": [
+"Seshemnefer",
+"tomb south of causeway"
+],
+"note": "Late 5th/6th Dynasty mastaba south of Khufu's causeway, often open and free: pillared portico, offering scenes, false doors; good to see what an Old Kingdom chapel looks like."
+},
+{
+"id": "giza-khafre-pyramid",
+"name": "Pyramid of Khafre",
+"site": "giza",
+"area": "Khafre",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Pyramid of Khafre"
+],
+"aliases": [
+"Chephren pyramid",
+"second pyramid",
+"pyramid with top cap"
+],
+"note": "136.4 m, looks taller because built on higher ground; the surviving Tura limestone casing at the top; Belzoni's entry in 1818 and his graffito in the burial chamber; two entrances; the granite sarcophagus with a bull's bones."
+},
+{
+"id": "giza-khafre-valley-temple",
+"name": "Valley Temple of Khafre",
+"site": "giza",
+"area": "Khafre",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Pyramid of Khafre"
+],
+"commons": "Valley Temple of Khafre granite pillars",
+"aliases": [
+"valley temple",
+"granite temple",
+"temple next to Sphinx"
+],
+"note": "Best-preserved Old Kingdom temple: monolithic red granite pillars and calcite floor; where Mariette found the diorite Khafre statue in a pit (1860); 23 statue emplacements; purification/embalming theories; the causeway up to the pyramid."
+},
+{
+"id": "giza-khafre-mortuary-temple",
+"name": "Khafre's mortuary temple and causeway",
+"site": "giza",
+"area": "Khafre",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Pyramid of Khafre"
+],
+"commons": "Khafre mortuary temple Giza ruins",
+"aliases": [
+"mortuary temple",
+"causeway"
+],
+"note": "Ruined but shows the standard plan (entrance hall, court, statue niches, storerooms, sanctuary); the 494 m causeway; the first appearance of the 'five statue niches'. Short."
+},
+{
+"id": "giza-menkaure-pyramid",
+"name": "Pyramid of Menkaure",
+"site": "giza",
+"area": "Menkaure",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Pyramid of Menkaure"
+],
+"aliases": [
+"Mycerinus pyramid",
+"third pyramid",
+"smallest pyramid",
+"pyramid with gash"
+],
+"note": "65 m, granite casing on the lower 16 courses, unfinished dressing; the vertical gash from Saladin's son al-Aziz Uthman's demolition attempt in 1196 (gave up after 8 months); Vyse found the basalt sarcophagus (lost at sea 1838); the Menkaure triads and dyad from the valley temple."
+},
+{
+"id": "giza-menkaure-queens",
+"name": "Menkaure's three queens' pyramids",
+"site": "giza",
+"area": "Menkaure",
+"type": "monument",
+"priority": 3,
+"wiki": [
+"Pyramid of Menkaure"
+],
+"commons": "Menkaure queens pyramids Giza",
+"aliases": [
+"three small pyramids",
+"G3a G3b G3c"
+],
+"note": "Short. One true pyramid and two step pyramids; Khamerernebty II; good photo spot with the three big ones behind."
+},
+{
+"id": "giza-sphinx",
+"name": "The Great Sphinx",
+"site": "giza",
+"area": "Sphinx",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Great Sphinx of Giza"
+],
+"aliases": [
+"Sphinx",
+"Abu el-Hol",
+"lion with a head"
+],
+"note": "73 m long, carved from a limestone knoll left by quarrying; whose face (Khafre vs Khufu/Djedefre debate); the missing nose (not Napoleon: Sa'im al-Dahr 1378 or earlier), the beard fragments (BM/Cairo); 'Horemakhet'; sand burials and restorations; erosion and the water-erosion fringe theory; Thutmose IV's Dream Stele between the paws."
+},
+{
+"id": "giza-dream-stele",
+"name": "The Dream Stele of Thutmose IV",
+"site": "giza",
+"area": "Sphinx",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Dream Stele"
+],
+"aliases": [
+"dream stela",
+"stele between paws"
+],
+"note": "Granite stela between the paws: the prince fell asleep in the Sphinx's shadow, it promised him the throne if he cleared the sand; political propaganda for a younger son; made from a reused door lintel of Khafre's temple."
+},
+{
+"id": "giza-sphinx-temple",
+"name": "The Sphinx Temple",
+"site": "giza",
+"area": "Sphinx",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Great Sphinx of Giza"
+],
+"aliases": [
+"temple in front of Sphinx"
+],
+"note": "Short. Old Kingdom temple directly in front of the Sphinx, built from blocks quarried from around the Sphinx itself; 24 pillars (hours of the day?), two sanctuaries east and west for sunrise and sunset; never finished, no inscriptions."
+},
+{
+"id": "giza-khentkawes",
+"name": "Tomb of Khentkawes I, the 'fourth pyramid'",
+"site": "giza",
+"area": "Cemeteries & tombs",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"Pyramid of Khentkaus I"
+],
+"aliases": [
+"Khentkawes",
+"fourth pyramid",
+"queen's mastaba tower"
+],
+"note": "Short. Huge two-stepped tomb on a rock outcrop near Menkaure's valley temple; 'mother of two kings of Upper and Lower Egypt'; her town of priests' houses alongside; bridge from the 4th to the 5th Dynasty."
+},
+{
+"id": "giza-workers",
+"name": "The pyramid builders: workers' town and cemetery",
+"site": "giza",
+"area": "How it was built",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Giza pyramid complex"
+],
+"commons": "Giza workers cemetery tombs pyramid builders",
+"aliases": [
+"who built the pyramids",
+"slaves",
+"workers village",
+"Heit el-Ghurab",
+"Lost City"
+],
+"note": "Not slaves: Mark Lehner's Heit el-Ghurab 'Lost City' with bakeries, breweries, barracks, cattle bones (meat for workers); Zahi Hawass's workers' cemetery with healed fractures and titles; the rotating crews (phyles) named like 'Friends of Khufu'; beer and bread rations."
+},
+{
+"id": "giza-how-built",
+"name": "How the pyramids were built",
+"site": "giza",
+"area": "How it was built",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Egyptian pyramid construction techniques"
+],
+"aliases": [
+"how were they built",
+"ramps",
+"aliens",
+"construction"
+],
+"note": "Quarrying with copper tools and dolerite pounders; Tura limestone casing across the river, Aswan granite 900 km by boat; ramps (straight, spiral, internal: Houdin); sledges on wet sand (2014 study); levelling with water; the Hatnub ramp with post-holes (2018); the Diary of Merer; no, not aliens: the evidence of quarry marks and graffiti."
+},
+{
+"id": "giza-diary-of-merer",
+"name": "The Diary of Merer: a Khufu foreman's logbook",
+"site": "giza",
+"area": "How it was built",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Diary of Merer"
+],
+"aliases": [
+"Merer",
+"oldest papyrus",
+"Wadi al-Jarf papyri"
+],
+"note": "Oldest inscribed papyri (2013, Wadi al-Jarf on the Red Sea, Tallet): inspector Merer's team ferrying limestone from Tura to 'Akhet Khufu', in year 27 of Khufu, under vizier Ankhhaf; what the logbook shows about logistics, canals and the Nile branch to Giza."
+},
+{
+"id": "giza-boat-pits",
+"name": "The boat pits around the Great Pyramid",
+"site": "giza",
+"area": "Khufu",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Khufu ship"
+],
+"commons": "Khufu boat pit Giza",
+"aliases": [
+"boat pits",
+"where the solar boat was found"
+],
+"note": "Five boat-shaped pits; the two sealed pits on the south side held the dismantled cedar ships now at GEM (seen 11 Oct); link back to the GEM entry; the smell of cedar when opened in 1954."
+},
+{
+"id": "giza-panorama",
+"name": "The panorama viewpoint",
+"site": "giza",
+"area": "Plateau",
+"type": "viewpoint",
+"priority": 2,
+"wiki": [
+"Giza pyramid complex"
+],
+"commons": "Giza panorama point nine pyramids",
+"aliases": [
+"panorama",
+"nine pyramids",
+"photo spot",
+"camel spot"
+],
+"note": "Short. The viewpoint south-west of Menkaure where all nine pyramids line up; where the 9 Pyramids Lounge/Khufu's restaurant sits; best light; the camel negotiation ritual."
+},
+{
+"id": "giza-pyramid-texts-why",
+"name": "Why a pyramid? What it meant",
+"site": "giza",
+"area": "How it was built",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Egyptian pyramids",
+"Benben"
+],
+"aliases": [
+"why pyramids",
+"meaning of pyramid",
+"benben"
+],
+"note": "The primeval mound and the benben stone of Heliopolis; the sun's rays in stone; the king's ascent to join Ra and the circumpolar 'imperishable stars'; from Djoser's step pyramid to Sneferu's experiments (Meidum, Bent, Red) to Giza; why pyramid-building declined."
+}
+]

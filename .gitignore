@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+content/wiki/
+content/fetch_report.json
+audio/samples/
+.DS_Store
+Thumbs.db
+docs/*.pdf

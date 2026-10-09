@@ -1,0 +1,374 @@
+# Egypt Guide: index of app entries (for matching photos to entries)
+
+Format: entry name | place | also known as
+
+
+## Abu Simbel
+
+- Abu Simbel: the temples Ramesses carved into a mountain | Great Temple | Abu Simbel, Abu Simbel temples, Ramesses temple Nubia
+- Facade of the Great Temple: the four colossi | Great Temple | four statues, colossi, facade, broken statue
+- The Hittite marriage stela and the peace treaty | Great Temple | marriage stela, Hittite princess, peace treaty
+- The Great Hypostyle Hall: Osiride pillars and the Battle of Kadesh | Great Temple | inside the temple, Osiris pillars, Kadesh relief, battle scenes
+- The sanctuary and the sun alignment (22 Feb and 22 Oct) | Great Temple | sun festival, sanctuary, four seated gods, Ptah in the dark, solar alignment
+- The Small Temple of Hathor and Nefertari | Small Temple | Nefertari temple, Hathor temple, small temple, queen's temple
+- The rescue: cutting a mountain into 1,036 blocks | Rescue & lake | relocation, UNESCO rescue, how it was moved, Aswan dam rescue
+- Lake Nasser and drowned Nubia | Rescue & lake | Lake Nasser, Nubian displacement, drowned villages, the lake
+- Why here? Ramesses and the gold of Nubia | Rescue & lake | why Abu Simbel, Nubian gold, viceroy of Kush, Wawat
+
+## Aswan, Philae & Nubian Museum
+
+- Aswan: Egypt's southern gate | Elephantine & the river | Aswan, Syene, Assuan
+- Felucca on the Nile and the First Cataract | Elephantine & the river | felucca, sailing, cataract, Nile boat
+- Kitchener's Island: the Aswan Botanical Garden | Elephantine & the river | Botanical Gardens, Kitchener's Island, Plantation Island, Geziret el-Nabatat
+- Elephantine Island: the ancient town | Elephantine & the river | Elephantine, Abu, ruins island, Nubian villages island
+- Temple of Khnum and the shrine of Heqaib on Elephantine | Elephantine & the river | Khnum temple Aswan, Heqaib, Satet temple
+- The Nilometers of Elephantine | Elephantine & the river | Nilometer, flood gauge, measuring stairs
+- The Aswan Museum on Elephantine | Elephantine & the river | Aswan Museum, Elephantine museum, villa museum
+- The Elephantine papyri: a Jewish garrison and its temple | Elephantine & the river | Elephantine papyri, Jewish temple Elephantine, Aramaic papyri
+- Philae: the Temple of Isis on Agilkia | Philae | Philae, Temple of Isis, Philae temple, Agilkia
+- Kiosk of Nectanebo and the colonnades | Philae | first courtyard, colonnades, Nectanebo kiosk, Hathor columns entrance
+- The first pylon and the mammisi (birth house) | Philae | first pylon, gate of Philae, birth house, mammisi
+- Second pylon, hypostyle hall and the sanctuary of Isis | Philae | hypostyle, sanctuary, inner temple, Isis shrine
+- Gate of Hadrian and the last hieroglyphic inscription (394 AD) | Philae | Hadrian's gate, last hieroglyphs, Esmet-Akhom, source of the Nile relief
+- Trajan's Kiosk, 'the Pharaoh's Bed' | Philae | Trajan's Kiosk, Pharaoh's Bed, kiosk by the water, postcard of Philae
+- Temple of Hathor with the musicians and Bes | Philae | Hathor temple Philae, Bes playing harp, musicians relief
+- From Isis to Christ: the closing of Philae | Philae | Philae closed, Justinian, Coptic church Philae, Blemmyes, Nobatae
+- Moving Philae: coffer dam and 40,000 blocks | Philae | Philae relocation, Agilkia, moved temple, underwater temple
+- The Nubian Museum: how to see it | Nubian Museum | Nubia Museum, Nubian Museum Aswan
+- Nubia in ten minutes: Egypt's rival and twin | Nubian Museum | Nubia, Kush, Nubians, Ta-Seti, Land of the Bow
+- Prehistory and the A-Group: Nubia before Egypt | Nubian Museum | A-Group, Qustul, Nubian prehistory, eggshell pottery
+- C-Group, Pan-Grave and the Kingdom of Kerma | Nubian Museum | Kerma, C-Group, Medjay, tulip beakers, Deffufa
+- New Kingdom Nubia: the viceroys and the temples | Nubian Museum | viceroy of Kush, Egyptian Nubia, Ramesses statue Nubian Museum, Amenhotep son of Hapu Nubia
+- The Black Pharaohs: Napata and the 25th Dynasty | Nubian Museum | 25th Dynasty, Black Pharaohs, Taharqa, Piye, Kushite kings, Napata
+- Meroe: iron, queens and an unread script | Nubian Museum | Meroe, Meroitic, Kandake, Candace, Nubian pyramids
+- Christian and Islamic Nubia | Nubian Museum | Christian Nubia, Faras frescoes, Makuria, Nubian churches, Islamic Nubia
+- Nubian life: houses, jewellery, music and the lost villages | Nubian Museum | Nubian house, Nubian wedding, dioramas, Nubian culture, Kenuz Fadija
+- The Unfinished Obelisk | Unfinished Obelisk & quarries | unfinished obelisk, obelisk quarry, Hatshepsut obelisk, biggest obelisk
+- The granite quarries: Aswan stone all over Egypt | Unfinished Obelisk & quarries | granite, quarries, Aswan stone, how obelisks were made
+- Qubbet el-Hawa: Tombs of the Nobles | West bank hills | Tombs of the Nobles Aswan, Qubbet el-Hawa, west bank tombs, sheikh's dome
+- Harkhuf and the dancing pygmy letter | West bank hills | Harkhuf, pygmy letter, Pepi II letter, explorer of Africa
+- Mausoleum of the Aga Khan | West bank hills | Aga Khan, mausoleum on the hill, pink tomb
+- Monastery of St Simeon (Anba Hatre) | West bank hills | St Simeon, Deir Anba Hatre, desert monastery Aswan
+- The Aswan High Dam and the old British dam | Dams & lake | High Dam, Sadd el-Ali, old dam, British dam, Nasser dam
+- Kalabsha, Beit el-Wali and the Kiosk of Qertassi (near the dam) | Dams & lake | Kalabsha, Beit el-Wali, Qertassi, New Kalabsha
+- The Old Cataract Hotel and Agatha Christie | Elephantine & the river | Old Cataract, Agatha Christie, Death on the Nile hotel, Sofitel terrace
+- Aswan souq and the Nubian village of Gharb Soheil | Elephantine & the river | souq, Nubian village, Gharb Soheil, spice market, crocodile house
+
+## Egypt basics: gods, pharaohs, symbols
+
+- Ancient Egypt in ten minutes: the timeline you need | Timeline | timeline, dynasties, history overview, kingdoms, when was what
+- The Old Kingdom: the age of the pyramids | Timeline | Old Kingdom, pyramid age, 3rd to 6th Dynasty, Memphis
+- The Middle Kingdom: the classical age | Timeline | Middle Kingdom, 11th and 12th Dynasty, Senusret, Amenemhat, classical Egypt
+- The New Kingdom: empire and gold | Timeline | New Kingdom, 18th Dynasty, 19th Dynasty, 20th Dynasty, empire, Thutmosids
+- After the glory: priest-kings, Libyans, Kushites, Persians | Timeline | Third Intermediate Period, Late Period, 21st Dynasty, Libyan pharaohs, Saite, Persians
+- Greeks and Romans as pharaohs | Timeline | Ptolemies, Ptolemaic, Roman Egypt, Cleopatra, Alexandria, Greek pharaohs
+- The gods: a family tree in five minutes | Gods & myths | gods, pantheon, Ennead, who is who gods, how to recognise gods
+- The Osiris myth: murder, resurrection and the first mummy | Gods & myths | Osiris myth, Isis and Osiris, Seth kills Osiris, fourteen pieces, Horus avenges
+- Amun, the hidden one who became king of the gods | Gods & myths | Amun, Amon, Ammon, Amun-Ra, hidden god, two feathers
+- Ra and the sun's daily journey | Gods & myths | Ra, Re, sun god, Khepri, Atum, Ra-Horakhty
+- Osiris: king of the dead | Gods & myths | Osiris, mummy god, green god, atef crown, crook and flail, Wennefer
+- Isis: great of magic | Gods & myths | Isis, throne headdress, mother goddess, Isis and Horus, Isis cult Rome
+- Horus and Seth: order against chaos | Gods & myths | Seth, Set, Horus, Seth animal, god of storms, red god
+- Anubis and Thoth: the embalmer and the scribe | Gods & myths | Anubis, jackal god, Thoth, ibis god, baboon god, god of writing
+- Hathor: love, music, drunkenness and the cow | Gods & myths | Hathor, cow goddess, goddess of love, sistrum, Hathor columns, lady of the sycamore
+- Ptah and Sekhmet: the craftsman and the lioness | Gods & myths | Ptah, Sekhmet, lioness goddess, plague goddess, Memphis god, skullcap god
+- Local gods you'll meet: Khnum, Sobek, Min, Montu, Satet, Anuket | Gods & myths | Min, Montu, Satet, Anuket, local gods, ithyphallic god
+- Ma'at, Nut and Geb: truth, sky and earth | Gods & myths | Maat, feather of truth, Nut, sky goddess, Geb, earth god
+- Bes and Taweret: the household protectors | Gods & myths | Bes, dwarf god, Taweret, hippo goddess, household gods, childbirth gods
+- The Aten and the Amarna revolution | Gods & myths | Aten, Akhenaten revolution, Amarna, Akhetaten, sun disc with hands, monotheism
+- Hieroglyphs in ten minutes: how the writing works | Symbols & writing | hieroglyphs, how to read hieroglyphs, alphabet, reading direction, determinatives
+- Reading a cartouche: spot Ramesses, Tut, Hatshepsut and friends | Symbols & writing | cartouche, royal names, read a king's name, shen ring, five names
+- Ankh, djed, was, shen, sema-tawy: the symbols on every wall | Symbols & writing | ankh, djed, was sceptre, symbols, sema tawy, lotus and papyrus
+- The Eye of Horus and the scarab | Symbols & writing | Eye of Horus, wedjat, udjat, scarab, dung beetle, Khepri
+- Crowns and regalia: how to tell which Egypt a king rules | Symbols & writing | crowns, white crown, red crown, double crown, blue crown, nemes
+- How an Egyptian temple works: the house of the god | Temples, tombs & afterlife | temple layout, how temples work, pylon, hypostyle, sanctuary, naos
+- How a royal tomb works: the books on the walls | Temples, tombs & afterlife | Amduat, Book of Gates, Book of Caverns, Book of the Earth, Litany of Ra, Book of the Heavens
+- The Book of the Dead and the weighing of the heart | Temples, tombs & afterlife | Book of the Dead, weighing of the heart, judgement, Ammut, 42 judges, negative confession
+- Mummification: why and how | Temples, tombs & afterlife | mummy, mummification, why mummies, ka ba akh, embalming, natron
+- Canopic jars, shabtis, false doors and other things in tombs | Temples, tombs & afterlife | canopic jars, shabti, ushabti, false door, offering table, serdab
+- Khufu, Khafre and Menkaure: the three Giza kings | Pharaohs & queens | Khufu, Cheops, Khafre, Chephren, Menkaure, Mycerinus
+- Hatshepsut: the woman who was king | Pharaohs & queens | Hatshepsut, female pharaoh, woman king, Maatkare
+- Thutmose III and Amenhotep III: the conqueror and the sun king | Pharaohs & queens | Thutmose III, Napoleon of Egypt, Amenhotep III, Amenophis III, sun king, Tiye
+- Akhenaten and Nefertiti | Pharaohs & queens | Akhenaten, Amenhotep IV, Nefertiti, heretic king, Berlin bust, Neferneferuaten
+- Tutankhamun: the boy king, the facts behind the gold | Pharaohs & queens | Tutankhamun, King Tut, Tutankhaten, boy king, Ankhesenamun
+- Seti I and Ramesses II: the Ramesside peak | Pharaohs & queens | Ramesses II, Ramses, Ramesses the Great, Seti I, Ozymandias, Nefertari
+- Ramesses III and the end of the Bronze Age | Pharaohs & queens | Ramesses III, Sea Peoples, Bronze Age collapse, last great pharaoh, 1177 BC
+- Piye and Taharqa: when Nubia ruled Egypt | Pharaohs & queens | Taharqa, Piye, Piankhi, Black Pharaohs, Kushite kings, 25th Dynasty
+- Alexander, the Ptolemies and Cleopatra | Pharaohs & queens | Alexander, Ptolemy, Cleopatra VII, Caesarion, Antony, Ptolemaic dynasty
+- Queens and God's Wives: women with power | Pharaohs & queens | queens, God's Wife of Amun, great royal wife, Tiye, Nefertari, Ahhotep
+- Champollion and the Rosetta Stone | Explorers & discoveries | Champollion, Rosetta Stone, decipherment, Thomas Young, 1822
+- Belzoni, Mariette and the age of plunder and rescue | Explorers & discoveries | Belzoni, Mariette, Lepsius, Petrie, Maspero, consuls
+- Carter, Carnarvon and the curse | Explorers & discoveries | Howard Carter, Lord Carnarvon, curse, curse of the pharaohs, 1922, Highclere
+- The Nile flood, the three seasons and the calendar | Festivals & daily life | inundation, Nile flood, seasons, Akhet Peret Shemu, calendar, Sirius
+- Festivals: Opet, the Beautiful Festival of the Valley, Sed | Festivals & daily life | festivals, Sed festival, jubilee, Beautiful Festival of the Valley, Opet, heb sed
+- Daily life: bread, beer, linen, make-up and medicine | Festivals & daily life | daily life, bread and beer, kohl, wigs, Egyptian medicine, Egyptian food
+- Why they drew like that: the rules of Egyptian art | Festivals & daily life | Egyptian art, why profile, art conventions, grid, proportions, hierarchical scale
+- Baksheesh, touts and temple etiquette | Practical | baksheesh, tipping, touts, guards, hassle, etiquette
+- Greece and Egypt: Herodotus, Alexandria and the Greek layer | Practical | Greeks in Egypt, Herodotus, Naukratis, Alexandria Greeks, Greek community Egypt, Cavafy
+
+## Islamic Cairo & the Citadel
+
+- Islamic Cairo in one day: how the city grew | Background | Islamic Cairo, Historic Cairo, old Cairo, medieval Cairo
+- Fatimids, Ayyubids, Mamluks, Ottomans: a 5-minute cheat sheet | Background | Mamluks, Fatimids, Ayyubids, who built what, dynasties
+- Khan el-Khalili | Khan el-Khalili & al-Azhar | Khan, bazaar, souq, market
+- El Fishawi café and Naguib Mahfouz | Khan el-Khalili & al-Azhar | Fishawi, Fishawy, café of mirrors, Mahfouz café
+- Al-Azhar Mosque and University | Khan el-Khalili & al-Azhar | Azhar, oldest university
+- Al-Hussein Mosque | Khan el-Khalili & al-Azhar | Hussein mosque, Sayyidna al-Hussein
+- Al-Muizz Street: the Fatimid spine | Al-Muizz Street | Muizz, al-Moez, Moez street, Bayn al-Qasrayn
+- Bab al-Futuh and Bab al-Nasr, the Fatimid gates | Al-Muizz Street | Bab al-Futuh, Bab al-Nasr, city gates, northern walls
+- Mosque of al-Hakim | Al-Muizz Street | al-Hakim, Hakim mosque, mad caliph
+- Bayt al-Suhaymi: a Cairene merchant's house | Al-Muizz Street | Suhaymi house, Ottoman house, mashrabiya house
+- Sabil-Kuttab of Abd al-Rahman Katkhuda | Al-Muizz Street | sabil, Katkhuda, fountain school
+- Al-Aqmar Mosque: the 'moonlit' façade | Al-Muizz Street | Aqmar, moonlit mosque, small Fatimid mosque
+- Complex of Sultan Qalawun: mausoleum, madrasa and hospital | Al-Muizz Street | Qalawun, Qalawun mausoleum, maristan, Bimaristan
+- Madrasa of al-Nasir Muhammad (with the Gothic portal) | Al-Muizz Street | al-Nasir madrasa, Gothic doorway, Crusader portal
+- Madrasa-Khanqah of Sultan Barquq | Al-Muizz Street | Barquq, Barquq madrasa, Bayn al-Qasrayn third building
+- Al-Ghuri complex and Wikala: the last Mamluk sultan | Al-Muizz Street | Ghuri, Ghouri, wikala, tannoura dance, caravanserai
+- Mosque of Sultan al-Mu'ayyad and Bab Zuwayla | Al-Muizz Street | Bab Zuwayla, Bab Zuweila, Muayyad, southern gate, gate of executions
+- Mosque-Madrasa of Sultan Hassan | Sultan Hassan & al-Rifa'i | Sultan Hassan, Hassan mosque, biggest Mamluk mosque
+- Al-Rifa'i Mosque: royal tombs and the Shah of Iran | Sultan Hassan & al-Rifa'i | Rifai, Refai, royal mosque, Shah's tomb, King Farouk tomb
+- The Citadel of Saladin | Citadel | Citadel, Qalaa, Saladin's citadel, Mokattam castle
+- Mosque of Muhammad Ali (the Alabaster Mosque) | Citadel | Alabaster Mosque, Mohamed Ali mosque, big Ottoman mosque on the Citadel
+- Mosque of al-Nasir Muhammad on the Citadel | Citadel | al-Nasir mosque, Mamluk mosque Citadel, green tiled minarets
+- Gawhara Palace and the Mamluk massacre site | Citadel | Gawhara, Jewel Palace, Bijou palace, Muhammad Ali palace
+- Joseph's Well (Bir Yusuf) | Citadel | Bir Yusuf, Saladin's well, spiral well
+- The Egyptian Military Museum (Harim Palace) | Citadel | military museum, Harim Palace, tanks at the Citadel
+- Abdeen Palace | Abdeen | Abdeen, Abdin palace, presidential palace, royal palace
+- Mosque of Ibn Tulun (if you have time) | Background | Ibn Tulun, spiral minaret, oldest mosque intact
+- How to read a Mamluk building: ablaq, muqarnas, mashrabiya | Background | ablaq, muqarnas, mashrabiya, architecture terms, what is an iwan
+
+## Grand Egyptian Museum
+
+- Grand Egyptian Museum: how to tackle it | Entrance & Atrium | GEM, Giza museum, new museum
+- Colossus of Ramesses II in the atrium | Entrance & Atrium | Ramses II statue, atrium colossus, big statue at entrance
+- The Hanging Obelisk of Ramesses II | Entrance & Atrium | obelisk outside, plaza obelisk
+- The Grand Staircase | Grand Staircase | staircase, stairs with statues
+- The pyramid window at the top of the stairs | Grand Staircase | view of pyramids, top of staircase
+- Khufu's first solar boat | Khufu Boat Museum | solar boat, Cheops boat, Khufu ship, solar barque
+- Khufu's second boat | Khufu Boat Museum | second solar boat
+- Tutankhamun Galleries: the whole treasure, first time together | Tutankhamun Galleries | Tut galleries, Tutankhamun collection, King Tut
+- Gold Mask of Tutankhamun | Tutankhamun Galleries | Tut mask, golden mask, death mask, Tutankhamun mask
+- Tutankhamun's three nested coffins | Tutankhamun Galleries | gold coffin, Tut coffins, sarcophagus
+- Tutankhamun's Golden Throne | Tutankhamun Galleries | golden throne, Tut throne, chair with Ankhesenamun
+- Canopic shrine, chest and jars | Tutankhamun Galleries | canopic, alabaster chest, four goddesses shrine
+- The two guardian (ka) statues | Tutankhamun Galleries | black statues, guardian statues, ka statues
+- Tutankhamun's chariots | Tutankhamun Galleries | chariot, war chariot
+- The three ritual funerary beds | Tutankhamun Galleries | animal beds, hippo bed, lion bed, cow bed
+- The Painted Box (hunting and battle scenes) | Tutankhamun Galleries | painted chest, hunting box
+- The Anubis Shrine | Tutankhamun Galleries | Anubis jackal, black jackal on shrine
+- The four gilded shrines | Tutankhamun Galleries | golden shrines, nested shrines, burial shrines
+- The meteoric iron dagger | Tutankhamun Galleries | iron dagger, meteorite dagger, space dagger
+- Tutankhamun's trumpets | Tutankhamun Galleries | silver trumpet, bronze trumpet
+- Senet boards and games | Tutankhamun Galleries | board game, senet
+- Sandals, shoes and the 'enemy underfoot' | Tutankhamun Galleries | sandals, gold sandals, footwear
+- The wooden 'mannequin' bust | Tutankhamun Galleries | mannequin, dummy, bust of Tut
+- The alabaster 'Wishing Cup' | Tutankhamun Galleries | lotus chalice, wishing cup, alabaster cup
+- Head of Tutankhamun as Nefertem on the lotus | Tutankhamun Galleries | lotus head, child head on lotus, Nefertem head
+- Pectorals, collars and the desert-glass scarab | Tutankhamun Galleries | pectoral, jewellery, necklace, scarab pectoral
+- The 413 shabtis | Tutankhamun Galleries | shabti, ushabti, servant figures
+- Gilded statuettes: the king on a panther, harpooning, and the gods | Tutankhamun Galleries | panther statue, harpoon statue, gilded gods
+- Ostrich-feather fans and walking sticks | Tutankhamun Galleries | fan, walking sticks, canes
+- The Little Golden Shrine | Tutankhamun Galleries | small golden shrine, gold shrine with queen scenes
+- The king's wardrobe: tunics, gloves, loincloths | Tutankhamun Galleries | clothes, tunic, gloves, textiles
+- What stayed in the tomb: the mummy, the sarcophagus, the paintings | Tutankhamun Galleries | Tut mummy, where is the mummy
+- Narmer Palette | Masterpieces: GEM or Tahrir, check label | Narmer, first pharaoh palette, unification palette
+- Khafre Enthroned (diorite statue with Horus) | Masterpieces: GEM or Tahrir, check label | Khafre statue, Chephren statue, Horus falcon behind head
+- The Menkaure triads | Masterpieces: GEM or Tahrir, check label | Menkaure statues, Mycerinus triads, king with Hathor and nome goddess
+- The tiny ivory statuette of Khufu | Masterpieces: GEM or Tahrir, check label | Khufu ivory, Cheops statue, smallest statue biggest pyramid
+- Rahotep and Nofret | Masterpieces: GEM or Tahrir, check label | seated couple, prince and wife, Nofret
+- The Meidum Geese | Masterpieces: GEM or Tahrir, check label | geese painting, Mona Lisa of Egypt
+- Ka-aper, the 'Sheikh el-Balad' | Masterpieces: GEM or Tahrir, check label | Sheikh el-Balad, wooden priest, village chief statue
+- Seneb the dwarf and his family | Masterpieces: GEM or Tahrir, check label | dwarf statue, Seneb family
+- Queen Hetepheres' furniture | Masterpieces: GEM or Tahrir, check label | Hetepheres, gold furniture, Khufu's mother
+- The wooden panels of Hesy-Ra | Masterpieces: GEM or Tahrir, check label | Hesy-Ra panels, earliest dentist
+- The seated statue of Djoser | Masterpieces: GEM or Tahrir, check label | Djoser, Step Pyramid king, serdab statue
+- Black seated statue of Mentuhotep II | Masterpieces: GEM or Tahrir, check label | Mentuhotep, black statue red crown, Sed festival statue
+- The colossi of Akhenaten from Karnak | Masterpieces: GEM or Tahrir, check label | Akhenaten statue, strange pharaoh, Amarna style
+- Colossal pair of Amenhotep III and Queen Tiye | Masterpieces: GEM or Tahrir, check label | Amenhotep III and Tiye, giant couple statue, king and queen same size
+- Yuya and Tjuyu: Tutankhamun's great-grandparents | Masterpieces: GEM or Tahrir, check label | Yuya, Tjuyu, Thuya, best preserved mummies
+- The Merneptah Stele (the 'Israel Stele') | Masterpieces: GEM or Tahrir, check label | Israel stele, Merneptah, first mention of Israel
+- The gold of Tanis: mask and silver coffin of Psusennes I | Masterpieces: GEM or Tahrir, check label | Tanis treasure, silver coffin, Psusennes, the other gold mask
+- Queen Ahhotep's jewellery and the golden flies | Masterpieces: GEM or Tahrir, check label | golden flies, Ahhotep, flies of valour
+- Fayum mummy portraits | Masterpieces: GEM or Tahrir, check label | Fayum portraits, Roman faces, painted mummy faces
+- Where are the royal mummies? (NMEC, not here) | Masterpieces: GEM or Tahrir, check label | mummies, royal mummies, Ramesses II mummy, Golden Parade
+
+## Giza Pyramids & Sphinx
+
+- Giza Plateau: what you are walking on | Plateau | Giza, pyramids, necropolis, plateau
+- The Great Pyramid of Khufu | Khufu | Cheops pyramid, Khufu pyramid, Great Pyramid, biggest pyramid
+- Inside the Great Pyramid: Grand Gallery and King's Chamber | Khufu | inside Khufu, King's Chamber, Grand Gallery, Queen's Chamber, sarcophagus
+- Khufu's queens' pyramids and the Eastern Cemetery | Khufu | small pyramids, queens pyramids, G1a G1b G1c, eastern cemetery
+- Tomb of Queen Meresankh III | Cemeteries & tombs | Meresankh, G7530, queen's tomb with statues, colourful tomb
+- The Western Cemetery: city of the officials | Cemeteries & tombs | western cemetery, mastabas, streets of tombs
+- Hemiunu, the man who built the Great Pyramid | Cemeteries & tombs | Hemiunu, architect of Khufu, vizier
+- Tomb of Seshemnefer IV (near the Sphinx) | Cemeteries & tombs | Seshemnefer, tomb south of causeway
+- Pyramid of Khafre | Khafre | Chephren pyramid, second pyramid, pyramid with top cap
+- Valley Temple of Khafre | Khafre | valley temple, granite temple, temple next to Sphinx
+- Khafre's mortuary temple and causeway | Khafre | mortuary temple, causeway
+- Pyramid of Menkaure | Menkaure | Mycerinus pyramid, third pyramid, smallest pyramid, pyramid with gash
+- Menkaure's three queens' pyramids | Menkaure | three small pyramids, G3a G3b G3c
+- The Great Sphinx | Sphinx | Sphinx, Abu el-Hol, lion with a head
+- The Dream Stele of Thutmose IV | Sphinx | dream stela, stele between paws
+- The Sphinx Temple | Sphinx | temple in front of Sphinx
+- Tomb of Khentkawes I, the 'fourth pyramid' | Cemeteries & tombs | Khentkawes, fourth pyramid, queen's mastaba tower
+- The pyramid builders: workers' town and cemetery | How it was built | who built the pyramids, slaves, workers village, Heit el-Ghurab, Lost City
+- How the pyramids were built | How it was built | how were they built, ramps, aliens, construction
+- The Diary of Merer: a Khufu foreman's logbook | How it was built | Merer, oldest papyrus, Wadi al-Jarf papyri
+- The boat pits around the Great Pyramid | Khufu | boat pits, where the solar boat was found
+- The panorama viewpoint | Plateau | panorama, nine pyramids, photo spot, camel spot
+- Why a pyramid? What it meant | How it was built | why pyramids, meaning of pyramid, benben
+
+## Luxor East Bank
+
+- Luxor East Bank: Thebes, the hundred-gated city | Practical | Luxor, Thebes, Waset, East Bank, hundred gated Thebes
+- Luxor Temple: the temple of the royal ka | Luxor Temple | Luxor Temple, Ipet-resyt, southern sanctuary, temple in town
+- The Avenue of Sphinxes (Kebash Road) | Luxor Temple | Sphinx Avenue, Avenue of Sphinxes, Kebash road, Rams road, 2.7 km avenue
+- Pylon of Ramesses II, the colossi and the lonely obelisk | Luxor Temple | Luxor obelisk, Paris obelisk, pylon, seated colossi, Kadesh pylon Luxor
+- The mosque of Abu el-Haggag, standing on the temple | Luxor Temple | Abu el-Haggag, mosque in the temple, mosque on columns, moulid
+- Court of Ramesses II and the triple shrine | Luxor Temple | Ramesses court, first court, triple shrine, Hatshepsut shrine, sons of Ramesses relief
+- The Colonnade of Amenhotep III and the Opet Festival reliefs | Luxor Temple | colonnade, Opet reliefs, Tutankhamun reliefs, 14 columns, procession reliefs
+- The sun court of Amenhotep III and the Luxor cachette | Luxor Temple | Amenhotep court, sun court, second court, Luxor cachette 1989, clustered columns
+- The Roman chapel: emperors painted over pharaohs | Luxor Temple | Roman frescoes, tetrarchs, Roman camp, Diocletian chapel, legion shrine
+- Alexander the Great's barque shrine and the birth room | Luxor Temple | Alexander shrine, Alexander as pharaoh, birth room, divine birth Amenhotep III, sanctuary
+- Karnak: the biggest religious complex ever built | Karnak: entrance to Hypostyle | Karnak, Ipet-isut, Amun temple, Karnak temple
+- The avenue of ram-headed sphinxes and the quay | Karnak: entrance to Hypostyle | rams, criosphinxes, avenue of rams, ram sphinxes, quay
+- The first pylon, the Great Court and the kiosk of Taharqa | Karnak: entrance to Hypostyle | first pylon, great court, Taharqa kiosk, single column, Nectanebo pylon, mud brick ramp
+- Temple of Ramesses III in the Great Court | Karnak: entrance to Hypostyle | Ramesses III Karnak, small temple right of court, Osiride court Karnak
+- The second pylon and the colossus of Pinedjem | Karnak: entrance to Hypostyle | Pinedjem, statue with small queen, second pylon, Horemheb pylon
+- The Great Hypostyle Hall | Karnak: entrance to Hypostyle | Hypostyle Hall, 134 columns, forest of columns, Seti I hall
+- The battle walls outside the Hypostyle: Seti in Canaan, Ramesses at Kadesh | Karnak: entrance to Hypostyle | Seti battle reliefs, Kadesh Karnak, exterior walls, Shasu, Hittite treaty wall
+- The obelisks of Thutmose I and Hatshepsut | Karnak: obelisks to Sacred Lake | Hatshepsut obelisk, Thutmose I obelisk, tallest obelisk Egypt, obelisks Karnak, walled obelisk
+- The fallen top of Hatshepsut's second obelisk by the lake | Karnak: obelisks to Sacred Lake | fallen obelisk, obelisk tip, Amun crowning Hatshepsut, obelisk by the lake
+- The Middle Kingdom court and the hidden heart of Karnak | Karnak: obelisks to Sacred Lake | Middle Kingdom court, Philip Arrhidaeus sanctuary, granite sanctuary, oldest Karnak, Senusret I
+- The Festival Hall of Thutmose III (Akh-menu) and the Botanical Garden | Karnak: obelisks to Sacred Lake | Akh-menu, Festival Hall, tent pole columns, Botanical Garden, Karnak king list, Coptic church Karnak
+- The Sacred Lake | Karnak: obelisks to Sacred Lake | Sacred Lake, lake, priests' lake, Isheru
+- The giant scarab of Amenhotep III: seven times round for luck | Karnak: obelisks to Sacred Lake | scarab statue, big scarab, Khepri statue, walk around scarab, seven times
+- Temple of Khonsu: a complete New Kingdom temple | Karnak: side temples & Open Air Museum | Khonsu temple, Khons, moon god temple, Bab el-Amara gate
+- Temple of Opet, where Osiris was reborn | Karnak: side temples & Open Air Museum | Opet temple, hippo goddess temple, Ptolemaic temple Karnak
+- Temple of Ptah and the Sekhmet statue in the dark | Karnak: side temples & Open Air Museum | Ptah temple, Sekhmet statue, lioness in the dark, chapel with sunbeam
+- Chapel of Osiris Heqadjet and the Osiris chapels | Karnak: side temples & Open Air Museum | Chapel of Osiris, Osiris Heqadjet, Osiris Ruler of Eternity, God's Wife chapel, 25th Dynasty chapel
+- The Open Air Museum: reassembled chapels from inside the pylons | Karnak: side temples & Open Air Museum | Open Air Museum, White Chapel, Red Chapel, Alabaster chapel, extra ticket Karnak
+- The White Chapel of Senusret I | Karnak: side temples & Open Air Museum | White Chapel, Senusret I chapel, Middle Kingdom chapel, nome list
+- The Red Chapel of Hatshepsut | Karnak: side temples & Open Air Museum | Red Chapel, Chapelle Rouge, quartzite chapel, Hatshepsut barque shrine
+- The Cachette Court: 17,000 bronzes under the floor | Karnak: side temples & Open Air Museum | Karnak cachette, cachette court, Legrain, buried statues, seventh pylon
+- The Precinct of Mut and the Sekhmet statues | Karnak: side temples & Open Air Museum | Mut temple, Mut precinct, Sekhmet statues, Isheru lake, hundreds of lion statues
+- The Precinct of Montu (optional) | Karnak: side temples & Open Air Museum | Montu precinct, war god temple, north Karnak
+- Luxor Museum: small, dark and perfect | Luxor Museum | Luxor Museum, museum on the Corniche
+- Sobek and Amenhotep III: the calcite pair | Luxor Museum | crocodile god statue, Sobek statue, Amenhotep III with Sobek, alabaster crocodile
+- Thutmose III in greywacke | Luxor Museum | Thutmose III statue, black statue Luxor museum, Napoleon of Egypt statue
+- The Luxor cachette hall: Amenhotep III on his sledge | Luxor Museum | cachette hall, Amenhotep III quartzite, sledge statue, Horemheb and Atum, Hathor statue cachette, 1989 statues
+- The Akhenaten talatat wall and the Amarna heads | Luxor Museum | talatat, Akhenaten wall, Amarna wall, Nefertiti blocks, Akhenaten head Luxor
+- Tutankhamun's cow head of Mehet-Weret and the KV62 objects | Luxor Museum | cow head, Hathor head Tut, Mehet-Weret, Tut objects Luxor museum, Tut chariot Luxor
+- Two royal mummies: Ahmose I and Ramesses I | Luxor Museum | mummies Luxor museum, Ahmose mummy, Ramesses I mummy, Niagara mummy
+- Amenhotep son of Hapu, the scribe who became a god | Luxor Museum | Amenhotep son of Hapu, scribe statue, deified architect, old man statue
+- Senusret III and the Middle Kingdom faces | Luxor Museum | Senusret III head, sad king, Middle Kingdom portrait, Sesostris
+- Mummification Museum | Mummification Museum | Mummification Museum, mummy museum Luxor, Corniche museum
+- Masaharta: the high priest in his coffin | Mummification Museum | Masaharta, mummy in the museum, high priest mummy, Pinedjem's son
+- Mummified animals: cat, crocodile, ram, fish, ibis | Mummification Museum | animal mummies, cat mummy, crocodile mummy, ibis mummy, baboon mummy
+- The embalmer's kit: natron, hooks, resins and amulets | Mummification Museum | mummification process, natron, brain hook, embalming tools, heart scarab, amulets positions
+- How to tell real papyrus from banana leaf (and what to pay) | Practical | papyrus, fake papyrus, banana leaf, papyrus shop, Lotus Papyrus, souvenir
+- The Opet Festival: Amun's annual journey to Luxor | Luxor Temple | Opet, Opet festival, procession Karnak to Luxor, festival of Opet
+
+## Luxor West Bank
+
+- The Theban West Bank: city of the dead | Valley of the Kings | West Bank, Theban necropolis, west bank Luxor
+- Valley of the Kings: how to choose your tombs | Valley of the Kings | Valley of the Kings, KV, Biban el-Muluk, royal tombs
+- KV62: Tomb of Tutankhamun | Valley of the Kings | Tutankhamun tomb, Tut tomb, KV62, Carter's tomb
+- KV9: Ramesses V and VI, the astronomical ceiling | Valley of the Kings | Ramesses VI tomb, KV9, Ramesses V, tomb of Memnon, best ceiling
+- KV17: Tomb of Seti I, Belzoni's tomb | Valley of the Kings | Seti I tomb, KV17, Belzoni's tomb, longest tomb
+- KV11: Ramesses III, the Harpers' Tomb | Valley of the Kings | Ramesses III tomb, KV11, Harpers tomb, Bruce's tomb
+- KV2: Ramesses IV | Valley of the Kings | Ramesses IV tomb, KV2, first tomb on the left
+- KV6: Ramesses IX | Valley of the Kings | Ramesses IX tomb, KV6
+- KV8: Merenptah | Valley of the Kings | Merenptah tomb, Merneptah, KV8
+- KV14: Tausert and Setnakht, a tomb with two owners | Valley of the Kings | Tausert tomb, Twosret, Setnakht, KV14, double tomb
+- KV15: Seti II | Valley of the Kings | Seti II tomb, KV15
+- KV16: Ramesses I, small and brilliant | Valley of the Kings | Ramesses I tomb, KV16, small bright tomb
+- KV34: Thutmose III, the cliff tomb with cartoon figures | Valley of the Kings | Thutmose III tomb, KV34, tomb up the stairs, oval chamber
+- KV35: Amenhotep II and the second royal cache | Valley of the Kings | Amenhotep II tomb, KV35, royal cache, Younger Lady
+- KV43: Thutmose IV and Carter's first royal tomb | Valley of the Kings | Thutmose IV tomb, KV43
+- KV47: Siptah, the boy king with the club foot | Valley of the Kings | Siptah tomb, KV47
+- KV57: Horemheb, the unfinished masterpiece | Valley of the Kings | Horemheb tomb, KV57, unfinished grid lines
+- KV5: the sons of Ramesses II (not open, worth knowing) | Valley of the Kings | KV5, sons of Ramesses, biggest tomb, Weeks
+- KV55: the Amarna cache and the mystery mummy | Valley of the Kings | KV55, Amarna cache, Akhenaten mummy, Kiya coffin
+- KV1: Ramesses VII | Valley of the Kings | Ramesses VII tomb, KV1
+- KV7: Ramesses II's own tomb, ruined by floods | Valley of the Kings | Ramesses II tomb, KV7
+- Deir el-Bahari: the bay of temples | Deir el-Bahari | Deir el-Bahari, Deir el-Bahri, Hatshepsut area, amphitheatre of cliffs
+- Mortuary Temple of Hatshepsut (Djeser-Djeseru) | Deir el-Bahari | Hatshepsut temple, Deir el-Bahari temple, Djeser Djeseru, terraced temple
+- The Punt reliefs: an expedition to the land of incense | Deir el-Bahari | Punt reliefs, Queen of Punt, Ati, incense trees, expedition relief
+- The Divine Birth colonnade: how a woman became king | Deir el-Bahari | birth colonnade, Khnum potter's wheel, divine birth, Amun visits Ahmose
+- Chapels of Hathor and Anubis, and the upper terrace | Deir el-Bahari | Hathor chapel, Anubis chapel, upper terrace, Osiride statues, Amun sanctuary
+- Senenmut: the queen's architect, and more? | Deir el-Bahari | Senenmut, Senmut, Hatshepsut's lover, architect of Deir el-Bahari
+- Temple of Mentuhotep II: the original | Deir el-Bahari | Mentuhotep temple, 11th Dynasty temple, ruins next to Hatshepsut
+- DB320: the royal cache and the Abd el-Rassul family | Deir el-Bahari | royal cache, mummy cache, Abd el-Rassul, TT320, Al-Mummia film
+- Deir el-Medina: the village of the tomb builders | Deir el-Medina | Deir el-Medina, workmen's village, Set Maat, place of truth, artisans village
+- TT1: Tomb of Sennedjem | Deir el-Medina | Sennedjem, TT1, Fields of Iaru, harvest scene tomb
+- TT3: Tomb of Pashedu | Deir el-Medina | Pashedu, TT3, man drinking under palm tree
+- TT359: Tomb of Inherkhau | Deir el-Medina | Inherkhau, TT359, blind harper tomb, cat and snake
+- The Ptolemaic temple of Hathor and the Great Pit | Deir el-Medina | Hathor temple Deir el-Medina, Ptolemaic temple, judgment scene, Great Pit, monastery
+- The first strike in history and the ostraca of daily life | Deir el-Medina | first strike, Turin strike papyrus, ostraca, love poems, Paneb
+- Valley of the Queens | Valley of the Queens | Valley of the Queens, Ta-Set-Neferu, QV, queens' tombs
+- QV66: Tomb of Nefertari, the Sistine Chapel of Egypt | Valley of the Queens | Nefertari tomb, QV66, most beautiful tomb, Sistine Chapel of Egypt
+- QV55: Amunherkhepshef, a prince of nine | Valley of the Queens | Amunherkhepshef tomb, QV55, prince's tomb, foetus in a case
+- QV44: Khaemwaset, another son of Ramesses III | Valley of the Queens | Khaemwaset tomb, QV44, prince Khaemwaset
+- QV52: Queen Titi | Valley of the Queens | Titi tomb, QV52, Queen Titi
+- The Colossi of Memnon | Colossi & Medinet Habu | Colossi of Memnon, Memnon, two giant statues, singing statue
+- Kom el-Hettan: the lost temple behind the Colossi | Colossi & Medinet Habu | Kom el-Hettan, Amenhotep III temple, Sourouzian, new colossi
+- Medinet Habu: the mortuary temple of Ramesses III | Colossi & Medinet Habu | Medinet Habu, Ramesses III temple, Habu, best colour temple
+- The Migdol gate and the harem rooms | Colossi & Medinet Habu | Migdol, high gate, Syrian gate, harem rooms
+- The Sea Peoples reliefs on the first pylon and north wall | Colossi & Medinet Habu | Sea Peoples, naval battle relief, Philistines relief, counting hands, Libyan war
+- The first and second courts: Osiride pillars and the Christian church | Colossi & Medinet Habu | first court, second court, Window of Appearances, Osiride pillars, painted ceiling, Coptic church
+- The murder of Ramesses III: the harem conspiracy | Colossi & Medinet Habu | harem conspiracy, murder of Ramesses III, Pentawer, Tiye the queen, Judicial Papyrus of Turin
+- The small temple of Amun: the oldest and holiest part | Colossi & Medinet Habu | 18th Dynasty temple, small Amun temple, Ogdoad mound, Djeme
+- The Ramesseum and the fallen colossus of Ozymandias | More West Bank | Ramesseum, Ozymandias, fallen statue, Ramesses II mortuary temple, Shelley
+- Tombs of the Nobles at Sheikh Abd el-Qurna | More West Bank | Tombs of the Nobles, Sheikh Abd el-Qurna, nobles tombs, Qurna, TT tombs
+- TT100: Rekhmire, the vizier's instruction manual | More West Bank | Rekhmire, TT100, vizier tomb, tribute scenes, craftsmen scenes
+- TT96: Sennefer, the Tomb of the Vines | More West Bank | Sennefer, tomb of vines, grape ceiling, TT96
+- TT55: Ramose, the tomb that changed style mid-way | More West Bank | Ramose, TT55, Amarna style change, unfinished relief
+- TT52 Nakht and TT69 Menna: harvest and banquet | More West Bank | Nakht, Menna, TT52, TT69, three musicians, harvest scenes
+- Howard Carter's house and the replica tomb | More West Bank | Carter house, Castle Carter, replica tomb, Factum Arte
+- Temple of Seti I at Qurna | More West Bank | Seti I temple, Qurna temple, Gurna temple
+- The Qurn and Meretseger, 'She Who Loves Silence' | Valley of the Kings | Qurn, el-Qurn, peak, Meretseger, cobra goddess, natural pyramid
+
+## Kom Ombo, Edfu & Esna
+
+- The road from Aswan to Luxor: three Ptolemaic temples in a day | Background | Aswan to Luxor, temples on the way, Ptolemaic temples, day trip temples
+- How a Ptolemaic temple works: a walk from light to dark | Background | temple layout, pylon court hypostyle sanctuary, how to read a temple
+- Temple of Kom Ombo: one temple, two gods | Kom Ombo | Kom Ombo, double temple, crocodile temple, Sobek and Horus temple
+- The surgical instruments relief | Kom Ombo | medical instruments, surgical tools relief, hospital relief
+- The festival calendar relief | Kom Ombo | calendar relief, festival list, hieroglyph numbers
+- The twin sanctuaries, the crypts and the Nilometer | Kom Ombo | sanctuaries, hidden passage, crypt Kom Ombo, Nilometer Kom Ombo, well
+- The Crocodile Museum | Kom Ombo | crocodile mummies, Sobek museum, mummified crocodiles
+- Sobek: the crocodile who made the Nile | Background | Sobek, crocodile god, Suchos
+- Temple of Horus at Edfu: the best-preserved temple in Egypt | Edfu | Edfu, Horus temple, Temple of Edfu, falcon temple
+- The pylon, the falcon statues and the court | Edfu | Edfu pylon, falcon statue, granite Horus, Edfu court
+- Hypostyle halls, the library, the laboratory and the sanctuary | Edfu | Edfu sanctuary, naos, barque shrine, library, laboratory, perfume room
+- The Triumph of Horus: the sacred drama on the west wall | Edfu | Horus and Seth, hippo harpoon relief, sacred drama, Myth of Horus, ambulatory
+- The mammisi and the Feast of the Beautiful Meeting | Edfu | mammisi Edfu, birth house, Hathor visits Horus, festival of the beautiful meeting, Bes capitals
+- Horus: the falcon, the king and the eye | Background | Horus, falcon god, Eye of Horus, Harpocrates, Horus the Elder
+- Temple of Khnum at Esna: the hall under the town | Esna | Esna, Temple of Khnum, Esna temple, hall in a pit
+- The restored ceiling: zodiac, vultures and 2,000 years of soot removed | Esna | Esna ceiling, restored colours, zodiac Esna, soot cleaning
+- Khnum's crossword hymns: a text written only in crocodiles | Esna | crocodile hymn, ram hymn, cryptographic hieroglyphs, Esna texts
+- Khnum: the potter who shaped people | Background | Khnum, ram god, potter god, god of the cataract
+
+## Siwa Oasis & Western Desert
+
+- Siwa Oasis: an island of Berbers in the Egyptian desert | Lore & people | Siwa, oasis, Siwah
+- Marsa Matruh and the road to Siwa | Road & Marsa Matruh | Matruh, road to Siwa, Mediterranean stop
+- Rommel, Montgomery and the desert war around here | Road & Marsa Matruh | Rommel, WWII, El Alamein, desert war
+- The Great Sand Sea | Desert & lakes | sand sea, dunes, desert safari, dune bashing
+- Bir Wahed: hot and cold springs in the dunes | Desert & lakes | Bir Wahed, hot spring desert, desert camp
+- Libyan desert glass: the meteorite in Tutankhamun's pectoral | Desert & lakes | desert glass, yellow glass, Tut's scarab
+- The lost army of Cambyses | Lore & people | Cambyses, Persian army, lost army
+- Temple of the Oracle of Amun at Aghurmi | Oracle & temples | Oracle of Amun, Temple of Amun, Aghurmi, Alexander's temple, Ammon oracle
+- Alexander the Great at the Oracle, 331 BC | Oracle & temples | Alexander, son of Amun, Zeus Ammon, Alexander's grave
+- Temple of Umm Ubayda (Amun's second temple) | Oracle & temples | Umm Ubayda, Umm Ubayd, second Amun temple, single wall temple
+- Gebel al-Mawta, the Mountain of the Dead | Mountain of the Dead | Mountain of the Dead, Jebel el-Mawta, Siwa tombs, hill of tombs
+- Tomb of Si-Amun | Mountain of the Dead | Si-Amun, Siamun, best painted tomb Siwa
+- Tombs of Mesu-Isis, Niperpathot and the Crocodile | Mountain of the Dead | Niperpathot, Mesu-Isis, crocodile tomb
+- Shali Fortress: the melted mud city | Shali & springs | Shali, old town, mud fortress, kershef
+- Cleopatra's Spring (Ain Guba, Spring of Juba) | Shali & springs | Cleopatra's Pool, Cleopatra's Bath, Ain Guba, Spring of Juba, Ain el-Hammam
+- Dakrur Mountain: sand baths and the Siyaha festival | Shali & springs | Dakrur, Jebel Dakrur, sand bath, Siyaha
+- Fatnas Island: sunset over the salt lake | Desert & lakes | Fatnas, Fantasy Island, Fitnas, sunset island
+- Siwa's salt lakes and the floating pools | Desert & lakes | salt lakes, salt pools, Zeitoun lake, Birket Siwa, floating
+- Siwi people, the Siwa House and the market | Lore & people | Siwa House museum, Siwan culture, Berber, Siwi, market, silver
+- The Qattara Depression and why Siwa is below sea level | Road & Marsa Matruh | Qattara, below sea level, depression

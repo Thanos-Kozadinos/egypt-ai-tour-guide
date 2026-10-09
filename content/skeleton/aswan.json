@@ -1,0 +1,685 @@
+[
+{
+"id": "asw-overview",
+"name": "Aswan: Egypt's southern gate",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Aswan"
+],
+"aliases": [
+"Aswan",
+"Syene",
+"Assuan"
+],
+"note": "Orientation: ancient Swenett/Syene, the border town at the First Cataract, granite quarries, trade with Nubia (ivory = Elephantine), Eratosthenes measured the Earth using Syene's noon sun; what the two days hold: felucca, Botanical Garden, Philae, Nubian Museum, Unfinished Obelisk; the souq; the slower Nubian pace; Agatha Christie at the Old Cataract."
+},
+{
+"id": "asw-felucca-first-cataract",
+"name": "Felucca on the Nile and the First Cataract",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "experience",
+"priority": 1,
+"wiki": [
+"Felucca",
+"Cataracts of the Nile"
+],
+"commons": "Felucca Aswan Nile sunset",
+"aliases": [
+"felucca",
+"sailing",
+"cataract",
+"Nile boat"
+],
+"note": "The lateen-rigged felucca and how it tacks; what you pass: Elephantine, Kitchener's Island, the Aga Khan mausoleum, the dunes of the west bank, Sehel island with 250 rock inscriptions (Famine Stela); the First Cataract as the ancient border ('where the Nile is born' in myth, Khnum's cavern); the Nilometers; negotiating the ride."
+},
+{
+"id": "asw-botanical-garden",
+"name": "Kitchener's Island: the Aswan Botanical Garden",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "site",
+"priority": 2,
+"wiki": [
+"Aswan Botanical Garden",
+"Kitchener's Island"
+],
+"aliases": [
+"Botanical Gardens",
+"Kitchener's Island",
+"Plantation Island",
+"Geziret el-Nabatat"
+],
+"note": "Short. Given to Lord Kitchener after the 1898 Sudan campaign; he imported palms and exotic trees from India and the Far East; now a research station; royal palms avenue, sausage trees, hoopoes and sunbirds; walk the length and take the felucca from the far end."
+},
+{
+"id": "asw-elephantine",
+"name": "Elephantine Island: the ancient town",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "site",
+"priority": 2,
+"wiki": [
+"Elephantine"
+],
+"aliases": [
+"Elephantine",
+"Abu",
+"ruins island",
+"Nubian villages island"
+],
+"note": "Abu 'elephant/ivory' town, border fortress from the Old Kingdom; the German-Swiss excavations; temples of Khnum, Satet and Anuket (the cataract triad); the Nilometer; the Aswan Museum; the two Nubian villages (Siou and Koti) with painted houses; the Movenpick tower; Harkhuf's expeditions started here."
+},
+{
+"id": "asw-khnum-temple-elephantine",
+"name": "Temple of Khnum and the shrine of Heqaib on Elephantine",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Elephantine"
+],
+"commons": "Temple of Khnum Elephantine ruins gateway",
+"aliases": [
+"Khnum temple Aswan",
+"Heqaib",
+"Satet temple"
+],
+"note": "Short. The ram-headed Khnum who formed humans on his potter's wheel and controlled the inundation from the cataract; the Ptolemaic gate; the Satet temple rebuilt layer by layer back to a 3000 BC shrine between boulders (reconstructed by the Swiss); the sanctuary of the deified official Heqaib with Middle Kingdom statues."
+},
+{
+"id": "asw-nilometer",
+"name": "The Nilometers of Elephantine",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Nilometer"
+],
+"commons": "Nilometer Elephantine Aswan staircase",
+"aliases": [
+"Nilometer",
+"flood gauge",
+"measuring stairs"
+],
+"note": "Two Nilometers: the Khnum temple one (staircase with 90 steps, Roman and 19th-century scales in Greek, Arabic and Egyptian cubits) and the Satet one; the flood level set the year's taxes (Strabo); 16 cubits = ideal; the first was the southernmost, giving Egypt first warning; the river no longer floods since 1970."
+},
+{
+"id": "asw-aswan-museum",
+"name": "The Aswan Museum on Elephantine",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "museum",
+"priority": 3,
+"wiki": [
+"Aswan Museum"
+],
+"aliases": [
+"Aswan Museum",
+"Elephantine museum",
+"villa museum"
+],
+"note": "Short. In the 1898 villa of Sir William Willcocks, designer of the old dam; finds from Elephantine (mummified ram of Khnum, Middle Kingdom statues from Heqaib); the annexe with the German team's finds; often quiet."
+},
+{
+"id": "asw-elephantine-papyri",
+"name": "The Elephantine papyri: a Jewish garrison and its temple",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "background",
+"priority": 3,
+"wiki": [
+"Elephantine papyri and ostraca"
+],
+"aliases": [
+"Elephantine papyri",
+"Jewish temple Elephantine",
+"Aramaic papyri"
+],
+"note": "5th century BC Aramaic archive of a Jewish mercenary community serving the Persians, with its own temple to YHW, marriage contracts, a letter about Passover, and the temple's destruction in 410 BC by Khnum's priests; one of the earliest Jewish archives; the lady Mibtahiah's property deeds."
+},
+{
+"id": "asw-philae-overview",
+"name": "Philae: the Temple of Isis on Agilkia",
+"site": "aswan",
+"area": "Philae",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Philae"
+],
+"aliases": [
+"Philae",
+"Temple of Isis",
+"Philae temple",
+"Agilkia"
+],
+"note": "Orientation: 'Pearl of Egypt', mostly Ptolemaic and Roman (c. 380 BC to 300 AD), centre of Isis worship for Egyptians and Nubians (the Blemmyes), the last functioning pagan temple (closed by Justinian 535-537 AD), moved 1972-80 from drowning Philae island to Agilkia, reshaped to match; the boat ride, the route through the temple, where the Nile used to lap; sound and light."
+},
+{
+"id": "asw-philae-kiosk-nectanebo-colonnades",
+"name": "Kiosk of Nectanebo and the colonnades",
+"site": "aswan",
+"area": "Philae",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Philae"
+],
+"commons": "Philae colonnade Nectanebo kiosk",
+"aliases": [
+"first courtyard",
+"colonnades",
+"Nectanebo kiosk",
+"Hathor columns entrance"
+],
+"note": "Where you land: the oldest structure (Nectanebo I, c. 370 BC) with Hathor-head columns; the long trapezoidal forecourt with two colonnades, the west one with 32 columns no two capitals alike and windows onto the (old) river; the east unfinished; the small temple of Arensnuphis (Nubian god)."
+},
+{
+"id": "asw-philae-first-pylon",
+"name": "The first pylon and the mammisi (birth house)",
+"site": "aswan",
+"area": "Philae",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Philae",
+"Mammisi"
+],
+"commons": "Philae first pylon Ptolemy XII smiting",
+"aliases": [
+"first pylon",
+"gate of Philae",
+"birth house",
+"mammisi"
+],
+"note": "18 m pylon with Ptolemy XII Neos Dionysos (Cleopatra's father) smiting enemies before Isis, Horus and Hathor; the French 1799 inscription of Desaix's expedition; the gate of Ptolemy II; inside the court, the mammisi celebrating the birth of Horus to Isis in the marshes, Hathor capitals, the king shown as Horus the child; the Ptolemaic political message."
+},
+{
+"id": "asw-philae-hypostyle-sanctuary",
+"name": "Second pylon, hypostyle hall and the sanctuary of Isis",
+"site": "aswan",
+"area": "Philae",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Philae"
+],
+"commons": "Philae hypostyle hall painted columns",
+"aliases": [
+"hypostyle",
+"sanctuary",
+"inner temple",
+"Isis shrine"
+],
+"note": "Second pylon with the granite outcrop built into it (Ptolemy VI stela); hypostyle with ten columns still showing colour; Coptic crosses and an altar from the church conversion (Bishop Theodore 6th c.); the three vestibules and the sanctuary with the pedestal for Isis' barque (Ptolemy III); the stairs to the Osiris rooms on the roof (Osiris' resurrection reliefs) if open."
+},
+{
+"id": "asw-philae-hadrian-gate-last-hieroglyphs",
+"name": "Gate of Hadrian and the last hieroglyphic inscription (394 AD)",
+"site": "aswan",
+"area": "Philae",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Philae",
+"Egyptian hieroglyphs"
+],
+"commons": "Gate of Hadrian Philae relief source of Nile",
+"aliases": [
+"Hadrian's gate",
+"last hieroglyphs",
+"Esmet-Akhom",
+"source of the Nile relief"
+],
+"note": "West of the temple: the gateway where the relief shows Hapi in the cavern under Bigeh island pouring the Nile from two jars (the mythical source), and the dead Osiris carried by a crocodile; here, on 24 August 394 AD, the priest Esmet-Akhom carved the last dated hieroglyphic inscription, and in 452 AD the last demotic; the script then went unread for 1,400 years until Champollion. The Abaton of Bigeh across the water, Osiris' tomb, where no bird sang."
+},
+{
+"id": "asw-philae-trajan-kiosk",
+"name": "Trajan's Kiosk, 'the Pharaoh's Bed'",
+"site": "aswan",
+"area": "Philae",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Trajan's Kiosk"
+],
+"aliases": [
+"Trajan's Kiosk",
+"Pharaoh's Bed",
+"kiosk by the water",
+"postcard of Philae"
+],
+"note": "14 columns with composite capitals carrying unfinished screen walls, roofless (wooden roof lost); Trajan shown offering to Isis and Osiris inside; probably the ceremonial river entrance where the barque landed; the 19th-century painters' favourite (David Roberts); look how the capitals were never finished."
+},
+{
+"id": "asw-philae-hathor-temple",
+"name": "Temple of Hathor with the musicians and Bes",
+"site": "aswan",
+"area": "Philae",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Philae"
+],
+"commons": "Philae temple of Hathor Bes musicians relief",
+"aliases": [
+"Hathor temple Philae",
+"Bes playing harp",
+"musicians relief"
+],
+"note": "Short. Small Ptolemaic temple east of the main one: reliefs of Bes playing the harp and tambourine, monkeys playing the lute, flute players: Hathor as goddess of music and joy; the Nubian festivals."
+},
+{
+"id": "asw-philae-christian-closing",
+"name": "From Isis to Christ: the closing of Philae",
+"site": "aswan",
+"area": "Philae",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Philae",
+"Blemmyes"
+],
+"aliases": [
+"Philae closed",
+"Justinian",
+"Coptic church Philae",
+"Blemmyes",
+"Nobatae"
+],
+"note": "The Blemmyes and Nobatae nomads kept worshipping Isis under treaty (Diocletian allowed them to borrow her statue yearly) long after Christianity won; Justinian's general Narses closed the temple c. 535-537, imprisoned the priests, took the statues to Constantinople; Bishop Theodore turned the hypostyle into St Stephen's church, hacking the faces of gods and carving crosses; the two Coptic churches on the island."
+},
+{
+"id": "asw-philae-relocation",
+"name": "Moving Philae: coffer dam and 40,000 blocks",
+"site": "aswan",
+"area": "Philae",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Agilkia Island",
+"Philae"
+],
+"aliases": [
+"Philae relocation",
+"Agilkia",
+"moved temple",
+"underwater temple"
+],
+"note": "After the 1902 dam Philae stood half-submerged ten months a year (tourists rowed through the hypostyle); after the High Dam it would have drowned permanently; 1972-80 UNESCO/Italian Condotte-Mazzi: a coffer dam of two rows of steel sheet piles, pumped dry, 40,000 blocks cleaned and numbered, Agilkia island cut down and reshaped to the same outline, 500 m away and 13 m higher."
+},
+{
+"id": "asw-nubian-museum",
+"name": "The Nubian Museum: how to see it",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "museum",
+"priority": 1,
+"wiki": [
+"Nubian Museum"
+],
+"aliases": [
+"Nubia Museum",
+"Nubian Museum Aswan"
+],
+"note": "Orientation: opened 1997 (Aga Khan Award for Architecture, Mahmoud El-Hakim), built in local sandstone like a Nubian village, to hold what was saved from drowned Nubia; the chronological route: prehistory, A-Group, C-Group, Kerma, New Kingdom Nubia, Kush/Napata (25th Dynasty), Meroe, Christian Nubia, Islamic Nubia, ethnography; the garden with a Nubian house and the cave painting; ~2 hours."
+},
+{
+"id": "asw-nubia-history",
+"name": "Nubia in ten minutes: Egypt's rival and twin",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Nubia",
+"Kingdom of Kush"
+],
+"aliases": [
+"Nubia",
+"Kush",
+"Nubians",
+"Ta-Seti",
+"Land of the Bow"
+],
+"note": "Ta-Seti 'Land of the Bow'; the corridor between Egypt and Africa; Lower Nubia (Wawat) vs Upper Nubia (Kush); the cycle: Egyptian conquest (Middle Kingdom forts, New Kingdom temples) then Nubian conquest of Egypt (25th Dynasty 'Black Pharaohs' c. 747-656 BC); Napata and Meroe; more pyramids in Sudan than in Egypt; Nubian language and identity today; the two displacements (1902-1964)."
+},
+{
+"id": "asw-nm-prehistory-agroup",
+"name": "Prehistory and the A-Group: Nubia before Egypt",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "gallery",
+"priority": 2,
+"wiki": [
+"A-Group culture",
+"Prehistoric Egypt"
+],
+"commons": "A-Group Nubia pottery eggshell",
+"aliases": [
+"A-Group",
+"Qustul",
+"Nubian prehistory",
+"eggshell pottery"
+],
+"note": "Eggshell-thin painted pottery of the A-Group (c. 3800-3100 BC), the Qustul incense burner showing a crowned king before Egypt's First Dynasty (the 'Nubian kingship first?' debate), rock art of cattle and giraffes from the drowned region, the Nabta Playa stone circle (older than Stonehenge) in the Western Desert nearby."
+},
+{
+"id": "asw-nm-cgroup-kerma",
+"name": "C-Group, Pan-Grave and the Kingdom of Kerma",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "gallery",
+"priority": 2,
+"wiki": [
+"Kerma culture",
+"C-Group culture"
+],
+"commons": "Kerma pottery black topped red tulip beaker",
+"aliases": [
+"Kerma",
+"C-Group",
+"Medjay",
+"tulip beakers",
+"Deffufa"
+],
+"note": "C-Group cattle herders with their decorated bowls and cattle burials; the Medjay desert archers who became Egypt's police; Kerma (c. 2500-1500 BC), first great African kingdom south of Egypt, with its mud-brick Deffufa temple and kings buried with hundreds of sacrificed retainers; the Middle Kingdom fortresses (Buhen, Semna) built against Kerma, now under Lake Nasser; the Hyksos-Kerma alliance against Thebes."
+},
+{
+"id": "asw-nm-new-kingdom",
+"name": "New Kingdom Nubia: the viceroys and the temples",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "gallery",
+"priority": 2,
+"wiki": [
+"Viceroy of Kush",
+"Nubia"
+],
+"commons": "Nubian Museum Ramesses II statue",
+"aliases": [
+"viceroy of Kush",
+"Egyptian Nubia",
+"Ramesses statue Nubian Museum",
+"Amenhotep son of Hapu Nubia"
+],
+"note": "The colossal Ramesses II statue from Gerf Hussein near the entrance; Nubian princes raised at the Egyptian court (Hekanefer); the tribute scenes (gold rings, panther skins, giraffes); the 'King's Son of Kush' administration; temples of Amada, Derr, Wadi es-Sebua, Dakka, Kalabsha moved from the lake."
+},
+{
+"id": "asw-nm-kush-25th",
+"name": "The Black Pharaohs: Napata and the 25th Dynasty",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "gallery",
+"priority": 1,
+"wiki": [
+"Twenty-fifth Dynasty of Egypt",
+"Taharqa",
+"Piye"
+],
+"commons": "Taharqa statue head Nubian Museum",
+"aliases": [
+"25th Dynasty",
+"Black Pharaohs",
+"Taharqa",
+"Piye",
+"Kushite kings",
+"Napata"
+],
+"note": "Piye's invasion c. 727 BC recorded on his Victory Stela (horses!), the Kushite pharaohs Shabaka, Shebitku, Taharqa, Tanutamun ruling from Napata and Memphis, the double uraeus, the cap crown, the ram of Amun of Gebel Barkal; Taharqa's buildings at Karnak (kiosk, 22 Oct), the Assyrian invasion that ended them (671-663 BC); the archaising art."
+},
+{
+"id": "asw-nm-meroe",
+"name": "Meroe: iron, queens and an unread script",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "gallery",
+"priority": 2,
+"wiki": [
+"Meroë",
+"Kingdom of Kush"
+],
+"commons": "Meroitic pottery Nubian Museum",
+"aliases": [
+"Meroe",
+"Meroitic",
+"Kandake",
+"Candace",
+"Nubian pyramids"
+],
+"note": "Capital moved south to Meroe c. 300 BC; iron smelting ('the Birmingham of Africa'), the steep narrow pyramids (over 200), the ruling queens (Kandake/Candace, Amanirenas who fought Augustus and buried his bronze head under a doorstep), Meroitic script still undeciphered; the lion god Apedemak; the Ballana post-Meroitic X-Group kings with their silver crowns (some here, some in Cairo)."
+},
+{
+"id": "asw-nm-christian-islamic",
+"name": "Christian and Islamic Nubia",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "gallery",
+"priority": 2,
+"wiki": [
+"Makuria",
+"Faras",
+"Nobatia"
+],
+"commons": "Faras fresco Nubian Museum",
+"aliases": [
+"Christian Nubia",
+"Faras frescoes",
+"Makuria",
+"Nubian churches",
+"Islamic Nubia"
+],
+"note": "Conversion in the 6th century, kingdoms of Nobatia, Makuria, Alodia; the Baqt treaty with the Arabs (652 AD, slaves for grain and wine, 600 years of peace); the Faras cathedral frescoes rescued by the Poles (split between Warsaw and Khartoum, a few here), bishops with dark faces and white hands; Old Nubian language; conversion to Islam from the 14th century; the Fatimid-era tombstones from Aswan's cemetery."
+},
+{
+"id": "asw-nm-ethnography",
+"name": "Nubian life: houses, jewellery, music and the lost villages",
+"site": "aswan",
+"area": "Nubian Museum",
+"type": "gallery",
+"priority": 2,
+"wiki": [
+"Nubians",
+"Nubian architecture"
+],
+"commons": "Nubian house painted Aswan",
+"aliases": [
+"Nubian house",
+"Nubian wedding",
+"dioramas",
+"Nubian culture",
+"Kenuz Fadija"
+],
+"note": "The dioramas of a Nubian wedding, the waterwheel (saqiya) and the painted vaulted houses with plates set in the walls; Kenzi vs Fadija Nubians and their languages; the 1964 exodus photographs; the mahogany-coloured henna, the women's gold; the garden's reconstructed house; what the Gharb Soheil village visit shows (and what is staged)."
+},
+{
+"id": "asw-unfinished-obelisk",
+"name": "The Unfinished Obelisk",
+"site": "aswan",
+"area": "Unfinished Obelisk & quarries",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Unfinished obelisk"
+],
+"aliases": [
+"unfinished obelisk",
+"obelisk quarry",
+"Hatshepsut obelisk",
+"biggest obelisk"
+],
+"note": "42 m, 1,168 tons, would have been a third larger than any obelisk ever raised; abandoned when a crack appeared; probably Hatshepsut's (compare her Karnak pair, 22 Oct); shows the whole method: pounding trenches with dolerite balls (you can see the pounder marks), test shafts, the plan to undercut; the Lateran obelisk comparison; the small museum of quarrying; go early, no shade."
+},
+{
+"id": "asw-granite-quarries",
+"name": "The granite quarries: Aswan stone all over Egypt",
+"site": "aswan",
+"area": "Unfinished Obelisk & quarries",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Aswan",
+"Obelisk"
+],
+"commons": "Aswan granite quarry marks",
+"aliases": [
+"granite",
+"quarries",
+"Aswan stone",
+"how obelisks were made"
+],
+"note": "Red and black granite from Aswan in the King's Chamber of the Great Pyramid, Khafre's Valley Temple, every obelisk, the sarcophagi: 900 km downstream by barge in the flood; wedges and fire, dolerite pounders (dolerite is harder than granite), the 'trial-and-error' sides; the Roman quarries and the ancient inscriptions of quarry expeditions; how an obelisk was raised (the sand-pit theory, Chevrier)."
+},
+{
+"id": "asw-qubbet-el-hawa",
+"name": "Qubbet el-Hawa: Tombs of the Nobles",
+"site": "aswan",
+"area": "West bank hills",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"Qubbet el-Hawa"
+],
+"aliases": [
+"Tombs of the Nobles Aswan",
+"Qubbet el-Hawa",
+"west bank tombs",
+"sheikh's dome"
+],
+"note": "Old and Middle Kingdom rock tombs of the governors of Elephantine cut into the west bank cliff below a sheikh's dome; the steep staircases; Sarenput II (12th Dyn, best preserved, Osiride statues and the painted niche), Mekhu and Sabni (6th Dyn, father's body recovered from Nubia), Harkhuf; recent Spanish finds (Jaén University) of a 12th Dynasty family; sunset over the river."
+},
+{
+"id": "asw-harkhuf",
+"name": "Harkhuf and the dancing pygmy letter",
+"site": "aswan",
+"area": "West bank hills",
+"type": "person",
+"priority": 2,
+"wiki": [
+"Harkhuf"
+],
+"aliases": [
+"Harkhuf",
+"pygmy letter",
+"Pepi II letter",
+"explorer of Africa"
+],
+"note": "6th Dynasty caravan leader who made four expeditions to Yam (Sudan), came back with 300 donkeys of incense, ebony, ivory; the letter from the 8-year-old king Pepi II carved on his tomb facade begging him to bring the 'dancing dwarf of the god's dances' safely ('check on him ten times a night'); the first travel narrative in history."
+},
+{
+"id": "asw-aga-khan",
+"name": "Mausoleum of the Aga Khan",
+"site": "aswan",
+"area": "West bank hills",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Mausoleum of Aga Khan"
+],
+"aliases": [
+"Aga Khan",
+"mausoleum on the hill",
+"pink tomb"
+],
+"note": "Short. Fatimid-style pink limestone tomb of Sultan Mohammed Shah, Aga Khan III (died 1957), leader of the Ismaili Shia (a Fatimid link to Cairo), who wintered in Aswan for the climate; his widow the Begum laid a red rose on the tomb daily until her death in 2000; closed to the public, viewed from the river; his villa below."
+},
+{
+"id": "asw-st-simeon",
+"name": "Monastery of St Simeon (Anba Hatre)",
+"site": "aswan",
+"area": "West bank hills",
+"type": "monument",
+"priority": 3,
+"wiki": [
+"Aswan"
+],
+"aliases": [
+"St Simeon",
+"Deir Anba Hatre",
+"desert monastery Aswan"
+],
+"note": "Short. 7th century fortress-monastery in the desert behind the Aga Khan, abandoned 1321 (Saladin's raids and water); the two-storey church with faded Christ in Majesty, the monks' cells with graffiti, the keep; reached by camel or a 20-minute walk from the river."
+},
+{
+"id": "asw-high-dam",
+"name": "The Aswan High Dam and the old British dam",
+"site": "aswan",
+"area": "Dams & lake",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Aswan Dam"
+],
+"aliases": [
+"High Dam",
+"Sadd el-Ali",
+"old dam",
+"British dam",
+"Nasser dam"
+],
+"note": "Old dam 1898-1902 (Willcocks, raised twice, drowned Philae each year); High Dam 1960-70 after the 1956 Suez crisis when the US withdrew funding and Nasser turned to the USSR, Soviet engineers, 3.8 km long, 111 m high, 17x the Great Pyramid in material; results: no more floods or famines, electricity, year-round irrigation, but silt trapped (fertiliser now needed, Delta eroding), Nubia drowned, schistosomiasis; the lotus-shaped Soviet-Egyptian friendship monument."
+},
+{
+"id": "asw-kalabsha",
+"name": "Kalabsha, Beit el-Wali and the Kiosk of Qertassi (near the dam)",
+"site": "aswan",
+"area": "Dams & lake",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Temple of Kalabsha"
+],
+"aliases": [
+"Kalabsha",
+"Beit el-Wali",
+"Qertassi",
+"New Kalabsha"
+],
+"note": "Short. Moved by West Germany 1961-63 to an island near the High Dam: Kalabsha, the largest free-standing Nubian temple (Augustus, to the Nubian god Mandulis), Beit el-Wali (Ramesses II, vivid painted Nubian tribute scenes), the Kiosk of Qertassi; usually quiet; optional if time allows."
+},
+{
+"id": "asw-old-cataract-agatha",
+"name": "The Old Cataract Hotel and Agatha Christie",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "site",
+"priority": 3,
+"wiki": [
+"Old Cataract Hotel"
+],
+"aliases": [
+"Old Cataract",
+"Agatha Christie",
+"Death on the Nile hotel",
+"Sofitel terrace"
+],
+"note": "Short. Built 1899 by Thomas Cook for wealthy winter visitors; Agatha Christie wrote part of Death on the Nile here (1937), Churchill, Tsar Nicholas II, Princess Diana stayed; the 1978 film used it; the terrace at sunset with minimum spend; the Moorish hall."
+},
+{
+"id": "asw-souq-nubian-village",
+"name": "Aswan souq and the Nubian village of Gharb Soheil",
+"site": "aswan",
+"area": "Elephantine & the river",
+"type": "experience",
+"priority": 2,
+"wiki": [
+"Aswan",
+"Nubians"
+],
+"commons": "Gharb Soheil Nubian village colourful houses",
+"aliases": [
+"souq",
+"Nubian village",
+"Gharb Soheil",
+"spice market",
+"crocodile house"
+],
+"note": "Short. Sharia el-Souq: hibiscus (karkadé), dried spices, dom palm fruit, Nubian baskets, galabiyas, less hassle than Cairo; Gharb Soheil: painted houses, the pet crocodiles (tradition of keeping them for luck), henna tattoos, camels; it is touristy but the hospitality is real; sailing back at dusk."
+}
+]

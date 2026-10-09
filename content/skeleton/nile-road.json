@@ -1,0 +1,343 @@
+[
+{
+"id": "nr-overview",
+"name": "The road from Aswan to Luxor: three Ptolemaic temples in a day",
+"site": "nile-road",
+"area": "Background",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Ptolemaic Kingdom",
+"Egyptian temple"
+],
+"aliases": [
+"Aswan to Luxor",
+"temples on the way",
+"Ptolemaic temples",
+"day trip temples"
+],
+"note": "Orientation: 215 km, Kom Ombo (45 km), Edfu (105 km), Esna (155 km); all three are Ptolemaic/Roman (305 BC-250 AD) when Greek kings dressed as pharaohs to keep the priests on side; why they are so well preserved (sand, later dates, villages built over them); timing and heat; how to recognise a Ptolemaic temple (deep-cut relief, composite capitals, screen walls, mammisi, crypts)."
+},
+{
+"id": "nr-ptolemaic-temple-101",
+"name": "How a Ptolemaic temple works: a walk from light to dark",
+"site": "nile-road",
+"area": "Background",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Egyptian temple"
+],
+"aliases": [
+"temple layout",
+"pylon court hypostyle sanctuary",
+"how to read a temple"
+],
+"note": "Pylon as horizon hieroglyph, the open court for the public, the pronaos with screen walls, the hypostyle, the offering hall, the sanctuary with the naos and the barque: floor rising, ceiling lowering, light fading toward the god's dark home; the ambulatory, crypts, stairs to the roof for the New Year ritual; the mammisi; the sacred lake; the enclosure wall as the waters of chaos; who was allowed where."
+},
+{
+"id": "nr-kom-ombo-overview",
+"name": "Temple of Kom Ombo: one temple, two gods",
+"site": "nile-road",
+"area": "Kom Ombo",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Temple of Kom Ombo"
+],
+"aliases": [
+"Kom Ombo",
+"double temple",
+"crocodile temple",
+"Sobek and Horus temple"
+],
+"note": "Ptolemy VI to Roman; unique symmetrical double plan: south half for Sobek the crocodile god (with Hathor and Khonsu), north half for Haroeris 'Horus the Elder' (with Tasenetnofret and Panebtawy); two entrances, two sanctuaries side by side; built on a bend where crocodiles basked; much lost to the river and to the 1893 sugar factory; the view at sunset; the drowned Nubians resettled in 'New Nubia' here after 1964."
+},
+{
+"id": "nr-kom-ombo-surgical",
+"name": "The surgical instruments relief",
+"site": "nile-road",
+"area": "Kom Ombo",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Temple of Kom Ombo",
+"Ancient Egyptian medicine"
+],
+"commons": "Kom Ombo surgical instruments relief",
+"aliases": [
+"medical instruments",
+"surgical tools relief",
+"hospital relief"
+],
+"note": "On the inner face of the outer corridor (back wall): a Roman-period relief of scalpels, forceps, saws, bone-saws, suction cups, scales and a birthing chair offered to the god, with two goddesses on birthing stools; probably a healing-cult list rather than a 'hospital'; link to Egyptian medicine (Edwin Smith papyrus) and to Imhotep; find it on the rear wall near the Nilometer."
+},
+{
+"id": "nr-kom-ombo-calendar",
+"name": "The festival calendar relief",
+"site": "nile-road",
+"area": "Kom Ombo",
+"type": "relief",
+"priority": 2,
+"wiki": [
+"Egyptian calendar",
+"Temple of Kom Ombo"
+],
+"commons": "Kom Ombo calendar relief",
+"aliases": [
+"calendar relief",
+"festival list",
+"hieroglyph numbers"
+],
+"note": "In the offering hall area: a carved list of festival days with offerings, a chance to read Egyptian numerals (strokes, hobbles, coils, lotus) and the 365-day civil calendar (12 x 30 + 5 epagomenal days), the seasons Akhet, Peret, Shemu; the Sothic rising of Sirius; good place to teach reading numbers."
+},
+{
+"id": "nr-kom-ombo-sanctuaries",
+"name": "The twin sanctuaries, the crypts and the Nilometer",
+"site": "nile-road",
+"area": "Kom Ombo",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Temple of Kom Ombo"
+],
+"commons": "Kom Ombo sanctuary crypt",
+"aliases": [
+"sanctuaries",
+"hidden passage",
+"crypt Kom Ombo",
+"Nilometer Kom Ombo",
+"well"
+],
+"note": "The two granite pedestals for the sacred barques; the hidden corridor between the sanctuaries where a priest could 'speak' as the oracle; the crypts under the floor; the deep circular Nilometer well and the crocodile basin outside; the Ptolemy XII and Cleopatra VII reliefs (Cleopatra with Ptolemy XV?) on the pylon remains; the lion-headed drains."
+},
+{
+"id": "nr-crocodile-museum",
+"name": "The Crocodile Museum",
+"site": "nile-road",
+"area": "Kom Ombo",
+"type": "museum",
+"priority": 2,
+"wiki": [
+"Temple of Kom Ombo"
+],
+"aliases": [
+"crocodile mummies",
+"Sobek museum",
+"mummified crocodiles"
+],
+"note": "Small 2012 museum by the exit: ~20 of the 300 crocodile mummies from the nearby necropolis, some 4 m, with gold-leaf eyes and baby crocodiles on their backs; crocodile eggs and foetuses; the bronze and wooden crocodile statues; how and why Sobek's animals were raised in the temple pool, fed honey cakes, adorned with earrings (Herodotus); free with the ticket, air-conditioned."
+},
+{
+"id": "nr-sobek",
+"name": "Sobek: the crocodile who made the Nile",
+"site": "nile-road",
+"area": "Background",
+"type": "god",
+"priority": 2,
+"wiki": [
+"Sobek"
+],
+"aliases": [
+"Sobek",
+"crocodile god",
+"Suchos"
+],
+"note": "Fertility and the river's power, the Faiyum cult (Crocodilopolis, Shedet), merged as Sobek-Ra; the ambiguity of a god who is also the beast that eats you; Amenemhat III's devotion; the Greek name Suchos; the live crocodile oracle; crocodiles returned to Lake Nasser after the dam."
+},
+{
+"id": "nr-edfu-overview",
+"name": "Temple of Horus at Edfu: the best-preserved temple in Egypt",
+"site": "nile-road",
+"area": "Edfu",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Temple of Edfu"
+],
+"aliases": [
+"Edfu",
+"Horus temple",
+"Temple of Edfu",
+"falcon temple"
+],
+"note": "237-57 BC (Ptolemy III to XII, 180 years), buried to the lintels under sand and houses until Mariette cleared it in 1860; complete roof, every room, 36 m pylon; the building texts that record how it was built and what each room was for; the horse-carriage arrival (animal welfare caveat); 2 hours; the order to walk; the 'Myth of Horus' on the enclosure wall; the falcon statue photo."
+},
+{
+"id": "nr-edfu-pylon-court",
+"name": "The pylon, the falcon statues and the court",
+"site": "nile-road",
+"area": "Edfu",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Temple of Edfu"
+],
+"commons": "Edfu temple pylon falcon statue Horus",
+"aliases": [
+"Edfu pylon",
+"falcon statue",
+"granite Horus",
+"Edfu court"
+],
+"note": "Pylon of Ptolemy XII smiting enemies before Horus and Hathor (the same king as at Philae), grooves for flagpoles, the stairs inside (not open); the court of 32 columns with varied capitals; the pair of black granite falcons wearing the double crown, one intact, the most photographed statue in Upper Egypt; the reliefs of the Feast of the Beautiful Meeting around the court."
+},
+{
+"id": "nr-edfu-hypostyle-sanctuary",
+"name": "Hypostyle halls, the library, the laboratory and the sanctuary",
+"site": "nile-road",
+"area": "Edfu",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Temple of Edfu"
+],
+"commons": "Edfu temple sanctuary naos Nectanebo barque",
+"aliases": [
+"Edfu sanctuary",
+"naos",
+"barque shrine",
+"library",
+"laboratory",
+"perfume room"
+],
+"note": "First hypostyle with 12 columns and the two small rooms: the 'House of Books' library with its catalogue of papyri carved on the wall, and the 'House of the Morning' robing room; the second hypostyle and the 'laboratory' with perfume and incense recipes carved in the walls (kyphi); the offering hall; the sanctuary with the polished granite naos of Nectanebo II (the oldest thing here, 360 BC) and a modern replica of the barque; the ceiling soot from Christian squatters; the Nilometer and the stairs to the roof with the New Year procession reliefs."
+},
+{
+"id": "nr-edfu-horus-seth-drama",
+"name": "The Triumph of Horus: the sacred drama on the west wall",
+"site": "nile-road",
+"area": "Edfu",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Temple of Edfu",
+"The Contendings of Horus and Seth"
+],
+"commons": "Edfu Horus harpooning Seth hippopotamus relief",
+"aliases": [
+"Horus and Seth",
+"hippo harpoon relief",
+"sacred drama",
+"Myth of Horus",
+"ambulatory"
+],
+"note": "Inner face of the enclosure wall (west side of the ambulatory): the annual mystery play in which Horus harpoons Seth as a tiny hippopotamus ten times (ritually small so the evil is weak), the king and Isis watching, the hippo cake cut and eaten at the end; the 'Legend of the Winged Disc' where Horus of Behdet flies as the sun to defeat the enemies: origin of the winged sun over every door; the text is one of the few Egyptian dramas with stage directions."
+},
+{
+"id": "nr-edfu-mammisi-festivals",
+"name": "The mammisi and the Feast of the Beautiful Meeting",
+"site": "nile-road",
+"area": "Edfu",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Mammisi",
+"Temple of Edfu"
+],
+"commons": "Edfu mammisi birth house Bes columns",
+"aliases": [
+"mammisi Edfu",
+"birth house",
+"Hathor visits Horus",
+"festival of the beautiful meeting",
+"Bes capitals"
+],
+"note": "The birth house outside the pylon, with Bes on the column abaci and the birth of Harsomtus; each year in the third month of summer Hathor sailed 160 km upriver from Dendera to spend two weeks with Horus here: the Beautiful Meeting, a honeymoon festival with the whole town drunk; the Festival of Victory re-enacting the Seth drama; the Coronation of the Sacred Falcon when a live falcon was crowned."
+},
+{
+"id": "nr-horus",
+"name": "Horus: the falcon, the king and the eye",
+"site": "nile-road",
+"area": "Background",
+"type": "god",
+"priority": 2,
+"wiki": [
+"Horus"
+],
+"aliases": [
+"Horus",
+"falcon god",
+"Eye of Horus",
+"Harpocrates",
+"Horus the Elder"
+],
+"note": "Sky god whose eyes are sun and moon; the many Horuses (Horus the Elder/Haroeris at Kom Ombo, Horus of Behdet at Edfu, Horus the Child/Harpocrates at Philae, Horus son of Isis); every living king as Horus; the Eye lost to Seth and healed by Thoth as the symbol of wholeness (the wedjat you see everywhere, the pharmacy symbol legend); link to the Osiris myth."
+},
+{
+"id": "nr-esna-overview",
+"name": "Temple of Khnum at Esna: the hall under the town",
+"site": "nile-road",
+"area": "Esna",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Temple of Esna",
+"Esna"
+],
+"aliases": [
+"Esna",
+"Temple of Khnum",
+"Esna temple",
+"hall in a pit"
+],
+"note": "Only the Roman hypostyle hall (Claudius to Decius, 1st-3rd c. AD) survives, 9 m below the modern street in a pit because the town grew over it; the rest of the Ptolemaic temple lies under the houses; 24 columns with 18 different lotus/palm capitals; Napoleon's savants, Champollion; the reopened painted ceiling (see next); the Esna barrage; short visit, 30-45 min, after the souq street walk down."
+},
+{
+"id": "nr-esna-ceiling",
+"name": "The restored ceiling: zodiac, vultures and 2,000 years of soot removed",
+"site": "nile-road",
+"area": "Esna",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Temple of Esna"
+],
+"commons": "Esna temple ceiling restored colours zodiac",
+"aliases": [
+"Esna ceiling",
+"restored colours",
+"zodiac Esna",
+"soot cleaning"
+],
+"note": "2018-2024 Egyptian-German project (Tübingen, Christian Leitz; Ministry of Antiquities) cleaned soot, bird droppings and salt to reveal original colours: 46 vultures and winged snakes (Nekhbet and Wadjet) in the central aisle, the Egyptian and Babylonian/Greek zodiac (Sagittarius with a scorpion tail, Pisces), the decans, the sky goddess; hidden texts in colour only, never carved; it is the most complete painted temple ceiling in Egypt now."
+},
+{
+"id": "nr-esna-hymns",
+"name": "Khnum's crossword hymns: a text written only in crocodiles",
+"site": "nile-road",
+"area": "Esna",
+"type": "relief",
+"priority": 2,
+"wiki": [
+"Temple of Esna",
+"Khnum"
+],
+"commons": "Esna temple hieroglyphs crocodile hymn column",
+"aliases": [
+"crocodile hymn",
+"ram hymn",
+"cryptographic hieroglyphs",
+"Esna texts"
+],
+"note": "On two columns, hymns to Khnum written cryptographically: one almost entirely with crocodile signs, another with ram signs: priestly wordplay of the Roman period when hieroglyphs became a secret game with 1,000+ signs; the Esna festival calendar; the creation text where Khnum fashions humans on the potter's wheel, including the detailed anatomy ('he made the hair sprout, the skin cover the flesh'); the Latin-period emperors in pharaoh's dress (Trajan, Hadrian, Decius)."
+},
+{
+"id": "nr-khnum",
+"name": "Khnum: the potter who shaped people",
+"site": "nile-road",
+"area": "Background",
+"type": "god",
+"priority": 2,
+"wiki": [
+"Khnum"
+],
+"aliases": [
+"Khnum",
+"ram god",
+"potter god",
+"god of the cataract"
+],
+"note": "Ram-headed creator who forms each person and their ka on a potter's wheel (shown in Hatshepsut's birth reliefs, 21 Oct), guardian of the Nile's source at Elephantine, lord of Esna with his consorts Neith (here as creator too) and Menhit; the Famine Stela on Sehel island (Djoser's dream); the horizontal-horned ancient ram species."
+}
+]

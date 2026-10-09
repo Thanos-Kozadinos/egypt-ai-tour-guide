@@ -1,0 +1,377 @@
+[
+{
+"id": "siwa-overview",
+"name": "Siwa Oasis: an island of Berbers in the Egyptian desert",
+"site": "siwa",
+"area": "Lore & people",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Siwa Oasis"
+],
+"aliases": [
+"Siwa",
+"oasis",
+"Siwah"
+],
+"note": "Orientation: 560 km from Cairo, 50 km from Libya, below sea level, 300,000 date palms, 70,000 olive trees, salt lakes, springs; Amazigh (Berber) Siwi speakers, 'Isiwan'; isolated until the 1980s road; conservative customs; what to see in a day."
+},
+{
+"id": "siwa-marsa-matruh",
+"name": "Marsa Matruh and the road to Siwa",
+"site": "siwa",
+"area": "Road & Marsa Matruh",
+"type": "area",
+"priority": 2,
+"wiki": [
+"Marsa Matruh"
+],
+"aliases": [
+"Matruh",
+"road to Siwa",
+"Mediterranean stop"
+],
+"note": "Ancient Paraetonium where Alexander turned inland toward Siwa in 331 BC; Cleopatra's Beach and the legend of her bathing with Antony; Rommel's Cave museum and the 1942 campaign; then 300 km south through nothing: the Qattara Depression to the east, the escarpment, first palms."
+},
+{
+"id": "siwa-rommel",
+"name": "Rommel, Montgomery and the desert war around here",
+"site": "siwa",
+"area": "Road & Marsa Matruh",
+"type": "background",
+"priority": 3,
+"wiki": [
+"Marsa Matruh",
+"Western Desert campaign"
+],
+"aliases": [
+"Rommel",
+"WWII",
+"El Alamein",
+"desert war"
+],
+"note": "Short. Rommel's HQ cave at Matruh, El Alamein 1942 just east, Siwa used by the Long Range Desert Group and briefly by Italians; minefields still in parts of the desert, which is why guides keep to tracks."
+},
+{
+"id": "siwa-great-sand-sea",
+"name": "The Great Sand Sea",
+"site": "siwa",
+"area": "Desert & lakes",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Great Sand Sea"
+],
+"aliases": [
+"sand sea",
+"dunes",
+"desert safari",
+"dune bashing"
+],
+"note": "72,000 km2 of dunes between Egypt and Libya, some over 100 m, ridges running N-S for 100+ km; Gerhard Rohlfs 1874 named it; sea fossils (shells, sea urchins) on the floor from the Tethys; Libyan desert glass; safety: 4x4 convoys, GPS, the old Darb routes."
+},
+{
+"id": "siwa-bir-wahed",
+"name": "Bir Wahed: hot and cold springs in the dunes",
+"site": "siwa",
+"area": "Desert & lakes",
+"type": "site",
+"priority": 2,
+"wiki": [
+"Great Sand Sea",
+"Siwa Oasis"
+],
+"commons": "Bir Wahed Siwa spring dunes",
+"aliases": [
+"Bir Wahed",
+"hot spring desert",
+"desert camp"
+],
+"note": "Short. A hot sulphur spring and a cold lake 15 km into the dunes, drilled by oil prospectors; sunset tea with the camp; the stars (no light pollution); what to bring."
+},
+{
+"id": "siwa-desert-glass",
+"name": "Libyan desert glass: the meteorite in Tutankhamun's pectoral",
+"site": "siwa",
+"area": "Desert & lakes",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Libyan desert glass"
+],
+"aliases": [
+"desert glass",
+"yellow glass",
+"Tut's scarab"
+],
+"note": "Yellow-green natural glass strewn over the Great Sand Sea 150 km SE of Siwa, formed ~29 million years ago by a meteorite impact/airburst; the central scarab of Tutankhamun's pectoral (GEM) is carved from it; Clayton's 1932 find; why you should not pick it up (export ban)."
+},
+{
+"id": "siwa-lost-army",
+"name": "The lost army of Cambyses",
+"site": "siwa",
+"area": "Lore & people",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Lost Army of Cambyses"
+],
+"aliases": [
+"Cambyses",
+"Persian army",
+"lost army"
+],
+"note": "Herodotus: 50,000 Persians sent by Cambyses II in 524 BC to destroy the Oracle of Amun, swallowed by a sandstorm; claimed discoveries (Castiglioni brothers 2009, bones and bronze); the sceptics (Olaf Kaper: Petubastis III revolt cover story); why Siwans like the tale."
+},
+{
+"id": "siwa-oracle-temple",
+"name": "Temple of the Oracle of Amun at Aghurmi",
+"site": "siwa",
+"area": "Oracle & temples",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Siwa Oasis",
+"Amun"
+],
+"commons": "Aghurmi temple oracle Amun Siwa",
+"aliases": [
+"Oracle of Amun",
+"Temple of Amun",
+"Aghurmi",
+"Alexander's temple",
+"Ammon oracle"
+],
+"note": "26th Dynasty (Amasis, c. 550 BC) temple on the Aghurmi rock inside a mud-brick village; one of the great oracles of the ancient Mediterranean alongside Delphi; Croesus and Lysander consulted it; the hidden side corridor where priests may have spoken; Alexander's visit 331 BC; the view from the rock over the palms."
+},
+{
+"id": "siwa-alexander",
+"name": "Alexander the Great at the Oracle, 331 BC",
+"site": "siwa",
+"area": "Oracle & temples",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Alexander the Great",
+"Siwa Oasis"
+],
+"commons": "Alexander the Great Siwa oracle Ammon coin horns",
+"aliases": [
+"Alexander",
+"son of Amun",
+"Zeus Ammon",
+"Alexander's grave"
+],
+"note": "The trek from Paraetonium guided by ravens/snakes, rain in the desert; the priest's greeting 'son of Zeus-Ammon' (or a mispronounced 'o paidion'); what he asked; the ram's horns on his coins; the persistent legend that he is buried in Siwa (Souvaltzi 1995 claim, rejected); Greek-Egyptian link for a Greek visitor."
+},
+{
+"id": "siwa-umm-ubayda",
+"name": "Temple of Umm Ubayda (Amun's second temple)",
+"site": "siwa",
+"area": "Oracle & temples",
+"type": "temple",
+"priority": 2,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Umm Ubayda temple Siwa",
+"aliases": [
+"Umm Ubayda",
+"Umm Ubayd",
+"second Amun temple",
+"single wall temple"
+],
+"note": "30th Dynasty temple of Nectanebo II a few hundred metres from Aghurmi, linked by a processional way; blown up in 1896 by an Ottoman governor for building stone, one inscribed wall left standing with reliefs of Amun; the procession of the oracle's barque between the two temples."
+},
+{
+"id": "siwa-gebel-mawta",
+"name": "Gebel al-Mawta, the Mountain of the Dead",
+"site": "siwa",
+"area": "Mountain of the Dead",
+"type": "site",
+"priority": 1,
+"wiki": [
+"Siwa Oasis"
+],
+"aliases": [
+"Mountain of the Dead",
+"Jebel el-Mawta",
+"Siwa tombs",
+"hill of tombs"
+],
+"note": "Conical hill honeycombed with rock-cut tombs from the 26th Dynasty to Roman times; Siwans sheltered in them from Italian bombing in 1940 and looted paintings; the four painted tombs; what you see: Greek-Egyptian mixed style; sunset view."
+},
+{
+"id": "siwa-tomb-si-amun",
+"name": "Tomb of Si-Amun",
+"site": "siwa",
+"area": "Mountain of the Dead",
+"type": "tomb",
+"priority": 1,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Si-Amun tomb Siwa painting",
+"aliases": [
+"Si-Amun",
+"Siamun",
+"best painted tomb Siwa"
+],
+"note": "Finest tomb: a wealthy Greek-Egyptian (curly hair, beard, Greek-style) shown with Egyptian gods; Nut on the ceiling, Osiris, Thoth; 3rd century BC; the damage from 1940 and from tourists' flash; the family scene."
+},
+{
+"id": "siwa-tomb-mesu-isis",
+"name": "Tombs of Mesu-Isis, Niperpathot and the Crocodile",
+"site": "siwa",
+"area": "Mountain of the Dead",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Gebel al-Mawta tomb Siwa crocodile",
+"aliases": [
+"Niperpathot",
+"Mesu-Isis",
+"crocodile tomb"
+],
+"note": "Niperpathot: oldest (26th Dynasty), red-ink inscriptions, 'prophet of Osiris'; Mesu-Isis: cobras frieze over the entrance; Crocodile tomb: a yellow crocodile (Sobek) painted, Ptolemaic. Short per tomb."
+},
+{
+"id": "siwa-shali",
+"name": "Shali Fortress: the melted mud city",
+"site": "siwa",
+"area": "Shali & springs",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Shali fortress Siwa kershef ruins",
+"aliases": [
+"Shali",
+"old town",
+"mud fortress",
+"kershef"
+],
+"note": "Founded 1203 by seven families after attacks; built of kershef (salt-rock + mud + palm) up to five storeys inside one gate (later two, three); nobody lived outside until 1826; three days of rain in 1926 melted it and the town moved out; partially restored since 2018 (EU/Environmental Quality International); climb it at sunset; the old mosque with its minaret."
+},
+{
+"id": "siwa-cleopatra-spring",
+"name": "Cleopatra's Spring (Ain Guba, Spring of Juba)",
+"site": "siwa",
+"area": "Shali & springs",
+"type": "site",
+"priority": 2,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Cleopatra spring Siwa pool",
+"aliases": [
+"Cleopatra's Pool",
+"Cleopatra's Bath",
+"Ain Guba",
+"Spring of Juba",
+"Ain el-Hammam"
+],
+"note": "Round stone pool fed by a natural spring on the road to Aghurmi; Herodotus' 'Fountain of the Sun' (cool by day, warm at night) is probably this or nearby; Cleopatra never came (the name is tourist-era); Juba may be Juba II of Mauretania who wrote on Libya; bathing etiquette (women cover up)."
+},
+{
+"id": "siwa-dakrur",
+"name": "Dakrur Mountain: sand baths and the Siyaha festival",
+"site": "siwa",
+"area": "Shali & springs",
+"type": "site",
+"priority": 2,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Dakrur mountain Siwa",
+"aliases": [
+"Dakrur",
+"Jebel Dakrur",
+"sand bath",
+"Siyaha"
+],
+"note": "Twin-humped hill where Siwans bury rheumatism patients in hot sand in July-August; the three-day Siyaha (Eid el-Siyaha) festival of reconciliation each October full moon, all men eat together on the mountain (dates may coincide with the visit: October full moon 2026 is around the 26th); the view."
+},
+{
+"id": "siwa-fatnas",
+"name": "Fatnas Island: sunset over the salt lake",
+"site": "siwa",
+"area": "Desert & lakes",
+"type": "site",
+"priority": 2,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Fatnas island Siwa sunset lake",
+"aliases": [
+"Fatnas",
+"Fantasy Island",
+"Fitnas",
+"sunset island"
+],
+"note": "Short. Palm-covered islet in Birket Siwa reached by a causeway; the sunset tea ritual; Birket Siwa is salt water from a dying lake, the oasis' drainage problem (rising groundwater from unmanaged springs)."
+},
+{
+"id": "siwa-salt-lakes",
+"name": "Siwa's salt lakes and the floating pools",
+"site": "siwa",
+"area": "Desert & lakes",
+"type": "site",
+"priority": 2,
+"wiki": [
+"Siwa Oasis"
+],
+"commons": "Siwa salt lake pool turquoise",
+"aliases": [
+"salt lakes",
+"salt pools",
+"Zeitoun lake",
+"Birket Siwa",
+"floating"
+],
+"note": "Turquoise salt pools (around Zeitoun/the Ras Zeitoun salt works) where you float like the Dead Sea; salt crust, salt mining and export, salt lamps and salt bricks; Birket Siwa and Birket Zeitoun as the oasis' drainage; don't get the water in your eyes."
+},
+{
+"id": "siwa-siwi-culture",
+"name": "Siwi people, the Siwa House and the market",
+"site": "siwa",
+"area": "Lore & people",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Siwi language",
+"Siwa Oasis"
+],
+"commons": "Siwa house museum traditional",
+"aliases": [
+"Siwa House museum",
+"Siwan culture",
+"Berber",
+"Siwi",
+"market",
+"silver",
+"dates"
+],
+"note": "Amazigh language Siwi (unwritten, ~20,000 speakers); the House of Siwa Museum (built 1990 by a Canadian ambassador to save the architecture); wedding silver and the 'adrim' disc, embroidered dresses, pottery; the famous dates (saidi, frehi) and olive oil; women rarely seen in public, covered in blue-grey tarfottet; the 'zaggalah' bachelor workers legend; market etiquette."
+},
+{
+"id": "siwa-qattara",
+"name": "The Qattara Depression and why Siwa is below sea level",
+"site": "siwa",
+"area": "Road & Marsa Matruh",
+"type": "background",
+"priority": 3,
+"wiki": [
+"Qattara Depression"
+],
+"aliases": [
+"Qattara",
+"below sea level",
+"depression"
+],
+"note": "Short. Siwa sits 19 m below sea level; Qattara to the east reaches -133 m; the never-built plan to flood it from the Mediterranean for hydro power; why springs flow (artesian Nubian sandstone aquifer); the salt marsh (sabkha) you see on the road."
+}
+]

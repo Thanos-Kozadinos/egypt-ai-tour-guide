@@ -1,0 +1,920 @@
+[
+{
+"id": "gem-overview",
+"name": "Grand Egyptian Museum: how to tackle it",
+"site": "gem",
+"area": "Entrance & Atrium",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Grand Egyptian Museum"
+],
+"aliases": [
+"GEM",
+"Giza museum",
+"new museum"
+],
+"note": "Orientation entry: layout (atrium, grand staircase, 12 main galleries by period and theme, Tutankhamun galleries, boat museum), what to see first, pacing. Opened fully in 2025. Do not promise exact room numbers."
+},
+{
+"id": "gem-ramesses-colossus",
+"name": "Colossus of Ramesses II in the atrium",
+"site": "gem",
+"area": "Entrance & Atrium",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Statue of Ramesses II",
+"Ramses Square"
+],
+"commons": "Ramesses II statue Grand Egyptian Museum atrium",
+"aliases": [
+"Ramses II statue",
+"atrium colossus",
+"big statue at entrance"
+],
+"note": "Red granite colossus from Memphis, ~11 m, stood in Ramses Square 1955-2006, moved to GEM 2018. Sun lights its face on Ramesses' birthday/coronation dates (Feb 21 / Oct 21 per museum)."
+},
+{
+"id": "gem-hanging-obelisk",
+"name": "The Hanging Obelisk of Ramesses II",
+"site": "gem",
+"area": "Entrance & Atrium",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Grand Egyptian Museum"
+],
+"commons": "Hanging obelisk Grand Egyptian Museum",
+"aliases": [
+"obelisk outside",
+"plaza obelisk"
+],
+"note": "Outside on the plaza: obelisk from Tanis mounted on a raised base so visitors can walk under and see the cartouche carved on its underside. First 'hanging' obelisk."
+},
+{
+"id": "gem-grand-staircase",
+"name": "The Grand Staircase",
+"site": "gem",
+"area": "Grand Staircase",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Grand Egyptian Museum"
+],
+"commons": "Grand Egyptian Museum grand staircase statues",
+"aliases": [
+"staircase",
+"stairs with statues"
+],
+"note": "Six-storey stair lined with dozens of royal statues, sarcophagi and columns arranged chronologically, ending at a window framing the pyramids. Explain the idea: kingship, divine kingship, gods."
+},
+{
+"id": "gem-pyramid-window",
+"name": "The pyramid window at the top of the stairs",
+"site": "gem",
+"area": "Grand Staircase",
+"type": "viewpoint",
+"priority": 2,
+"wiki": [
+"Grand Egyptian Museum"
+],
+"commons": "Grand Egyptian Museum view of pyramids window",
+"aliases": [
+"view of pyramids",
+"top of staircase"
+],
+"note": "Short entry. The museum's axis is aligned so the Giza pyramids appear framed. Mention the 2-km distance and the architectural alignment to the pyramids."
+},
+{
+"id": "gem-khufu-boat-1",
+"name": "Khufu's first solar boat",
+"site": "gem",
+"area": "Khufu Boat Museum",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Khufu ship"
+],
+"aliases": [
+"solar boat",
+"Cheops boat",
+"Khufu ship",
+"solar barque"
+],
+"note": "43.6 m cedar ship found 1954 in a sealed pit beside the Great Pyramid by Kamal el-Mallakh, reassembled by Ahmed Youssef Moustafa from 1,224 pieces over a decade, moved from the Giza boat museum to GEM in 2021. Purpose debate: solar barque vs funerary vessel."
+},
+{
+"id": "gem-khufu-boat-2",
+"name": "Khufu's second boat",
+"site": "gem",
+"area": "Khufu Boat Museum",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Khufu ship"
+],
+"commons": "Khufu second boat excavation Giza",
+"aliases": [
+"second solar boat"
+],
+"note": "Second pit opened 1987 by camera, excavated 2011-2021 by a Japanese-Egyptian team from Waseda University, restored at GEM. Keep short."
+},
+{
+"id": "gem-tut-gallery",
+"name": "Tutankhamun Galleries: the whole treasure, first time together",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Tomb of Tutankhamun",
+"KV62"
+],
+"aliases": [
+"Tut galleries",
+"Tutankhamun collection",
+"King Tut"
+],
+"note": "Orientation: ~5,000 objects shown together for the first time, arranged to follow the king's life and burial. Discovery by Carter 1922, the four rooms of KV62, how the galleries echo them."
+},
+{
+"id": "gem-tut-mask",
+"name": "Gold Mask of Tutankhamun",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Mask of Tutankhamun"
+],
+"aliases": [
+"Tut mask",
+"golden mask",
+"death mask",
+"Tutankhamun mask"
+],
+"note": "10 kg gold, lapis, quartz, obsidian, carnelian; Book of the Dead spell 151b on the back; nemes, vulture and cobra; 2014 beard-glue incident and restoration; theory it was made for Neferneferuaten."
+},
+{
+"id": "gem-tut-coffins",
+"name": "Tutankhamun's three nested coffins",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Tutankhamun",
+"Tomb of Tutankhamun"
+],
+"commons": "Tutankhamun inner coffin solid gold",
+"aliases": [
+"gold coffin",
+"Tut coffins",
+"sarcophagus"
+],
+"note": "Outer two gilded wood, innermost 110 kg solid gold; quartzite sarcophagus and outermost coffin remain in KV62 with the mummy. Describe the Osiride pose, crook and flail, Nekhbet and Wadjet."
+},
+{
+"id": "gem-tut-throne",
+"name": "Tutankhamun's Golden Throne",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Golden Throne of Tutankhamun",
+"Throne of Tutankhamun"
+],
+"commons": "Tutankhamun golden throne",
+"aliases": [
+"golden throne",
+"Tut throne",
+"chair with Ankhesenamun"
+],
+"note": "Gilded wood with the Aten sun-disc scene of Ankhesenamun anointing the king; mixes Amarna and traditional names (Tutankhaten/Tutankhamun) on the same object: evidence of the religious transition."
+},
+{
+"id": "gem-tut-canopic",
+"name": "Canopic shrine, chest and jars",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Canopic chest of Tutankhamun",
+"Canopic jars"
+],
+"commons": "Tutankhamun canopic shrine goddesses",
+"aliases": [
+"canopic",
+"alabaster chest",
+"four goddesses shrine"
+],
+"note": "Gilded wooden shrine guarded by Isis, Nephthys, Neith and Selket with outstretched arms; inside, a calcite chest with four human-headed stoppers and four miniature gold coffins for the organs."
+},
+{
+"id": "gem-tut-guardian-statues",
+"name": "The two guardian (ka) statues",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Tomb of Tutankhamun"
+],
+"commons": "Tutankhamun guardian statue ka black gold",
+"aliases": [
+"black statues",
+"guardian statues",
+"ka statues"
+],
+"note": "Life-size black-and-gold figures that flanked the sealed burial chamber door; black skin = Osiris, fertility, resurrection; one wears the nemes, the other the khat headdress."
+},
+{
+"id": "gem-tut-chariots",
+"name": "Tutankhamun's chariots",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tutankhamun"
+],
+"commons": "Tutankhamun chariot gilded",
+"aliases": [
+"chariot",
+"war chariot"
+],
+"note": "Six chariots found dismantled; two gilded state chariots with Asiatic and Nubian captives bound on the yoke; what they say about the 'boy king' as warrior/hunter; the chariot in Luxor Museum."
+},
+{
+"id": "gem-tut-beds",
+"name": "The three ritual funerary beds",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tomb of Tutankhamun"
+],
+"commons": "Tutankhamun funerary bed Ammut hippopotamus",
+"aliases": [
+"animal beds",
+"hippo bed",
+"lion bed",
+"cow bed"
+],
+"note": "Gilded couches with heads of the lion-goddess (Mehet/Isis-Mehtet), the cow Mehet-Weret and the hippo-crocodile Ammut; used in the Opening of the Mouth rituals; the carved tongues and faces."
+},
+{
+"id": "gem-tut-painted-box",
+"name": "The Painted Box (hunting and battle scenes)",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tomb of Tutankhamun"
+],
+"commons": "Tutankhamun painted box chest battle",
+"aliases": [
+"painted chest",
+"hunting box"
+],
+"note": "Small wooden chest with miniature painting of the king in his chariot trampling Syrians and Nubians and hunting lions; the finest painting in the tomb; Carter spent weeks emptying it."
+},
+{
+"id": "gem-tut-anubis-shrine",
+"name": "The Anubis Shrine",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Anubis Shrine"
+],
+"aliases": [
+"Anubis jackal",
+"black jackal on shrine"
+],
+"note": "Black jackal on a gilded shrine that guarded the Treasury doorway, found still wrapped in a linen shirt dated to year 7 of Akhenaten; the famous Harry Burton photograph."
+},
+{
+"id": "gem-tut-shrines",
+"name": "The four gilded shrines",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Tomb of Tutankhamun"
+],
+"commons": "Tutankhamun outer shrine gilded burial chamber",
+"aliases": [
+"golden shrines",
+"nested shrines",
+"burial shrines"
+],
+"note": "Four nested gilded wooden shrines that filled the burial chamber like Russian dolls around the sarcophagus; the outermost is the size of a small room; Book of the Divine Cow on the second shrine."
+},
+{
+"id": "gem-tut-dagger",
+"name": "The meteoric iron dagger",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Tutankhamun's meteoric iron dagger"
+],
+"aliases": [
+"iron dagger",
+"meteorite dagger",
+"space dagger"
+],
+"note": "Found on the mummy's thigh; 2016 X-ray fluorescence showed nickel/cobalt ratios of meteoric iron; probably a diplomatic gift from Mitanni (Amarna letters mention iron daggers from Tushratta). Gold dagger companion."
+},
+{
+"id": "gem-tut-trumpets",
+"name": "Tutankhamun's trumpets",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tutankhamun's trumpets"
+],
+"aliases": [
+"silver trumpet",
+"bronze trumpet"
+],
+"note": "One silver, one bronze; played on BBC radio in 1939 (and the lights went out); legend that they summon war: played before WWII, 1967, 1990, and 2011."
+},
+{
+"id": "gem-tut-senet",
+"name": "Senet boards and games",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 3,
+"wiki": [
+"Senet"
+],
+"commons": "Tutankhamun senet game box",
+"aliases": [
+"board game",
+"senet"
+],
+"note": "Four game boxes; senet as a game of passage through the underworld; also 'twenty squares' on the reverse. Short."
+},
+{
+"id": "gem-tut-sandals",
+"name": "Sandals, shoes and the 'enemy underfoot'",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 3,
+"wiki": [
+"Tutankhamun"
+],
+"commons": "Tutankhamun sandals",
+"aliases": [
+"sandals",
+"gold sandals",
+"footwear"
+],
+"note": "Over 80 pieces of footwear; the pair with bound Nubian and Asiatic captives on the soles so the king trod on his enemies; gold sandals on the mummy; the clubfoot debate."
+},
+{
+"id": "gem-tut-mannequin",
+"name": "The wooden 'mannequin' bust",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tutankhamun"
+],
+"commons": "Tutankhamun mannequin bust wooden",
+"aliases": [
+"mannequin",
+"dummy",
+"bust of Tut"
+],
+"note": "Painted wooden torso with a flat-topped crown, no arms, found in the Antechamber; perhaps a dress form for the king's clothes and jewellery, or a ritual figure. Gives his face without idealisation."
+},
+{
+"id": "gem-tut-wishing-cup",
+"name": "The alabaster 'Wishing Cup'",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tutankhamun"
+],
+"commons": "Tutankhamun alabaster lotus chalice wishing cup",
+"aliases": [
+"lotus chalice",
+"wishing cup",
+"alabaster cup"
+],
+"note": "Calcite chalice shaped as an open lotus with Heh figures on the handles; its inscription wishing the king 'millions of years... his eyes beholding happiness' is on Carter's grave in Putney Vale."
+},
+{
+"id": "gem-tut-lotus-head",
+"name": "Head of Tutankhamun as Nefertem on the lotus",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Head of Nefertem"
+],
+"aliases": [
+"lotus head",
+"child head on lotus",
+"Nefertem head"
+],
+"note": "Painted wood head of the boy king rising from a blue lotus like the sun god at creation; found in the tomb corridor rubble; Carter nearly got into trouble as it was not registered (found later in a Fortnum & Mason crate)."
+},
+{
+"id": "gem-tut-jewellery",
+"name": "Pectorals, collars and the desert-glass scarab",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Tutankhamun",
+"Libyan desert glass"
+],
+"commons": "Tutankhamun pectoral scarab desert glass",
+"aliases": [
+"pectoral",
+"jewellery",
+"necklace",
+"scarab pectoral"
+],
+"note": "Over 140 pieces on the mummy and in boxes; the winged scarab pectoral whose yellow-green scarab is Libyan desert glass formed by a meteorite impact in the Great Sand Sea (link to Siwa); gold collars, earrings showing pierced ears."
+},
+{
+"id": "gem-tut-ushabtis",
+"name": "The 413 shabtis",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Ushabti"
+],
+"commons": "Tutankhamun shabti",
+"aliases": [
+"shabti",
+"ushabti",
+"servant figures"
+],
+"note": "365 workers + 36 overseers + 12 monthly overseers = 413, in wood, faience, stone; some gifted by officials Maya and Nakhtmin; the spell 6 text; what they were for."
+},
+{
+"id": "gem-tut-statuettes",
+"name": "Gilded statuettes: the king on a panther, harpooning, and the gods",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tutankhamun"
+],
+"commons": "Tutankhamun statuette panther gilded",
+"aliases": [
+"panther statue",
+"harpoon statue",
+"gilded gods"
+],
+"note": "Wrapped in linen in black shrines: Tut riding a black leopard, Tut on a papyrus skiff harpooning (an invisible Seth-hippo), and some 30 gilded deities (Ptah, Sekhmet, Duamutef...). Some are thought reused from Neferneferuaten's planned burial."
+},
+{
+"id": "gem-tut-fans",
+"name": "Ostrich-feather fans and walking sticks",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 3,
+"wiki": [
+"Tutankhamun"
+],
+"commons": "Tutankhamun fan gold ostrich hunt",
+"aliases": [
+"fan",
+"walking sticks",
+"canes"
+],
+"note": "Gold fan showing the king hunting ostriches at Heliopolis; the 130 walking sticks, some worn with use, feeding the theory he limped."
+},
+{
+"id": "gem-tut-little-golden-shrine",
+"name": "The Little Golden Shrine",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Tutankhamun"
+],
+"aliases": [
+"small golden shrine",
+"gold shrine with queen scenes"
+],
+"note": "Small gilded shrine covered in tender scenes of Tut and Ankhesenamun (she hands him arrows, anoints him, ties his collar); the statue inside was stolen in antiquity; the themes of fertility and kingship."
+},
+{
+"id": "gem-tut-linen-clothes",
+"name": "The king's wardrobe: tunics, gloves, loincloths",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "object",
+"priority": 3,
+"wiki": [
+"Tutankhamun"
+],
+"commons": "Tutankhamun tunic textile",
+"aliases": [
+"clothes",
+"tunic",
+"gloves",
+"textiles"
+],
+"note": "Hundreds of textiles incl. a tapestry-woven tunic, gloves, 145 loincloths, and a 'dalmatic' with duck motifs; rarely surviving evidence of royal dress. Short."
+},
+{
+"id": "gem-tut-mummy-and-tomb",
+"name": "What stayed in the tomb: the mummy, the sarcophagus, the paintings",
+"site": "gem",
+"area": "Tutankhamun Galleries",
+"type": "background",
+"priority": 2,
+"wiki": [
+"KV62"
+],
+"aliases": [
+"Tut mummy",
+"where is the mummy"
+],
+"note": "Explain that the mummy, the quartzite sarcophagus and the outermost coffin are still in KV62 in Luxor (visited 21 Oct), so the user understands the split. Carter's rough handling of the body, the 2005 CT scan, the cause-of-death theories (leg fracture + malaria), the 2010 DNA study (Akhenaten's son)."
+},
+{
+"id": "mp-narmer-palette",
+"name": "Narmer Palette",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Narmer Palette"
+],
+"aliases": [
+"Narmer",
+"first pharaoh palette",
+"unification palette"
+],
+"note": "LOCATION UNCERTAIN: historically Egyptian Museum Tahrir; may be at GEM. Say 'if you find it'. c. 3100 BC, Hierakonpolis, earliest hieroglyphs, smiting pose, the 'unification of Two Lands', serpopards, Hathor/Bat heads."
+},
+{
+"id": "mp-khafre-statue",
+"name": "Khafre Enthroned (diorite statue with Horus)",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Khafre Enthroned"
+],
+"aliases": [
+"Khafre statue",
+"Chephren statue",
+"Horus falcon behind head"
+],
+"note": "LOCATION UNCERTAIN (Tahrir or GEM). Gneiss/diorite from Nubia found 1860 by Mariette in a pit in the Valley Temple at Giza (seen 12 Oct); Horus embracing the king's head; sema-tawy on throne; 23 statues originally."
+},
+{
+"id": "mp-menkaure-triads",
+"name": "The Menkaure triads",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 2,
+"wiki": [
+"Menkaure"
+],
+"commons": "Menkaure triad Cairo Hathor nome",
+"aliases": [
+"Menkaure statues",
+"Mycerinus triads",
+"king with Hathor and nome goddess"
+],
+"note": "LOCATION UNCERTAIN. Greywacke triads of Menkaure with Hathor and a nome goddess from his valley temple (Reisner 1908); the 'dyad' with his queen is in Boston."
+},
+{
+"id": "mp-khufu-statuette",
+"name": "The tiny ivory statuette of Khufu",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Khufu Statuette"
+],
+"aliases": [
+"Khufu ivory",
+"Cheops statue",
+"smallest statue biggest pyramid"
+],
+"note": "LOCATION UNCERTAIN. 7.5 cm ivory from Abydos, found by Petrie 1903 (the head found later after sieving for weeks); the only complete portrait of the builder of the Great Pyramid; red crown, Horus name on the throne."
+},
+{
+"id": "mp-rahotep-nofret",
+"name": "Rahotep and Nofret",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Prince Rahotep",
+"Nofret"
+],
+"commons": "Rahotep and Nofret statues",
+"aliases": [
+"seated couple",
+"prince and wife",
+"Nofret"
+],
+"note": "LOCATION UNCERTAIN. Painted limestone pair from Meidum (Mariette 1871); inlaid rock-crystal eyes so lifelike the workmen fled; skin-colour conventions (men red-brown, women pale); Rahotep son of Sneferu."
+},
+{
+"id": "mp-meidum-geese",
+"name": "The Meidum Geese",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Meidum Geese"
+],
+"aliases": [
+"geese painting",
+"Mona Lisa of Egypt"
+],
+"note": "LOCATION UNCERTAIN. Painted plaster frieze from the mastaba of Nefermaat and Itet at Meidum, c. 2600 BC; 2015 forgery claim and rebuttal; identifying the species."
+},
+{
+"id": "mp-kaaper",
+"name": "Ka-aper, the 'Sheikh el-Balad'",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 2,
+"wiki": [
+"Kaaper"
+],
+"aliases": [
+"Sheikh el-Balad",
+"wooden priest",
+"village chief statue"
+],
+"note": "LOCATION UNCERTAIN. Sycamore wood, c. 2450 BC, Saqqara; workers nicknamed him after their village headman; rock-crystal eyes in copper frames; a real paunchy middle-aged man."
+},
+{
+"id": "mp-seneb",
+"name": "Seneb the dwarf and his family",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 2,
+"wiki": [
+"Seneb"
+],
+"aliases": [
+"dwarf statue",
+"Seneb family"
+],
+"note": "LOCATION UNCERTAIN. Painted limestone group from Giza; the sculptor's solution of placing the children where legs would be; Seneb's high offices; attitudes to dwarfism in Egypt (Bes, Ptah)."
+},
+{
+"id": "mp-hetepheres",
+"name": "Queen Hetepheres' furniture",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Hetepheres I"
+],
+"commons": "Hetepheres furniture bed canopy Cairo",
+"aliases": [
+"Hetepheres",
+"gold furniture",
+"Khufu's mother"
+],
+"note": "LOCATION UNCERTAIN. Gilded bed, canopy, carrying chair and curtain box from a shaft (G7000X) near the Great Pyramid found by Reisner 1925; the empty sarcophagus mystery; the canopic chest with the earliest known embalming remains."
+},
+{
+"id": "mp-hesy-ra",
+"name": "The wooden panels of Hesy-Ra",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 3,
+"wiki": [
+"Hesy-Ra"
+],
+"aliases": [
+"Hesy-Ra panels",
+"earliest dentist"
+],
+"note": "LOCATION UNCERTAIN. Cedar relief panels from his Saqqara mastaba, 3rd Dynasty; 'chief of dentists and physicians'; the scribal kit on his shoulder; his tomb the earliest with painted walls."
+},
+{
+"id": "mp-djoser-statue",
+"name": "The seated statue of Djoser",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 2,
+"wiki": [
+"Djoser"
+],
+"commons": "Djoser statue Cairo Museum serdab",
+"aliases": [
+"Djoser",
+"Step Pyramid king",
+"serdab statue"
+],
+"note": "LOCATION UNCERTAIN. Oldest life-size Egyptian royal statue, from the serdab of the Step Pyramid at Saqqara; the hollowed eyes robbed of inlay; the replica still sits in the serdab facing the stars."
+},
+{
+"id": "mp-mentuhotep-statue",
+"name": "Black seated statue of Mentuhotep II",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 2,
+"wiki": [
+"Mentuhotep II"
+],
+"commons": "Mentuhotep II seated statue Cairo black",
+"aliases": [
+"Mentuhotep",
+"black statue red crown",
+"Sed festival statue"
+],
+"note": "LOCATION UNCERTAIN. Found by Carter in 1900 when his horse stumbled into the 'Bab el-Hosan' shaft at Deir el-Bahari; black skin = Osiris; Sed-festival cloak; reunifier of Egypt after the First Intermediate Period."
+},
+{
+"id": "mp-akhenaten-colossi",
+"name": "The colossi of Akhenaten from Karnak",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Colossal Statues of Akhenaten at East Karnak",
+"Akhenaten"
+],
+"commons": "Akhenaten colossal statue Cairo Museum",
+"aliases": [
+"Akhenaten statue",
+"strange pharaoh",
+"Amarna style"
+],
+"note": "LOCATION UNCERTAIN. Sandstone colossi from the Gempaaten at East Karnak (found 1925); the elongated face, belly, thighs; the sexless one; theories: Marfan, Froehlich, or deliberate theology of the Aten as mother and father."
+},
+{
+"id": "mp-amenhotep3-tiye",
+"name": "Colossal pair of Amenhotep III and Queen Tiye",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Colossal statue of Amenhotep III and Tiye"
+],
+"aliases": [
+"Amenhotep III and Tiye",
+"giant couple statue",
+"king and queen same size"
+],
+"note": "LOCATION UNCERTAIN (long in the Tahrir atrium; may be at GEM). 7 m limestone from Medinet Habu; Tiye shown equal in size to the king, unusual; their daughters at their feet; the Colossi of Memnon are the same king (21 Oct)."
+},
+{
+"id": "mp-yuya-tjuyu",
+"name": "Yuya and Tjuyu: Tutankhamun's great-grandparents",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Yuya",
+"KV46"
+],
+"commons": "Yuya mummy mask Cairo",
+"aliases": [
+"Yuya",
+"Tjuyu",
+"Thuya",
+"best preserved mummies"
+],
+"note": "LOCATION UNCERTAIN (mummies at NMEC; objects Tahrir/GEM). KV46 found 1905 by Davis/Quibell, intact until Tut's; their gilded masks, chairs (Sitamun's chair), the jewel box; parents of Queen Tiye; theories Yuya was foreign."
+},
+{
+"id": "mp-merneptah-stele",
+"name": "The Merneptah Stele (the 'Israel Stele')",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Merneptah Stele"
+],
+"aliases": [
+"Israel stele",
+"Merneptah",
+"first mention of Israel"
+],
+"note": "LOCATION UNCERTAIN. Black granite, reused from Amenhotep III's temple (Kom el-Hettan); found by Petrie 1896 in Merneptah's mortuary temple; 'Israel is laid waste, its seed is no more': the earliest extra-biblical mention of Israel."
+},
+{
+"id": "mp-psusennes-gold",
+"name": "The gold of Tanis: mask and silver coffin of Psusennes I",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 1,
+"wiki": [
+"Psusennes I"
+],
+"commons": "Psusennes I gold mask",
+"aliases": [
+"Tanis treasure",
+"silver coffin",
+"Psusennes",
+"the other gold mask"
+],
+"note": "LOCATION UNCERTAIN. Pierre Montet found the intact royal tombs of Tanis in 1939-40, eclipsed by WWII news; solid silver coffin (silver rarer than gold in Egypt), gold mask, reused sarcophagus of Merneptah; Sheshonq II's silver falcon coffin."
+},
+{
+"id": "mp-ahhotep-jewellery",
+"name": "Queen Ahhotep's jewellery and the golden flies",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 3,
+"wiki": [
+"Ahhotep I"
+],
+"commons": "Ahhotep golden flies of valour",
+"aliases": [
+"golden flies",
+"Ahhotep",
+"flies of valour"
+],
+"note": "LOCATION UNCERTAIN. Found 1859 at Dra Abu el-Naga; the 'Golden Flies of Valour' military decoration, ceremonial axe of Ahmose, model boats; the warrior queen who held Thebes during the war against the Hyksos."
+},
+{
+"id": "mp-fayum-portraits",
+"name": "Fayum mummy portraits",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Fayum mummy portraits"
+],
+"aliases": [
+"Fayum portraits",
+"Roman faces",
+"painted mummy faces"
+],
+"note": "LOCATION UNCERTAIN (both museums have some). Encaustic portraits on wood from Roman-era Egypt (1st-3rd c. AD), the most lifelike faces to survive from antiquity; Petrie at Hawara, Graf collection; Greek names, Egyptian burial."
+},
+{
+"id": "mp-royal-mummies-note",
+"name": "Where are the royal mummies? (NMEC, not here)",
+"site": "gem",
+"area": "Masterpieces: GEM or Tahrir, check label",
+"type": "background",
+"priority": 2,
+"wiki": [
+"National Museum of Egyptian Civilization",
+"Pharaohs' Golden Parade"
+],
+"aliases": [
+"mummies",
+"royal mummies",
+"Ramesses II mummy",
+"Golden Parade"
+],
+"note": "Explain: 22 royal mummies (Ramesses II, Seti I, Hatshepsut, Thutmose III, Amenhotep III, Tiye...) moved from Tahrir to NMEC in Fustat in the Pharaohs' Golden Parade of 3 April 2021. Not at GEM. Mention Ramesses II's 1976 passport to Paris."
+}
+]

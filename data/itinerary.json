@@ -1,0 +1,47 @@
+[
+  {"date": "2026-10-10", "city": "Cairo", "hotel": "InterContinental Cairo Semiramis", "items": [
+    {"text": "Airport to hotel"}, {"text": "Food"}]},
+  {"date": "2026-10-11", "city": "Cairo", "hotel": "InterContinental Cairo Semiramis", "items": [
+    {"text": "Grand Egyptian Museum", "site": "gem"}, {"text": "Food"}]},
+  {"date": "2026-10-12", "city": "Cairo", "hotel": "InterContinental Cairo Semiramis", "items": [
+    {"text": "Khufu's breakfast, 9 AM"}, {"text": "Giza Necropolis", "site": "giza"}, {"text": "Food"}]},
+  {"date": "2026-10-13", "city": "Cairo to Siwa", "hotel": "Siwa", "items": [
+    {"text": "Road to Siwa, 6 AM", "site": "siwa", "entry": "siwa-marsa-matruh"}, {"text": "Lunch in Marsa Matruh", "entry": "siwa-marsa-matruh"},
+    {"text": "Great Sand Sea", "entry": "siwa-great-sand-sea"}, {"text": "Siwan camp in the desert", "entry": "siwa-bir-wahed"}]},
+  {"date": "2026-10-14", "city": "Siwa", "hotel": "Siwa", "items": [
+    {"text": "Mountain of the Dead", "entry": "siwa-gebel-mawta"}, {"text": "Temple of the Oracle of Amun", "entry": "siwa-oracle-temple"},
+    {"text": "Lake Siwa", "entry": "siwa-salt-lakes"}, {"text": "Cleopatra's Pool, Spring of Juba", "entry": "siwa-cleopatra-spring"},
+    {"text": "Dakrur Mountain", "entry": "siwa-dakrur"}, {"text": "Fitnas Island", "entry": "siwa-fatnas"},
+    {"text": "Traditional Siwa House", "entry": "siwa-siwi-culture"}, {"text": "Shali Fortress", "entry": "siwa-shali"}]},
+  {"date": "2026-10-15", "city": "Siwa to Cairo", "hotel": "InterContinental Cairo Semiramis", "items": [
+    {"text": "Breakfast, market", "entry": "siwa-siwi-culture"}, {"text": "Road back to Cairo (two rest houses)"}, {"text": "Food"}]},
+  {"date": "2026-10-16", "city": "Cairo", "hotel": "InterContinental Cairo Semiramis", "items": [
+    {"text": "Khan el-Khalili", "site": "cairo-islamic", "entry": "isl-khan-el-khalili"}, {"text": "Al-Muizz Street", "entry": "isl-muizz-street"},
+    {"text": "Mosque-Madrasa of Sultan Hassan", "entry": "isl-sultan-hassan"}, {"text": "Saladin Citadel", "entry": "isl-citadel"},
+    {"text": "Abdeen Palace", "entry": "isl-abdeen"}, {"text": "Food"}]},
+  {"date": "2026-10-17", "city": "Cairo to Abu Simbel", "hotel": "Retac Abu Simbel Nefertari Hotel", "items": [
+    {"text": "Hotel to airport, flight to Abu Simbel"}, {"text": "Abu Simbel Temples", "site": "abu-simbel"}, {"text": "Food"}]},
+  {"date": "2026-10-18", "city": "Abu Simbel to Aswan", "hotel": "Basma Hotel Aswan", "items": [
+    {"text": "Abu Simbel to Aswan by car", "entry": "abs-lake-nasser"}, {"text": "Felucca ride", "entry": "asw-felucca-first-cataract"},
+    {"text": "Botanical Gardens, Kitchener's Island", "entry": "asw-botanical-garden"}, {"text": "Food"}]},
+  {"date": "2026-10-19", "city": "Aswan", "hotel": "Basma Hotel Aswan", "items": [
+    {"text": "Philae Temple", "site": "aswan", "entry": "asw-philae-overview"}, {"text": "Nubian Museum", "entry": "asw-nubian-museum"},
+    {"text": "Unfinished Obelisk", "entry": "asw-unfinished-obelisk"}, {"text": "Food"}]},
+  {"date": "2026-10-20", "city": "Aswan to Luxor", "hotel": "Luxor", "items": [
+    {"text": "Aswan to Luxor by car", "site": "nile-road"}, {"text": "Kom Ombo", "entry": "nr-kom-ombo-overview"},
+    {"text": "Edfu Temple", "entry": "nr-edfu-overview"}, {"text": "Temple of Khnum, Esna", "entry": "nr-esna-overview"}, {"text": "Food"}]},
+  {"date": "2026-10-21", "city": "Luxor", "hotel": "Luxor", "items": [
+    {"text": "Private driver, West Bank", "site": "luxor-west"}, {"text": "Valley of the Kings", "entry": "lw-vok-overview"},
+    {"text": "Deir el-Bahari, Temple of Hatshepsut", "entry": "lw-hatshepsut-temple"}, {"text": "Deir el-Medina", "entry": "lw-deir-el-medina"},
+    {"text": "Valley of the Queens", "entry": "lw-voq-overview"}, {"text": "Colossi of Memnon", "entry": "lw-colossi-memnon"},
+    {"text": "Medinet Habu, temple of Ramesses III", "entry": "lw-medinet-habu-overview"}]},
+  {"date": "2026-10-22", "city": "Luxor", "hotel": "Luxor", "items": [
+    {"text": "East Bank", "site": "luxor-east"}, {"text": "Luxor Temple", "entry": "le-lt-overview"},
+    {"text": "Mummification Museum", "entry": "le-mm-overview"}, {"text": "Luxor Museum", "entry": "le-lm-overview"},
+    {"text": "Karnak Temple", "entry": "le-k-overview"}, {"text": "Sphinx Avenue", "entry": "le-lt-sphinx-avenue"},
+    {"text": "Temple of Khonsu", "entry": "le-k-khonsu-temple"}, {"text": "Scarab statue", "entry": "le-k-scarab"},
+    {"text": "Sacred Lake", "entry": "le-k-sacred-lake"}, {"text": "Chapel of Osiris", "entry": "le-k-osiris-heqadjet"},
+    {"text": "Avenue of the Rams", "entry": "le-k-avenue-rams"}, {"text": "Lotus Papyrus shop, Ata Bazar", "entry": "le-papyrus-real"}]},
+  {"date": "2026-10-23", "city": "Luxor to Cairo", "hotel": "Cairo", "items": [{"text": "Flight to Cairo"}]},
+  {"date": "2026-10-24", "city": "Cairo", "hotel": "", "items": [{"text": "Flight to Thessaloniki"}]}
+]

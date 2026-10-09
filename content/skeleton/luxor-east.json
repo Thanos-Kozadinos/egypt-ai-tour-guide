@@ -1,0 +1,940 @@
+[
+{
+"id": "le-overview",
+"name": "Luxor East Bank: Thebes, the hundred-gated city",
+"site": "luxor-east",
+"area": "Practical",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Luxor",
+"Thebes, Egypt"
+],
+"aliases": [
+"Luxor",
+"Thebes",
+"Waset",
+"East Bank",
+"hundred gated Thebes"
+],
+"note": "Orientation: Waset/Thebes, capital of the New Kingdom, Homer's 'hundred-gated Thebes', the city of Amun; Luxor Temple in the centre (the 'southern sanctuary' of Amun's wife and son), Karnak 3 km north linked by the Avenue of Sphinxes, the two museums on the Corniche; a suggested order for the day (Karnak early, Luxor Museum midday heat, Luxor Temple at dusk when lit); the name Luxor from al-Uqsur 'the palaces/castles' (Roman camp)."
+},
+{
+"id": "le-lt-overview",
+"name": "Luxor Temple: the temple of the royal ka",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Luxor Temple"
+],
+"aliases": [
+"Luxor Temple",
+"Ipet-resyt",
+"southern sanctuary",
+"temple in town"
+],
+"note": "'Ipet-resyt', built mainly by Amenhotep III (c. 1390 BC) and Ramesses II, with Tutankhamun, Horemheb, Alexander and Romans adding; not to a cult of a god as such but to the renewal of the king's divine ka during the Opet Festival when Amun came from Karnak; the plan reads north to south: Ramesses' pylon and court, Amenhotep's colonnade, court, hypostyle, Alexander's shrine, the birth room, the sanctuary; the mosque, the church, the Roman camp: 3,500 years of continuous worship; best at sunset and after dark (open late)."
+},
+{
+"id": "le-lt-sphinx-avenue",
+"name": "The Avenue of Sphinxes (Kebash Road)",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Avenue of Sphinxes"
+],
+"aliases": [
+"Sphinx Avenue",
+"Avenue of Sphinxes",
+"Kebash road",
+"Rams road",
+"2.7 km avenue"
+],
+"note": "2.7 km processional road between Luxor and Karnak lined with 1,057 sphinxes: human-headed (Nectanebo I, 380 BC) near Luxor Temple, ram-headed and ram statues nearer Karnak (Amenhotep III, Tutankhamun); the Opet procession route (also used by river); buried under the town, cleared 1949-2021 by demolishing houses, a church and a mosque's courtyard; reopened with the televised parade of 25 November 2021; walk a section at dusk; the Roman-era chapels and wine presses found along it."
+},
+{
+"id": "le-lt-pylon-obelisk",
+"name": "Pylon of Ramesses II, the colossi and the lonely obelisk",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Luxor Obelisks",
+"Luxor Temple"
+],
+"commons": "Luxor Temple pylon obelisk Ramesses II colossi",
+"aliases": [
+"Luxor obelisk",
+"Paris obelisk",
+"pylon",
+"seated colossi",
+"Kadesh pylon Luxor"
+],
+"note": "The 24 m pylon with the Battle of Kadesh (the camp, the council, the charge) worn but legible; six colossi originally (two seated remain, a third standing re-erected 2019); the pair of pink granite obelisks, the western one (23 m) given to France by Muhammad Ali in 1830 and raised in the Place de la Concorde in 1836 (in exchange for a clock that never worked; see the Citadel); the remaining one is slightly taller and deliberately set forward to look equal in perspective; the baboons on the base."
+},
+{
+"id": "le-lt-abu-haggag",
+"name": "The mosque of Abu el-Haggag, standing on the temple",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "mosque",
+"priority": 1,
+"wiki": [
+"Abu Haggag Mosque"
+],
+"aliases": [
+"Abu el-Haggag",
+"mosque in the temple",
+"mosque on columns",
+"moulid"
+],
+"note": "13th-century mosque built when the temple was buried to shoulder height; its floor is now 10 m above the court of Ramesses II, its door opens into the air, columns of the temple poke through its floor; Sheikh Yusuf Abu el-Haggag, a 12th-century Sufi from Baghdad; his annual moulid with boats dragged through town, possibly an echo of the Opet festival; 2007 fire and restoration revealed Ramesside reliefs inside; the temple has never stopped being a holy place."
+},
+{
+"id": "le-lt-ramesses-court",
+"name": "Court of Ramesses II and the triple shrine",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Luxor Temple"
+],
+"commons": "Luxor Temple court of Ramesses II colossi papyrus columns",
+"aliases": [
+"Ramesses court",
+"first court",
+"triple shrine",
+"Hatshepsut shrine",
+"sons of Ramesses relief"
+],
+"note": "74 papyrus-bud columns between standing colossi of the king (Nefertari small at his leg); the court set at an angle to align with Karnak; the triple barque shrine of Hatshepsut/Thutmose III (older, incorporated) for Amun, Mut and Khonsu; the procession of 17 sons of Ramesses on the west wall and the pylon's rear showing the temple's own facade with obelisks and flags; the Ramesside sandstone vs Amenhotep's; the statue of the king with Queen Nefertari in black granite."
+},
+{
+"id": "le-lt-colonnade-opet",
+"name": "The Colonnade of Amenhotep III and the Opet Festival reliefs",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Opet Festival",
+"Luxor Temple"
+],
+"commons": "Luxor Temple colonnade Amenhotep III Opet procession relief",
+"aliases": [
+"colonnade",
+"Opet reliefs",
+"Tutankhamun reliefs",
+"14 columns",
+"procession reliefs"
+],
+"note": "Fourteen 16 m papyrus columns with open capitals: the model for Karnak's hypostyle; the walls carved under Tutankhamun (usurped by Horemheb) with the Opet procession in detail: the barques leaving Karnak, soldiers, acrobats bending backwards, musicians, butchers, Nubian dancers, the river towing, the arrival at Luxor, and the return; read west wall going south, east wall going north; the Opet Festival: Amun's annual 'honeymoon' visit to renew the king's ka, 11 days growing to 27, beer and bread for all; Chicago House epigraphic survey."
+},
+{
+"id": "le-lt-amenhotep-court",
+"name": "The sun court of Amenhotep III and the Luxor cachette",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Luxor Temple"
+],
+"commons": "Luxor Temple court of Amenhotep III columns",
+"aliases": [
+"Amenhotep court",
+"sun court",
+"second court",
+"Luxor cachette 1989",
+"clustered columns"
+],
+"note": "The elegant court with double rows of papyrus-bundle columns on three sides, the finest 18th Dynasty architecture; in 1989, while checking foundations, workers found a pit with 26 perfect statues buried by priests in the Roman period (the Luxor cachette): Amenhotep III on a sledge, Horemheb before Atum, Hathor, Iunyt: now the glory of Luxor Museum (visit the same day); the 32-column hypostyle beyond with the Roman plaster."
+},
+{
+"id": "le-lt-roman-chapel",
+"name": "The Roman chapel: emperors painted over pharaohs",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Luxor Temple"
+],
+"commons": "Luxor Temple Roman fresco tetrarchs Diocletian",
+"aliases": [
+"Roman frescoes",
+"tetrarchs",
+"Roman camp",
+"Diocletian chapel",
+"legion shrine"
+],
+"note": "Around 300 AD Diocletian made the temple the centre of a legionary fortress (castra, hence al-Uqsur): the first antechamber became the chapel of the imperial cult, its hieroglyphs plastered over and painted with the four Tetrarchs (Diocletian, Maximian, Constantius, Galerius), courtiers and soldiers in late-Roman style, a niche with the emperors in purple; conserved 2005-08 by ARCE and Chicago House; the Roman gateways and columns outside; the only surviving Roman military fresco programme in Egypt."
+},
+{
+"id": "le-lt-alexander-shrine",
+"name": "Alexander the Great's barque shrine and the birth room",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Luxor Temple",
+"Alexander the Great"
+],
+"commons": "Luxor Temple Alexander the Great barque shrine relief",
+"aliases": [
+"Alexander shrine",
+"Alexander as pharaoh",
+"birth room",
+"divine birth Amenhotep III",
+"sanctuary"
+],
+"note": "In the heart of the temple, Alexander (as pharaoh with the double crown, offering to Amun with an erect phallus, Amun-Min) rebuilt the barque sanctuary of Amenhotep III in 330 BC, after his Siwa visit (link to 14 Oct); east of it, the 'birth room' with Amenhotep III's divine birth: Amun with Queen Mutemwiya, Khnum at the wheel, the birth and the suckling: his copy of Hatshepsut's story; the innermost sanctuary with the pedestal for the statue of Amun; the rooms of the royal ka; the view back along the axis to the pylon 260 m away."
+},
+{
+"id": "le-k-overview",
+"name": "Karnak: the biggest religious complex ever built",
+"site": "luxor-east",
+"area": "Karnak: entrance to Hypostyle",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Karnak"
+],
+"aliases": [
+"Karnak",
+"Ipet-isut",
+"Amun temple",
+"Karnak temple"
+],
+"note": "'Ipet-isut, the most select of places': 2,000 years of building by 30 pharaohs, 100 ha, the Precinct of Amun-Ra (what you visit) plus Mut and Montu precincts; the main east-west axis of ten pylons and the north-south axis; the order: avenue of rams, first pylon, great court (Seti II, Ramesses III, Taharqa), second pylon, Hypostyle Hall, obelisks, Middle Kingdom court, Akh-menu, then the Sacred Lake, scarab, Khonsu temple, Open Air Museum; 3 hours minimum; go at opening; the Theban triad Amun, Mut, Khonsu."
+},
+{
+"id": "le-k-avenue-rams",
+"name": "The avenue of ram-headed sphinxes and the quay",
+"site": "luxor-east",
+"area": "Karnak: entrance to Hypostyle",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Karnak"
+],
+"commons": "Karnak ram headed sphinxes avenue entrance",
+"aliases": [
+"rams",
+"criosphinxes",
+"avenue of rams",
+"ram sphinxes",
+"quay"
+],
+"note": "Ramesses II's criosphinxes (ram = Amun's animal) each protecting a small statue of the king between its paws, lining the way from the quay where the god's barque landed via a canal from the Nile; the quay with the Nile-level marks of the Third Intermediate Period kings (useful flood records); the small barque station of Hakoris; the modern entrance hall and the first pylon rising ahead."
+},
+{
+"id": "le-k-first-pylon-court",
+"name": "The first pylon, the Great Court and the kiosk of Taharqa",
+"site": "luxor-east",
+"area": "Karnak: entrance to Hypostyle",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Karnak",
+"Taharqa"
+],
+"commons": "Karnak first pylon great court kiosk Taharqa column",
+"aliases": [
+"first pylon",
+"great court",
+"Taharqa kiosk",
+"single column",
+"Nectanebo pylon",
+"mud brick ramp"
+],
+"note": "The first pylon is the last built (30th Dynasty, Nectanebo I, c. 370 BC), 113 m wide, unfinished: no decoration, and the ancient mud-brick construction ramp still leans against the inside of the south tower: how pylons were built; the Great Court (the largest, 100 x 80 m) with the single standing 21 m column of the Kushite king Taharqa's kiosk (ten columns, open-roofed barque station); the small triple shrine of Seti II (left) and the temple of Ramesses III (right); the ram sphinxes moved aside when the court was built."
+},
+{
+"id": "le-k-ramesses3-temple",
+"name": "Temple of Ramesses III in the Great Court",
+"site": "luxor-east",
+"area": "Karnak: entrance to Hypostyle",
+"type": "temple",
+"priority": 2,
+"wiki": [
+"Karnak"
+],
+"commons": "Temple of Ramesses III Karnak Osiride statues court",
+"aliases": [
+"Ramesses III Karnak",
+"small temple right of court",
+"Osiride court Karnak"
+],
+"note": "A complete miniature temple (barque station) of Ramesses III, like a small Medinet Habu: pylon with the king smiting, court with Osiride pillars, hypostyle, three barque shrines for Amun, Mut and Khonsu; the Bubastite Portal next to it where Sheshonq I (biblical Shishak) carved his list of captured towns in Judah and Israel (c. 925 BC), including possibly 'the heights of David'."
+},
+{
+"id": "le-k-second-pylon-pinedjem",
+"name": "The second pylon and the colossus of Pinedjem",
+"site": "luxor-east",
+"area": "Karnak: entrance to Hypostyle",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Pinedjem I",
+"Karnak"
+],
+"commons": "Karnak Pinedjem statue second pylon",
+"aliases": [
+"Pinedjem",
+"statue with small queen",
+"second pylon",
+"Horemheb pylon"
+],
+"note": "Horemheb's pylon filled with thousands of Akhenaten's talatat blocks as rubble (recovered by the thousand, see Luxor Museum); in front, the 15 m colossus of Ramesses II with a princess/queen at his knee, usurped by the priest-king Pinedjem I (c. 1050 BC) who carved his name when the High Priests of Amun ruled Thebes; the two colossal statues of Ramesses II flanking the gate; pass through into the forest."
+},
+{
+"id": "le-k-hypostyle",
+"name": "The Great Hypostyle Hall",
+"site": "luxor-east",
+"area": "Karnak: entrance to Hypostyle",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Great Hypostyle Hall",
+"Great Hypostyle Hall, Karnak"
+],
+"aliases": [
+"Hypostyle Hall",
+"134 columns",
+"forest of columns",
+"Seti I hall"
+],
+"note": "5,000 m2, 134 columns, the 12 central ones 21 m high with open papyrus capitals (50 people can stand on one), the 122 others 15 m with closed buds; clerestory windows (stone grilles survive) lit the central aisle; a papyrus marsh of creation in stone; begun by Seti I (north half, raised relief, finer) finished by Ramesses II (south half, sunk relief, cheaper, faster; he recarved his father's where he could); the colour traces on the architraves; the fallen column of 1899 and Legrain's rebuilding; the Opet barques on the walls; where to stand for the famous photos."
+},
+{
+"id": "le-k-kadesh-exterior",
+"name": "The battle walls outside the Hypostyle: Seti in Canaan, Ramesses at Kadesh",
+"site": "luxor-east",
+"area": "Karnak: entrance to Hypostyle",
+"type": "relief",
+"priority": 2,
+"wiki": [
+"Great Hypostyle Hall",
+"Battle of Kadesh",
+"Seti I"
+],
+"commons": "Karnak Seti I battle reliefs north wall hypostyle exterior",
+"aliases": [
+"Seti battle reliefs",
+"Kadesh Karnak",
+"exterior walls",
+"Shasu",
+"Hittite treaty wall"
+],
+"note": "Outside north wall: Seti I's campaigns against the Shasu bedouin, the Libyans, the Hittites, and his triumphal return to Karnak with prisoners, presented to Amun, with the 'Ways of Horus' forts along the Sinai road drawn like a map; outside south wall: Ramesses II's Kadesh and the full hieroglyphic text of the Egyptian-Hittite peace treaty (copy at the UN); go out of the hall's north door to see them in raking light."
+},
+{
+"id": "le-k-obelisks",
+"name": "The obelisks of Thutmose I and Hatshepsut",
+"site": "luxor-east",
+"area": "Karnak: obelisks to Sacred Lake",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Karnak",
+"Hatshepsut"
+],
+"commons": "Hatshepsut obelisk Karnak standing",
+"aliases": [
+"Hatshepsut obelisk",
+"Thutmose I obelisk",
+"tallest obelisk Egypt",
+"obelisks Karnak",
+"walled obelisk"
+],
+"note": "Past the third pylon: Thutmose I's 21.7 m obelisk (one of a pair) and beyond it Hatshepsut's 29.6 m, 320-ton one (the tallest standing in Egypt, from a pair cut at Aswan in seven months, see the Unfinished Obelisk); her inscription: 'I was sitting in the palace and thought of my father... you who see my monument in years to come, say: we do not know how they made a mountain of gold'; Thutmose III walled her obelisks up to the level of the roof rather than destroy them, which preserved the colour of the pyramidion inscriptions; the electrum caps that caught the sun."
+},
+{
+"id": "le-k-fallen-obelisk",
+"name": "The fallen top of Hatshepsut's second obelisk by the lake",
+"site": "luxor-east",
+"area": "Karnak: obelisks to Sacred Lake",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Karnak"
+],
+"commons": "Hatshepsut fallen obelisk pyramidion Karnak sacred lake",
+"aliases": [
+"fallen obelisk",
+"obelisk tip",
+"Amun crowning Hatshepsut",
+"obelisk by the lake"
+],
+"note": "Short. Near the Sacred Lake lies the upper part of her second obelisk, so you can see the carving at eye level: Amun placing the crown on the kneeling king Hatshepsut (shown as a man), the quality of the granite carving, how the sun disc sat on the pyramidion; re-erected 2023 as a standing fragment near the lake."
+},
+{
+"id": "le-k-middle-kingdom-court",
+"name": "The Middle Kingdom court and the hidden heart of Karnak",
+"site": "luxor-east",
+"area": "Karnak: obelisks to Sacred Lake",
+"type": "monument",
+"priority": 3,
+"wiki": [
+"Precinct of Amun-Re"
+],
+"commons": "Karnak Middle Kingdom court sanctuary Philip Arrhidaeus",
+"aliases": [
+"Middle Kingdom court",
+"Philip Arrhidaeus sanctuary",
+"granite sanctuary",
+"oldest Karnak",
+"Senusret I"
+],
+"note": "Short. The sanctuary of the sacred barque rebuilt in granite by Philip Arrhidaeus (Alexander's half-brother) over Thutmose III's, with reliefs still coloured inside; beyond it the empty 'Middle Kingdom court' where Senusret I's original temple stood (12th Dynasty, c. 1950 BC), now bare foundations; the Hatshepsut rooms with the famous Punt-like reliefs and the queen's erased figure; the 'Wall of Records' of Thutmose III's Annals around the sanctuary with his campaign tribute."
+},
+{
+"id": "le-k-akhmenu",
+"name": "The Festival Hall of Thutmose III (Akh-menu) and the Botanical Garden",
+"site": "luxor-east",
+"area": "Karnak: obelisks to Sacred Lake",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Festival Hall of Thutmose III"
+],
+"commons": "Festival Hall Thutmose III Akh-menu tent pole columns",
+"aliases": [
+"Akh-menu",
+"Festival Hall",
+"tent pole columns",
+"Botanical Garden",
+"Karnak king list",
+"Coptic church Karnak"
+],
+"note": "At the far east: Thutmose III's jubilee temple with unique inverted 'tent-pole' columns imitating a military campaign tent; the Karnak King List was in a side room (taken to the Louvre 1843: 61 kings, the pharaoh offering to his ancestors); converted to a church (haloed saints painted on columns); the 'Botanical Garden' chamber with reliefs of the plants, birds and animals he brought back from Syria in year 25: the first natural-history collection, 275 plants, some real, some fantastical (a three-horned ibex?); the chapel of Alexander."
+},
+{
+"id": "le-k-sacred-lake",
+"name": "The Sacred Lake",
+"site": "luxor-east",
+"area": "Karnak: obelisks to Sacred Lake",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Karnak"
+],
+"commons": "Karnak sacred lake",
+"aliases": [
+"Sacred Lake",
+"lake",
+"priests' lake",
+"Isheru"
+],
+"note": "120 x 77 m, stone-lined, filled by groundwater, dug by Thutmose III: priests purified themselves four times a day, the sacred geese of Amun lived here, the barques sailed on it in night rituals; the priests' houses and the storerooms; the 'nilometer' stairs; the fowl pen; Herodotus and Diodorus on temple life; the modern grandstand for the sound and light; the fallen obelisk and the scarab beside it; good place to sit."
+},
+{
+"id": "le-k-scarab",
+"name": "The giant scarab of Amenhotep III: seven times round for luck",
+"site": "luxor-east",
+"area": "Karnak: obelisks to Sacred Lake",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Karnak",
+"Scarab (artifact)"
+],
+"commons": "Karnak scarab statue Amenhotep III sacred lake",
+"aliases": [
+"scarab statue",
+"big scarab",
+"Khepri statue",
+"walk around scarab",
+"seven times"
+],
+"note": "Granite scarab (Khepri, the sun at dawn) on a pedestal, from Amenhotep III's mortuary temple on the west bank, moved here in antiquity (perhaps by Taharqa); the modern tradition: walk round it three times for luck, seven for marriage, more for a baby: guides disagree, nobody knows who started it; what Khepri meant (kheper = to come into being, the dung ball as the sun rolled across the sky); the dedication to Atum-Khepri."
+},
+{
+"id": "le-k-khonsu-temple",
+"name": "Temple of Khonsu: a complete New Kingdom temple",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Temple of Khonsu"
+],
+"aliases": [
+"Khonsu temple",
+"Khons",
+"moon god temple",
+"Bab el-Amara gate"
+],
+"note": "South-west corner: the moon god son of Amun and Mut; built by Ramesses III, decorated by Ramesses IV, XI and the priest-king Herihor (who shows himself as king), a textbook temple: pylon, court, hypostyle, barque sanctuary, roof stairs; the Ptolemy III Euergetes gate (Bab el-Amara) leading to the Avenue of Sphinxes toward Luxor Temple; ARCE/Chicago House conservation revealed painted ceilings and reused blocks from Hatshepsut's and Amenhotep III's buildings in the floor (visible, with upside-down reliefs); the Bentresh stela legend of Khonsu healing a Hittite princess."
+},
+{
+"id": "le-k-opet-temple",
+"name": "Temple of Opet, where Osiris was reborn",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Karnak"
+],
+"aliases": [
+"Opet temple",
+"hippo goddess temple",
+"Ptolemaic temple Karnak"
+],
+"note": "Short. Beside Khonsu's: a small Ptolemaic/Roman temple to the hippopotamus goddess Opet, the mother in whose body Osiris was reborn as Amun; crypts, a tomb of Osiris under the floor, a roof chapel; usually locked but ask; the finest late reliefs at Karnak."
+},
+{
+"id": "le-k-ptah-temple-sekhmet",
+"name": "Temple of Ptah and the Sekhmet statue in the dark",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Temple of Ptah (Karnak)",
+"Sekhmet"
+],
+"commons": "Karnak Temple of Ptah Sekhmet statue",
+"aliases": [
+"Ptah temple",
+"Sekhmet statue",
+"lioness in the dark",
+"chapel with sunbeam"
+],
+"note": "North of the main temple (walk north from the hypostyle through the gate): a small Thutmose III temple to Ptah of Memphis; in the right-hand chapel stands a black granite Sekhmet statue, life-size, lit only by a hole in the roof, with the sun on her face at certain hours: eerie and the reason to come; the guard will unlock for baksheesh; the superstitions of the Qurna villagers who smashed statues of 'the lioness who ate children'; Sekhmet as plague and healing."
+},
+{
+"id": "le-k-osiris-heqadjet",
+"name": "Chapel of Osiris Heqadjet and the Osiris chapels",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Karnak",
+"Osiris"
+],
+"commons": "Chapel of Osiris Heqadjet Karnak",
+"aliases": [
+"Chapel of Osiris",
+"Osiris Heqadjet",
+"Osiris Ruler of Eternity",
+"God's Wife chapel",
+"25th Dynasty chapel"
+],
+"note": "East of the Akh-menu by the enclosure wall: a small mud-brick-and-stone chapel of the 23rd-25th Dynasties (Osorkon III, Takelot III, Shabaka) with coloured reliefs of the God's Wives of Amun Shepenwepet I and Amenirdis I (Kushite princess) performing rituals as the female counterpart of the high priest; Osiris 'Ruler of Eternity'; a cluster of ~20 small Osiris chapels of the Third Intermediate Period around Karnak when Osiris worship grew; often locked, recently restored."
+},
+{
+"id": "le-k-open-air-museum",
+"name": "The Open Air Museum: reassembled chapels from inside the pylons",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "museum",
+"priority": 1,
+"wiki": [
+"Karnak Open Air Museum"
+],
+"aliases": [
+"Open Air Museum",
+"White Chapel",
+"Red Chapel",
+"Alabaster chapel",
+"extra ticket Karnak"
+],
+"note": "North of the Great Court, separate ticket: chapels and barque stations dismantled by later kings as fill for the third pylon and rebuilt by Chevrier and others: the White Chapel of Senusret I, the Red Chapel of Hatshepsut, the alabaster chapel of Amenhotep I, the limestone chapel of Thutmose IV, the Senusret I pavilion; thousands of blocks waiting; the quiet lawns; 45 minutes."
+},
+{
+"id": "le-k-white-chapel",
+"name": "The White Chapel of Senusret I",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"White Chapel"
+],
+"aliases": [
+"White Chapel",
+"Senusret I chapel",
+"Middle Kingdom chapel",
+"nome list"
+],
+"note": "c. 1950 BC, the oldest standing building at Karnak and the finest Middle Kingdom relief: a limestone jubilee kiosk on a platform with ramps; the king embraced by Amun, Min with his erect phallus and lettuce, Horus and Thoth purifying; the nome list around the base with each province's length and the height of the Nile; found as 800 blocks inside Amenhotep III's third pylon (1927); the first known cubit markings."
+},
+{
+"id": "le-k-red-chapel",
+"name": "The Red Chapel of Hatshepsut",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Red Chapel"
+],
+"aliases": [
+"Red Chapel",
+"Chapelle Rouge",
+"quartzite chapel",
+"Hatshepsut barque shrine"
+],
+"note": "Red quartzite and black granite barque shrine that stood in the heart of Karnak; dismantled under Thutmose III or Amenhotep III, 300+ blocks found in the third pylon, reassembled 1997-2000 (French-Egyptian Centre); the reliefs tell her story: the oracle of Amun choosing her as king, the Opet and Valley festivals, her obelisks being transported on a barge; her figure shown as a man; one of the best places to understand the festivals you see at Luxor Temple."
+},
+{
+"id": "le-k-cachette-court",
+"name": "The Cachette Court: 17,000 bronzes under the floor",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Karnak"
+],
+"aliases": [
+"Karnak cachette",
+"cachette court",
+"Legrain",
+"buried statues",
+"seventh pylon"
+],
+"note": "The court before the seventh pylon on the north-south axis: in 1903-07 Georges Legrain dug up (in groundwater, with men feeling by hand) 779 stone statues and 17,000 bronzes buried by priests in the Ptolemaic period to clear the temple: the greatest statue find ever, filling the Cairo museum (Tahrir/GEM); the 'wall of ancestors'; the colossi of Thutmose III and Amenhotep II at the pylon; the south axis leading to the Mut precinct."
+},
+{
+"id": "le-k-mut-precinct",
+"name": "The Precinct of Mut and the Sekhmet statues",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "temple",
+"priority": 2,
+"wiki": [
+"Precinct of Mut",
+"Sekhmet"
+],
+"commons": "Precinct of Mut Karnak Sekhmet statues",
+"aliases": [
+"Mut temple",
+"Mut precinct",
+"Sekhmet statues",
+"Isheru lake",
+"hundreds of lion statues"
+],
+"note": "350 m south down the sphinx avenue, separate entrance (free or small ticket, often empty): the temple of Amun's consort Mut with its horseshoe-shaped sacred lake (Isheru); the hundreds of black granite Sekhmet statues set up by Amenhotep III (originally 730, one for each day's morning and evening litany to appease the lioness), many still standing and lying in the grass; Brooklyn Museum and Johns Hopkins excavations; a magical, quiet place."
+},
+{
+"id": "le-k-montu-precinct",
+"name": "The Precinct of Montu (optional)",
+"site": "luxor-east",
+"area": "Karnak: side temples & Open Air Museum",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Precinct of Montu"
+],
+"aliases": [
+"Montu precinct",
+"war god temple",
+"north Karnak"
+],
+"note": "Short. North of the Amun enclosure: the falcon war-god of Thebes before Amun took over, Amenhotep III's temple, the Ptolemaic gate; rarely open; for context: Montu in 'Mentuhotep' (the 11th Dynasty kings' name)."
+},
+{
+"id": "le-lm-overview",
+"name": "Luxor Museum: small, dark and perfect",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "museum",
+"priority": 1,
+"wiki": [
+"Luxor Museum"
+],
+"aliases": [
+"Luxor Museum",
+"museum on the Corniche"
+],
+"note": "Opened 1975, a model of restraint: a few hundred objects, superbly lit, labelled; two floors plus the cachette hall and the 'Thebes Glory' military wing (2004) with two royal mummies; what to see in order: the ground-floor giants (Amenhotep III, Sobek, Thutmose III), the Akhenaten talatat wall, Tut's cow head and chariot, the Luxor cachette hall; air-conditioned refuge at midday; 1-1.5 hours."
+},
+{
+"id": "le-lm-amenhotep3-sobek",
+"name": "Sobek and Amenhotep III: the calcite pair",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Luxor Museum",
+"Sobek"
+],
+"commons": "Sobek and Amenhotep III statue Luxor Museum calcite",
+"aliases": [
+"crocodile god statue",
+"Sobek statue",
+"Amenhotep III with Sobek",
+"alabaster crocodile"
+],
+"note": "Life-size calcite (Egyptian alabaster) group of the crocodile god Sobek with a human body handing the ankh to the young Amenhotep III, found in 1967 in a water-filled shaft at Dahamsha (Armant) by chance; usurped by Ramesses II who recut the king's face; the translucent stone; one of the greatest statues of the New Kingdom; at the entrance."
+},
+{
+"id": "le-lm-thutmose3",
+"name": "Thutmose III in greywacke",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "statue",
+"priority": 1,
+"wiki": [
+"Luxor Museum",
+"Thutmose III"
+],
+"commons": "Thutmose III statue Luxor Museum greywacke",
+"aliases": [
+"Thutmose III statue",
+"black statue Luxor museum",
+"Napoleon of Egypt statue"
+],
+"note": "The famous dark greywacke standing statue of Thutmose III from the Karnak cachette, the serene 'Thutmoside smile', the nemes and the fine polished torso, the Horus falcon name on the belt; the man behind the face: 17 campaigns to Megiddo and the Euphrates, Hatshepsut's stepson; look at the belt buckle cartouche Menkheperre: the most common name on scarabs in Egypt."
+},
+{
+"id": "le-lm-cachette-hall",
+"name": "The Luxor cachette hall: Amenhotep III on his sledge",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "gallery",
+"priority": 1,
+"wiki": [
+"Luxor Museum",
+"Luxor Temple"
+],
+"commons": "Luxor cachette Amenhotep III quartzite statue sledge Luxor Museum",
+"aliases": [
+"cachette hall",
+"Amenhotep III quartzite",
+"sledge statue",
+"Horemheb and Atum",
+"Hathor statue cachette",
+"1989 statues"
+],
+"note": "The hall built for the 26 statues found under Luxor Temple's court in 1989: the 2.5 m red quartzite Amenhotep III standing on a sledge in perfect condition (the king as a cult statue to be dragged in procession), Horemheb kneeling before Atum in diorite, the Hathor-cow-eared goddess, Iunyt, the Amun with Tutankhamun's features; why priests buried statues (sacred, cannot be thrown away) and why the Roman legion needed the space."
+},
+{
+"id": "le-lm-talatat-wall",
+"name": "The Akhenaten talatat wall and the Amarna heads",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Talatat",
+"Akhenaten"
+],
+"commons": "Talatat wall Luxor Museum Akhenaten Karnak",
+"aliases": [
+"talatat",
+"Akhenaten wall",
+"Amarna wall",
+"Nefertiti blocks",
+"Akhenaten head Luxor"
+],
+"note": "A reassembled 18 m wall of 283 small sandstone 'talatat' blocks (a hand-sized building block for fast construction) from Akhenaten's Gempaaten temple at Karnak, found as fill inside the ninth pylon: daily life in the palace, Nefertiti offering to the Aten, workshops, brewing, the royal couple's intimacy; upstairs the sandstone heads of Akhenaten from his Karnak colossi with the elongated face; the Amarna revolution in five minutes and the Akhenaten Temple Project's 45,000 blocks."
+},
+{
+"id": "le-lm-tut-cow-head",
+"name": "Tutankhamun's cow head of Mehet-Weret and the KV62 objects",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Luxor Museum",
+"Tutankhamun"
+],
+"commons": "Tutankhamun Hathor cow head Mehet-Weret Luxor Museum",
+"aliases": [
+"cow head",
+"Hathor head Tut",
+"Mehet-Weret",
+"Tut objects Luxor museum",
+"Tut chariot Luxor"
+],
+"note": "A few KV62 pieces kept in Luxor: the gilded wooden cow head of Mehet-Weret ('great flood', the celestial cow who carried the sun) with copper horns and lapis eyes, a boat, sandals, arrows, the chariot (in the military wing): the only Tut objects outside GEM; link back to 11 Oct."
+},
+{
+"id": "le-lm-royal-mummies",
+"name": "Two royal mummies: Ahmose I and Ramesses I",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Ramesses I",
+"Ahmose I"
+],
+"commons": "Ramesses I mummy Luxor Museum",
+"aliases": [
+"mummies Luxor museum",
+"Ahmose mummy",
+"Ramesses I mummy",
+"Niagara mummy"
+],
+"note": "In the 'Thebes Glory' military wing, dimly lit: Ahmose I, founder of the New Kingdom who expelled the Hyksos (from the DB320 cache; the identification debated), and the mummy believed to be Ramesses I, which spent 130 years in a Niagara Falls freak museum after being sold by the Abd el-Rassuls c. 1860, bought by the Michael C. Carlos Museum in Atlanta in 1999 and returned to Egypt in 2003 with honours; the weapons, chariot and Ahmose's axe from Ahhotep's burial."
+},
+{
+"id": "le-lm-amenhotep-son-of-hapu",
+"name": "Amenhotep son of Hapu, the scribe who became a god",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "statue",
+"priority": 2,
+"wiki": [
+"Amenhotep, son of Hapu"
+],
+"commons": "Amenhotep son of Hapu scribe statue Luxor Museum",
+"aliases": [
+"Amenhotep son of Hapu",
+"scribe statue",
+"deified architect",
+"old man statue"
+],
+"note": "The granite scribe statues of Amenhotep III's architect and overseer (who moved the Colossi of Memnon), shown as a wise old man with rolls of fat and a papyrus, from Karnak; given his own mortuary temple, a privilege for a commoner, later worshipped as a healing god with Imhotep at Deir el-Bahari; 'I reached 80 years, I shall reach 110'."
+},
+{
+"id": "le-lm-senusret3-and-middle-kingdom",
+"name": "Senusret III and the Middle Kingdom faces",
+"site": "luxor-east",
+"area": "Luxor Museum",
+"type": "statue",
+"priority": 3,
+"wiki": [
+"Senusret III",
+"Luxor Museum"
+],
+"commons": "Senusret III head Luxor Museum red granite",
+"aliases": [
+"Senusret III head",
+"sad king",
+"Middle Kingdom portrait",
+"Sesostris"
+],
+"note": "Short. Red granite head with the heavy-lidded, careworn face typical of the 12th Dynasty 'realistic' royal portraits (the burdened shepherd of his people), from Karnak; compare with the idealised New Kingdom smiles around it; the conqueror of Nubia who built the forts now under Lake Nasser."
+},
+{
+"id": "le-mm-overview",
+"name": "Mummification Museum",
+"site": "luxor-east",
+"area": "Mummification Museum",
+"type": "museum",
+"priority": 2,
+"wiki": [
+"Mummification Museum"
+],
+"aliases": [
+"Mummification Museum",
+"mummy museum Luxor",
+"Corniche museum"
+],
+"note": "Small 1997 museum below the Corniche: the process in order (the 70 days, natron, the hook through the nose, the four organs, the heart left in place, resin, linen, amulets), the tools, materials, canopic jars, amulets with their positions on the body, the painted coffin and mummy of Masaharta, mummified animals; 30-45 minutes; good before seeing tombs; dim and cool."
+},
+{
+"id": "le-mm-masaharta",
+"name": "Masaharta: the high priest in his coffin",
+"site": "luxor-east",
+"area": "Mummification Museum",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Masaharta"
+],
+"aliases": [
+"Masaharta",
+"mummy in the museum",
+"high priest mummy",
+"Pinedjem's son"
+],
+"note": "Son of the priest-king Pinedjem I (see the Karnak colossus), High Priest of Amun c. 1050 BC, a large man, his mummy in a fine 21st Dynasty yellow coffin from the DB320 cache; the 21st Dynasty embalmers' peak: subcutaneous packing with sawdust and mud to restore the shape of the face and limbs, artificial eyes, painted skin; the priest-kings who hid the royal mummies and quietly 'recycled' their gold."
+},
+{
+"id": "le-mm-animals",
+"name": "Mummified animals: cat, crocodile, ram, fish, ibis",
+"site": "luxor-east",
+"area": "Mummification Museum",
+"type": "object",
+"priority": 2,
+"wiki": [
+"Animal mummy"
+],
+"aliases": [
+"animal mummies",
+"cat mummy",
+"crocodile mummy",
+"ibis mummy",
+"baboon mummy"
+],
+"note": "Why millions of animals were mummified: sacred animals (one Apis bull, one ram of Khnum), votive offerings bought by pilgrims (ibises for Thoth: 4 million at Tuna el-Gebel; cats for Bastet: 19 tons shipped to Liverpool as fertiliser in 1890), pets, and food for the dead (victual mummies); the fake votives stuffed with a single bone; CT scanning today; the Nile perch and the ram with gilded horns here."
+},
+{
+"id": "le-mm-tools-process",
+"name": "The embalmer's kit: natron, hooks, resins and amulets",
+"site": "luxor-east",
+"area": "Mummification Museum",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Mummy",
+"Ancient Egyptian funerary practices"
+],
+"commons": "Mummification tools museum Luxor natron hook",
+"aliases": [
+"mummification process",
+"natron",
+"brain hook",
+"embalming tools",
+"heart scarab",
+"amulets positions"
+],
+"note": "The Herodotus three price tiers; the ibu tent and the wabet workshop; the brain hook through the ethmoid bone, the Ethiopian stone knife, the ripper-up who was ritually chased; natron from Wadi Natrun, 40 days of drying; cedar oil, resins, beeswax; the 20 layers of linen and the 100+ amulets (heart scarab over the heart with spell 30B, the djed, the tyet, the headrest); the Opening of the Mouth with the adze; Anubis masks worn by the priests; the 2019 Saqqara embalming workshop discovery."
+},
+{
+"id": "le-papyrus-real",
+"name": "How to tell real papyrus from banana leaf (and what to pay)",
+"site": "luxor-east",
+"area": "Practical",
+"type": "practical",
+"priority": 2,
+"wiki": [
+"Papyrus"
+],
+"aliases": [
+"papyrus",
+"fake papyrus",
+"banana leaf",
+"papyrus shop",
+"Lotus Papyrus",
+"souvenir"
+],
+"note": "Practical: real papyrus has a crosshatched, slightly translucent fibrous weave visible against light, is stiff, does not crack when rolled; banana-leaf fakes are soft, uniform, crack and are often printed, not painted; the 'institute' demonstration is a sales pitch, fine but bargain hard (start at a third); ask for hand-painted, check the back for brush marks; ancient method: Cyperus papyrus pith sliced, laid in two layers, pressed; the plant nearly extinct in Egypt until Hassan Ragab replanted it in the 1960s; how the Egyptians made books 5,000 years before paper; the 'cartouche with your name' trick."
+},
+{
+"id": "le-opet-festival",
+"name": "The Opet Festival: Amun's annual journey to Luxor",
+"site": "luxor-east",
+"area": "Luxor Temple",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Opet Festival"
+],
+"aliases": [
+"Opet",
+"Opet festival",
+"procession Karnak to Luxor",
+"festival of Opet"
+],
+"note": "Held in the second month of the inundation (around now in the ancient calendar, Sept-Oct): the statues of Amun, Mut and Khonsu carried in their barques from Karnak, by land along the sphinx avenue or towed on the river, to Luxor Temple where Amun 'married' Mut and the king merged with his royal ka, emerging reborn; 11 days under Hatshepsut, 27 under Ramesses III, with 11,341 loaves and 385 jars of beer distributed; the public's one chance to ask the god oracle questions as the barque dipped; the reliefs in the colonnade; the Abu el-Haggag moulid as its ghost."
+}
+]

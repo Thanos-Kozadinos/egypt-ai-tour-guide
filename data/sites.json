@@ -1,0 +1,22 @@
+[
+  {"id": "gem", "name": "Grand Egyptian Museum", "short": "GEM", "city": "Giza", "days": ["2026-10-11"], "kind": "museum",
+   "areas": ["Entrance & Atrium", "Grand Staircase", "Tutankhamun Galleries", "Main Galleries", "Khufu Boat Museum", "Masterpieces: GEM or Tahrir, check label"]},
+  {"id": "giza", "name": "Giza Pyramids & Sphinx", "short": "Giza", "city": "Giza", "days": ["2026-10-12"], "kind": "site",
+   "areas": ["Plateau", "Khufu", "Khafre", "Menkaure", "Sphinx", "Cemeteries & tombs", "How it was built"]},
+  {"id": "siwa", "name": "Siwa Oasis & Western Desert", "short": "Siwa", "city": "Siwa", "days": ["2026-10-13", "2026-10-14", "2026-10-15"], "kind": "site",
+   "areas": ["Road & Marsa Matruh", "Oracle & temples", "Mountain of the Dead", "Shali & springs", "Desert & lakes", "Lore & people"]},
+  {"id": "cairo-islamic", "name": "Islamic Cairo & the Citadel", "short": "Islamic Cairo", "city": "Cairo", "days": ["2026-10-16"], "kind": "site",
+   "areas": ["Khan el-Khalili & al-Azhar", "Al-Muizz Street", "Sultan Hassan & al-Rifa'i", "Citadel", "Abdeen", "Background"]},
+  {"id": "abu-simbel", "name": "Abu Simbel", "short": "Abu Simbel", "city": "Abu Simbel", "days": ["2026-10-17"], "kind": "site",
+   "areas": ["Great Temple", "Small Temple", "Rescue & lake"]},
+  {"id": "aswan", "name": "Aswan, Philae & Nubian Museum", "short": "Aswan", "city": "Aswan", "days": ["2026-10-18", "2026-10-19"], "kind": "site",
+   "areas": ["Philae", "Nubian Museum", "Unfinished Obelisk & quarries", "Elephantine & the river", "West bank hills", "Dams & lake"]},
+  {"id": "nile-road", "name": "Kom Ombo, Edfu & Esna", "short": "Nile road", "city": "Aswan to Luxor", "days": ["2026-10-20"], "kind": "site",
+   "areas": ["Kom Ombo", "Edfu", "Esna", "Background"]},
+  {"id": "luxor-west", "name": "Luxor West Bank", "short": "West Bank", "city": "Luxor", "days": ["2026-10-21"], "kind": "site",
+   "areas": ["Valley of the Kings", "Deir el-Bahari", "Deir el-Medina", "Valley of the Queens", "Colossi & Medinet Habu", "More West Bank"]},
+  {"id": "luxor-east", "name": "Luxor East Bank", "short": "East Bank", "city": "Luxor", "days": ["2026-10-22"], "kind": "site",
+   "areas": ["Luxor Temple", "Karnak: entrance to Hypostyle", "Karnak: obelisks to Sacred Lake", "Karnak: side temples & Open Air Museum", "Luxor Museum", "Mummification Museum", "Practical"]},
+  {"id": "basics", "name": "Egypt basics: gods, pharaohs, symbols", "short": "Basics", "city": "", "days": [], "kind": "background",
+   "areas": ["Timeline", "Gods & myths", "Symbols & writing", "Temples, tombs & afterlife", "Pharaohs & queens", "Explorers & discoveries", "Festivals & daily life", "Practical"]}
+]

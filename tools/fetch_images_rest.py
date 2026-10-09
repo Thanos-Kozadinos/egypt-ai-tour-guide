@@ -1,0 +1,176 @@
+#!/usr/bin/env python3
+"""Photo fetcher that avoids the throttled MediaWiki action API.
+
+For each entry without img/<id>.jpg:
+  1. REST page summary of the first working Wikipedia title (edge-cached, usually allowed even when throttled)
+  2. take originalimage.source, build a 1000 px thumb URL on upload.wikimedia.org (image CDN, separate from the API)
+  3. download, resize, save img/<id>.jpg; record source page + file in data/images.json
+
+Entries that share a Wikipedia title get the same lead photo (marked "shared": true) so a later pass
+(fetch_wiki.py --images-only, once the API throttle lifts) can replace them with a specific Commons search hit.
+
+    python tools/fetch_images_rest.py [--only gem,giza] [--pace 1.5]
+"""
+import argparse
+import glob
+import io
+import json
+import os
+import re
+import sys
+import time
+import urllib.parse
+
+import requests
+from PIL import Image
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SKEL_DIR = os.path.join(ROOT, "content", "skeleton")
+IMG_DIR = os.path.join(ROOT, "img")
+IMAGES_JSON = os.path.join(ROOT, "data", "images.json")
+REST = "https://en.wikipedia.org/api/rest_v1"
+HEADERS = {"User-Agent": "EgyptGuide/0.1 (personal offline travel guide; python-requests)"}
+S = requests.Session()
+S.headers.update(HEADERS)
+IMG_MAX, IMG_QUALITY = 1000, 82
+BAD = re.compile(r"(map|plan|diagram|logo|flag|icon|\.svg|coat_of_arms|locat|chart|graph|drawing|sketch|cartouche|hieroglyph|banner|collage)", re.I)
+
+summary_cache = {}
+
+
+def get(url, pace, **kw):
+    """GET with 429/503 handling; returns Response or None on 404."""
+    for attempt in range(8):
+        r = S.get(url, timeout=(10, 90), **kw)
+        if r.status_code == 404:
+            return None
+        if r.status_code in (429, 503):
+            wait = min(float(r.headers.get("Retry-After", 0) or 0) or 10, 60)
+            print(f"      {r.status_code} on {url.split('/')[2]}, waiting {wait:.0f}s", flush=True)
+            time.sleep(wait)
+            continue
+        if r.status_code >= 500:
+            time.sleep(5)
+            continue
+        time.sleep(pace)
+        return r
+    return None
+
+
+def summary(title, pace):
+    if title in summary_cache:
+        return summary_cache[title]
+    q = urllib.parse.quote(title.replace(" ", "_"), safe="")
+    r = get(f"{REST}/page/summary/{q}?redirect=true", pace)
+    s = None
+    if r is not None and r.status_code == 200:
+        d = r.json()
+        if d.get("type") not in ("disambiguation",) and d.get("title"):
+            s = d
+    summary_cache[title] = s
+    return s
+
+
+def thumb_candidates(original_url):
+    """original: .../wikipedia/commons/a/ab/Name.jpg -> thumb .../commons/thumb/a/ab/Name.jpg/1000px-Name.jpg"""
+    u = original_url.split("?")[0]
+    m = re.match(r"^(https://upload\.wikimedia\.org/wikipedia/[^/]+)/([0-9a-f])/([0-9a-f]{2})/(.+)$", u)
+    out = []
+    if m:
+        base, h1, h2, name = m.groups()
+        ext = name.rsplit(".", 1)[-1].lower()
+        suffix = ".png" if ext in ("svg", "tif", "tiff", "webp", "gif") else ""
+        for w in (1000, 800):
+            out.append(f"{base}/thumb/{h1}/{h2}/{name}/{w}px-{name}{suffix}")
+    out.append(u)
+    return out
+
+
+def save_image(url, out_path, pace):
+    r = get(url, pace)
+    if r is None or r.status_code != 200 or not r.headers.get("Content-Type", "").startswith("image/"):
+        return False
+    im = Image.open(io.BytesIO(r.content)).convert("RGB")
+    im.thumbnail((IMG_MAX, IMG_MAX))
+    im.save(out_path, "JPEG", quality=IMG_QUALITY, optimize=True, progressive=True)
+    return True
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--only", default="")
+    ap.add_argument("--pace", type=float, default=1.5)
+    ap.add_argument("--priority", type=int, default=3, help="only entries with priority <= this")
+    args = ap.parse_args()
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:  # noqa: BLE001
+        pass
+    os.makedirs(IMG_DIR, exist_ok=True)
+    images = {}
+    if os.path.exists(IMAGES_JSON):
+        with open(IMAGES_JSON, encoding="utf-8") as f:
+            images = json.load(f)
+    only = {s.strip() for s in args.only.split(",") if s.strip()}
+    entries = []
+    for path in sorted(glob.glob(os.path.join(SKEL_DIR, "*.json"))):
+        stem = os.path.splitext(os.path.basename(path))[0]
+        if only and stem not in only:
+            continue
+        with open(path, encoding="utf-8") as f:
+            entries.extend(load for load in json.load(f))
+    entries = [e for e in entries if e.get("priority", 2) <= args.priority]
+    entries.sort(key=lambda e: e.get("priority", 2))
+    todo = [e for e in entries if not os.path.exists(os.path.join(IMG_DIR, e["id"] + ".jpg"))]
+    print(f"{len(todo)} entries need a photo (of {len(entries)})", flush=True)
+    used_files = {}
+    for v in images.values():
+        used_files[v.get("file")] = used_files.get(v.get("file"), 0) + 1
+    ok = fail = 0
+    t0 = time.time()
+    for i, e in enumerate(todo, 1):
+        out = os.path.join(IMG_DIR, e["id"] + ".jpg")
+        titles = e.get("wiki") or []
+        if isinstance(titles, str):
+            titles = [titles]
+        got = False
+        for t in titles:
+            s = summary(t, args.pace)
+            if not s:
+                continue
+            src = (s.get("originalimage") or {}).get("source") or (s.get("thumbnail") or {}).get("source")
+            if not src:
+                continue
+            fname = urllib.parse.unquote(src.split("?")[0].rsplit("/", 1)[-1])
+            if BAD.search(fname):
+                continue
+            for cand in thumb_candidates(src):
+                try:
+                    if save_image(cand, out, args.pace):
+                        got = True
+                        break
+                except Exception as ex:  # noqa: BLE001
+                    print(f"      download error: {str(ex)[:80]}", flush=True)
+            if got:
+                shared = used_files.get(fname, 0) > 0
+                used_files[fname] = used_files.get(fname, 0) + 1
+                images[e["id"]] = {"file": fname, "artist": "", "license": "", "credit": "Wikimedia Commons",
+                                   "source": "https://commons.wikimedia.org/wiki/File:" + fname.replace(" ", "_"),
+                                   "page": (s.get("content_urls") or {}).get("desktop", {}).get("page", ""), "shared": shared}
+                print(f"[{i}/{len(todo)}] OK  {e['id']}  <- {s['title']}{' (shared)' if shared else ''}", flush=True)
+                break
+        if not got:
+            fail += 1
+            print(f"[{i}/{len(todo)}] --  {e['id']}  no usable lead image for {titles}", flush=True)
+        else:
+            ok += 1
+        if i % 10 == 0:
+            with open(IMAGES_JSON, "w", encoding="utf-8") as f:
+                json.dump(images, f, ensure_ascii=False, indent=1)
+    with open(IMAGES_JSON, "w", encoding="utf-8") as f:
+        json.dump(images, f, ensure_ascii=False, indent=1)
+    print(f"done: {ok} ok, {fail} without image, {(time.time()-t0)/60:.1f} min", flush=True)
+
+
+if __name__ == "__main__":
+    main()

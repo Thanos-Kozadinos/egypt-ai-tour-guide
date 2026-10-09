@@ -1,0 +1,1047 @@
+[
+{
+"id": "lw-overview",
+"name": "The Theban West Bank: city of the dead",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Theban Necropolis"
+],
+"aliases": [
+"West Bank",
+"Theban necropolis",
+"west bank Luxor"
+],
+"note": "Orientation: east bank for the living and the gods' temples, west bank where the sun sets for the dead: royal tombs hidden in the Valleys, 'mansions of millions of years' (mortuary temples) on the edge of the fields, nobles' tombs in the hills, the workmen's village; the Qurn peak as a natural pyramid; the day's route and ticket logic (separate tickets, 3 tombs per VoK ticket, extras for Tut/Seti I/Ramesses V-VI/Nefertari); heat and water; no flash."
+},
+{
+"id": "lw-vok-overview",
+"name": "Valley of the Kings: how to choose your tombs",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Valley of the Kings"
+],
+"aliases": [
+"Valley of the Kings",
+"KV",
+"Biban el-Muluk",
+"royal tombs"
+],
+"note": "65 tombs (KV1-KV65), New Kingdom c. 1539-1075 BC, from Thutmose I to Ramesses XI; why hidden tombs replaced pyramids (robbery, the Qurn); the tomb plan evolution (bent axis to straight 'syringes'); the books of the afterlife on the walls; which tombs are usually open and a ranked suggestion: Ramesses V/VI (KV9) and Seti I (KV17) worth the extra tickets, then Ramesses IV, Merenptah, Ramesses III, Tausert/Setnakht, Ramesses IX, Thutmose III; the tram, the photo rules; ancient and modern graffiti; the Theban Mapping Project."
+},
+{
+"id": "lw-kv62",
+"name": "KV62: Tomb of Tutankhamun",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 1,
+"wiki": [
+"KV62"
+],
+"aliases": [
+"Tutankhamun tomb",
+"Tut tomb",
+"KV62",
+"Carter's tomb"
+],
+"note": "Small, hastily adapted non-royal tomb (4 rooms); 4 November 1922, the step found by the water boy, 'wonderful things'; what you see now: the mummy in a climate case, the quartzite sarcophagus with the outer gilded coffin, the burial chamber's yellow walls (12 baboons of the Amduat first hour, Ay performing Opening of the Mouth, the funeral sledge), the brown fungus spots; the Factum Arte replica near Carter's house; the 2015-18 Reeves 'hidden chamber' radar saga; link to the GEM galleries."
+},
+{
+"id": "lw-kv9",
+"name": "KV9: Ramesses V and VI, the astronomical ceiling",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 1,
+"wiki": [
+"KV9"
+],
+"aliases": [
+"Ramesses VI tomb",
+"KV9",
+"Ramesses V",
+"tomb of Memnon",
+"best ceiling"
+],
+"note": "Extra ticket, the most spectacular open tomb: 117 m straight corridor, Book of Gates and Book of Caverns on the walls, the Book of the Day and Night with Nut swallowing and giving birth to the sun stretched twice across the burial chamber ceiling, the Book of the Earth; the shattered sarcophagus; its rubble protected KV62 below from robbers; Greek and Coptic graffiti (the 'tomb of Memnon' for Roman tourists, 1,000+ graffiti)."
+},
+{
+"id": "lw-kv17",
+"name": "KV17: Tomb of Seti I, Belzoni's tomb",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 1,
+"wiki": [
+"KV17"
+],
+"aliases": [
+"Seti I tomb",
+"KV17",
+"Belzoni's tomb",
+"longest tomb"
+],
+"note": "Extra ticket (expensive, worth it): 137 m, the longest, deepest, most finely decorated tomb, every wall carved in raised relief and painted; found by Belzoni 1817; the Litany of Ra, Amduat, Book of Gates, the astronomical ceiling with constellations; the unfinished chamber showing the draughtsmen's grid and red sketch lines; the alabaster sarcophagus in Sir John Soane's Museum London; the mysterious tunnel descending 174 m from the burial chamber (cleared 2007-10 by Hawass); the mummy at NMEC."
+},
+{
+"id": "lw-kv11",
+"name": "KV11: Ramesses III, the Harpers' Tomb",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV11"
+],
+"aliases": [
+"Ramesses III tomb",
+"KV11",
+"Harpers tomb",
+"Bruce's tomb"
+],
+"note": "Begun by Setnakht, who broke into KV10 and abandoned it; Ramesses III finished it with a dog-leg; unusual side chambers showing daily life: bakers, butchers, boats, weapons, the two blind harpers singing (Bruce's 1768 drawings made it famous); the Litany of Ra, Book of Gates; the sarcophagus is in the Louvre, its lid in Cambridge; his murder in the harem conspiracy (see Medinet Habu)."
+},
+{
+"id": "lw-kv2",
+"name": "KV2: Ramesses IV",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV2"
+],
+"aliases": [
+"Ramesses IV tomb",
+"KV2",
+"first tomb on the left"
+],
+"note": "Short, wide, bright, easy: a good first tomb; the Turin papyrus plan of this very tomb (the ancient architect's drawing survives); the huge granite sarcophagus; Litany of Ra, Book of Caverns, Nut on the ceiling; 50+ Coptic graffiti, used as a church; open since antiquity."
+},
+{
+"id": "lw-kv6",
+"name": "KV6: Ramesses IX",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV6"
+],
+"aliases": [
+"Ramesses IX tomb",
+"KV6"
+],
+"note": "Near the entrance, open since antiquity; the king before Ra-Horakhty and Osiris, Book of Caverns, the Book of the Earth; the hurriedly painted burial chamber with Nut; during his reign the tomb-robbery trials happened (Abbott and Amherst papyri) as the state weakened; the mummy found in the DB320 cache."
+},
+{
+"id": "lw-kv8",
+"name": "KV8: Merenptah",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV8"
+],
+"aliases": [
+"Merenptah tomb",
+"Merneptah",
+"KV8"
+],
+"note": "The 13th son and successor of Ramesses II (he outlived 12 brothers), of the 'Israel Stele'; a long steep tomb with the outer lid of his granite sarcophagus still in the corridor (they broke the door jambs to get the four nested sarcophagi in); the innermost one was reused by Psusennes I at Tanis (GEM/Tahrir); Book of Gates, the king as Osiris on the sarcophagus lid."
+},
+{
+"id": "lw-kv14",
+"name": "KV14: Tausert and Setnakht, a tomb with two owners",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV14"
+],
+"aliases": [
+"Tausert tomb",
+"Twosret",
+"Setnakht",
+"KV14",
+"double tomb"
+],
+"note": "One of the largest: begun for Queen Tausert (who ruled as pharaoh at the end of the 19th Dynasty after Seti II and Siptah), then taken over by Setnakht who plastered over her images and added a second burial chamber; you can see both sets of decoration and the two pillared halls; the empty sarcophagi; the story of the queen, Chancellor Bay and the boy king Siptah."
+},
+{
+"id": "lw-kv15",
+"name": "KV15: Seti II",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"KV15"
+],
+"aliases": [
+"Seti II tomb",
+"KV15"
+],
+"note": "Short. At the end of the wadi, a hurried tomb: fine raised relief at the start, then paint only, then outline sketches: watch the quality drop; unusual images of the king's funerary objects (the shrines, statues) painted on the walls; Carter used the entrance as his laboratory for Tut's objects in 1922-32."
+},
+{
+"id": "lw-kv16",
+"name": "KV16: Ramesses I, small and brilliant",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV16"
+],
+"aliases": [
+"Ramesses I tomb",
+"KV16",
+"small bright tomb"
+],
+"note": "Founder of the 19th Dynasty, an old general who reigned barely two years; tiny tomb (one chamber) but painted on blue-grey background with vivid colours like Horemheb's: the king between Horus and Anubis, the Book of Gates; the red granite sarcophagus still in place; his mummy's odyssey: stolen c. 1860, a Niagara Falls museum for 130 years, returned in 2003, now in Luxor Museum (22 Oct)."
+},
+{
+"id": "lw-kv34",
+"name": "KV34: Thutmose III, the cliff tomb with cartoon figures",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV34"
+],
+"aliases": [
+"Thutmose III tomb",
+"KV34",
+"tomb up the stairs",
+"oval chamber"
+],
+"note": "High in a cleft at the valley's end, reached by steep metal stairs; the deep well shaft to foil robbers; the oval cartouche-shaped burial chamber with the earliest complete Amduat drawn in stick figures like a papyrus unrolled on the walls (741 deities listed), the king suckled by a tree-goddess (Isis as sycamore); the quartzite cartouche sarcophagus; the 'Napoleon of Egypt' and his 17 campaigns."
+},
+{
+"id": "lw-kv35",
+"name": "KV35: Amenhotep II and the second royal cache",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV35"
+],
+"aliases": [
+"Amenhotep II tomb",
+"KV35",
+"royal cache",
+"Younger Lady"
+],
+"note": "Loret 1898 found the king still in his sarcophagus plus 9 other royal mummies hidden here by the priests (Thutmose IV, Amenhotep III, Merenptah, Seti II, Ramesses IV, V, VI...) and the 'Elder Lady' (Queen Tiye) and 'Younger Lady' (Tut's mother, DNA 2010); the Amduat in 'papyrus' style; the sporty king who boasted of rowing and archery; the pillared hall with the king before Osiris, Anubis, Hathor."
+},
+{
+"id": "lw-kv43",
+"name": "KV43: Thutmose IV and Carter's first royal tomb",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"KV43"
+],
+"aliases": [
+"Thutmose IV tomb",
+"KV43"
+],
+"note": "Short. Found by Carter in 1903 for Theodore Davis; the Dream Stele king (Giza, 12 Oct); well shaft and antechamber painted with the king before the gods on a yellow background; the burial chamber undecorated, enormous sarcophagus; the hieratic graffito of year 8 of Horemheb recording the 'renewal' (restoration) of the burial after a robbery: the earliest record of an official re-burial."
+},
+{
+"id": "lw-kv47",
+"name": "KV47: Siptah, the boy king with the club foot",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"KV47"
+],
+"aliases": [
+"Siptah tomb",
+"KV47"
+],
+"note": "Short. Child king who died at about 16, mummy shows a deformed left foot (polio or club foot); Chancellor Bay (Syrian) and Queen Tausert as regents; fine Litany of Ra reliefs at the entrance with vulture ceilings, then unfinished; his names erased and recarved by his own court; the sarcophagus with the Book of the Earth."
+},
+{
+"id": "lw-kv57",
+"name": "KV57: Horemheb, the unfinished masterpiece",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV57"
+],
+"aliases": [
+"Horemheb tomb",
+"KV57",
+"unfinished grid lines"
+],
+"note": "The general who restored order after Amarna and erased Akhenaten, Tut and Ay; first royal tomb with the Book of Gates and the first with painted raised relief on blue-grey; the burial chamber left unfinished at every stage: red grid, black corrected outlines, carved, painted, letting you watch the artists work; the red granite sarcophagus with goddesses at the corners; his first tomb at Saqqara built as a general; often closed."
+},
+{
+"id": "lw-kv5",
+"name": "KV5: the sons of Ramesses II (not open, worth knowing)",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV5"
+],
+"aliases": [
+"KV5",
+"sons of Ramesses",
+"biggest tomb",
+"Weeks"
+],
+"note": "Opposite KV62: the largest tomb in the valley, 130+ corridors and chambers mapped by Kent Weeks (Theban Mapping Project) from 1995, a family mausoleum for Ramesses II's sons (he had about 50 sons and 50 daughters); a 16-pillared hall, statues of Osiris in the corridors; flooded repeatedly, excavation continuing; not open to the public, the entrance is near the rest house."
+},
+{
+"id": "lw-kv55",
+"name": "KV55: the Amarna cache and the mystery mummy",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"KV55"
+],
+"aliases": [
+"KV55",
+"Amarna cache",
+"Akhenaten mummy",
+"Kiya coffin"
+],
+"note": "1907, Davis/Ayrton: a jumble of objects from Amarna (Tiye's gilded shrine, canopic jars of Kiya, magic bricks of Akhenaten) and a desecrated coffin with the name cut out and the gold face torn off; the skeleton: a man 20-25 or 35-45? DNA 2010 says Tutankhamun's father, likely Akhenaten; still argued; the tomb is a bare chamber, closed; good lore stop near KV6."
+},
+{
+"id": "lw-kv1",
+"name": "KV1: Ramesses VII",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"KV1"
+],
+"aliases": [
+"Ramesses VII tomb",
+"KV1"
+],
+"note": "Short. First tomb by the entrance road, often empty of people: one corridor and a chamber with the Book of Caverns and Book of the Earth, the sarcophagus pit covered by a lid carved with the king between Isis and Nephthys; Greek and Coptic graffiti; good quick choice if the famous ones are crowded."
+},
+{
+"id": "lw-kv7",
+"name": "KV7: Ramesses II's own tomb, ruined by floods",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"KV7"
+],
+"aliases": [
+"Ramesses II tomb",
+"KV7"
+],
+"note": "Short. The great king's tomb is one of the most damaged: low in the valley floor, filled 11 times by flash floods with debris that set like concrete; Christian Leblanc's team has been clearing it for 30 years; the mummy was moved by the priests to the DB320 cache, now at NMEC; not open."
+},
+{
+"id": "lw-deir-el-bahari-overview",
+"name": "Deir el-Bahari: the bay of temples",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Deir el-Bahari"
+],
+"aliases": [
+"Deir el-Bahari",
+"Deir el-Bahri",
+"Hatshepsut area",
+"amphitheatre of cliffs"
+],
+"note": "The natural amphitheatre under the Qurn with three temples: Mentuhotep II (c. 2050 BC, the model), Hatshepsut (c. 1470 BC) and Thutmose III (ruins between them, found 1961); the Coptic 'Northern Monastery' that gave the name; the Beautiful Festival of the Valley when Amun crossed the river to visit; the 1997 attack memorial context handled lightly; the royal cache tomb DB320 in the cliff behind; the little train."
+},
+{
+"id": "lw-hatshepsut-temple",
+"name": "Mortuary Temple of Hatshepsut (Djeser-Djeseru)",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Mortuary Temple of Hatshepsut"
+],
+"aliases": [
+"Hatshepsut temple",
+"Deir el-Bahari temple",
+"Djeser Djeseru",
+"terraced temple"
+],
+"note": "'Holy of Holies': three terraces with colonnades against the cliff, designed by Senenmut, aligned with Karnak across the river and with the winter solstice sunrise; the garden with incense trees from Punt (stumps visible), the sphinx avenue, the Osiride statues of the queen as king on the upper terrace, the erasure of her images by Thutmose III 20 years after her death, the Polish-Egyptian restoration since 1961; the route: ramp, Punt and Birth colonnades, Hathor and Anubis chapels, upper court, Amun sanctuary cut into the rock."
+},
+{
+"id": "lw-hatshepsut-punt",
+"name": "The Punt reliefs: an expedition to the land of incense",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Land of Punt",
+"Mortuary Temple of Hatshepsut"
+],
+"commons": "Punt relief Deir el-Bahari queen Ati",
+"aliases": [
+"Punt reliefs",
+"Queen of Punt",
+"Ati",
+"incense trees",
+"expedition relief"
+],
+"note": "South colonnade of the middle terrace: five ships sail to Punt (Eritrea/Somalia/Sudan coast, year 9), the stilt houses, the fat Queen Ati and her donkey ('the donkey that carried his wife'), the loading of myrrh trees in baskets, baboons, giraffes, leopard skins, electrum weighed; the fish of the Red Sea identified by species; the first recorded botanical expedition; where the originals of some blocks are (Cairo); how to read the direction of the scenes."
+},
+{
+"id": "lw-hatshepsut-divine-birth",
+"name": "The Divine Birth colonnade: how a woman became king",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Mortuary Temple of Hatshepsut",
+"Hatshepsut"
+],
+"commons": "Hatshepsut divine birth relief Khnum potter wheel",
+"aliases": [
+"birth colonnade",
+"Khnum potter's wheel",
+"divine birth",
+"Amun visits Ahmose"
+],
+"note": "North colonnade of the middle terrace: Amun disguised as Thutmose I visits Queen Ahmose, 'the palace was flooded with the god's fragrance', Khnum shapes the baby and her ka on his wheel, Heket the frog gives life, the pregnant queen led to the birth room, the child presented to the gods; the theological proof that Hatshepsut was Amun's daughter and legitimate king; compare Amenhotep III's copy at Luxor Temple (22 Oct); the faces hacked out."
+},
+{
+"id": "lw-hatshepsut-chapels",
+"name": "Chapels of Hathor and Anubis, and the upper terrace",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Mortuary Temple of Hatshepsut"
+],
+"commons": "Hathor chapel Deir el-Bahari cow column capitals",
+"aliases": [
+"Hathor chapel",
+"Anubis chapel",
+"upper terrace",
+"Osiride statues",
+"Amun sanctuary"
+],
+"note": "Hathor chapel (south): Hathor-head capitals, the cow licking the queen's hand and suckling her, the festival boats, Senenmut's hidden self-portrait behind a door; Anubis chapel (north): the best-preserved colour, 12 fluted 'proto-Doric' columns, the ceiling of stars; upper terrace: 24 Osiride colossi restored, the festival court, the solar altar court, the sanctuary of Amun cut into the cliff later used by Ptolemies for Imhotep and Amenhotep son of Hapu as a healing shrine."
+},
+{
+"id": "lw-senenmut",
+"name": "Senenmut: the queen's architect, and more?",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "person",
+"priority": 2,
+"wiki": [
+"Senenmut"
+],
+"aliases": [
+"Senenmut",
+"Senmut",
+"Hatshepsut's lover",
+"architect of Deir el-Bahari"
+],
+"note": "Of humble birth, 'steward of Amun', tutor of princess Neferure (the block statues holding her), overseer of works for Djeser-Djeseru; 25 statues, two tombs (TT71 and the unfinished TT353 under the temple forecourt with the earliest astronomical ceiling); the graffito near the temple of a man and a figure in royal headdress making love, the gossip then and now; his disappearance before her death; his name erased too."
+},
+{
+"id": "lw-mentuhotep-temple",
+"name": "Temple of Mentuhotep II: the original",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "temple",
+"priority": 2,
+"wiki": [
+"Mortuary temple of Mentuhotep II"
+],
+"commons": "Mentuhotep II temple Deir el-Bahari ruins",
+"aliases": [
+"Mentuhotep temple",
+"11th Dynasty temple",
+"ruins next to Hatshepsut"
+],
+"note": "South of Hatshepsut's: the 11th Dynasty reunifier's terraced temple-tomb, 500 years older, with a central massif (pyramid or mound?) and the tombs of six royal wives, the Bab el-Hosan cenotaph where Carter's horse stumbled and found the black statue (GEM/Tahrir); his tomb 150 m into the cliff; Hatshepsut copied the terraces; the 60 soldiers' mass grave of Mentuhotep's wars found by Winlock nearby."
+},
+{
+"id": "lw-db320-royal-cache",
+"name": "DB320: the royal cache and the Abd el-Rassul family",
+"site": "luxor-west",
+"area": "Deir el-Bahari",
+"type": "tomb",
+"priority": 1,
+"wiki": [
+"DB320",
+"Royal Cache"
+],
+"commons": "Deir el-Bahari royal cache TT320 cliff",
+"aliases": [
+"royal cache",
+"mummy cache",
+"Abd el-Rassul",
+"TT320",
+"Al-Mummia film"
+],
+"note": "The cliff tomb south of the temple where priests of the 21st Dynasty hid 50+ royal mummies (Seqenenre Tao, Ahmose, Amenhotep I, Thutmose I-III, Seti I, Ramesses I-III, IX, Pinedjem...) from robbers c. 1000 BC; the Abd el-Rassul brothers of Qurna found it c. 1871 and sold papyri and shabtis for a decade until Maspero, Brugsch and a confession in 1881; the mummies' Nile journey with wailing women on the banks; Shadi Abdel Salam's film 'The Mummy/The Night of Counting the Years' (1969); the mummies now at NMEC."
+},
+{
+"id": "lw-deir-el-medina",
+"name": "Deir el-Medina: the village of the tomb builders",
+"site": "luxor-west",
+"area": "Deir el-Medina",
+"type": "site",
+"priority": 1,
+"wiki": [
+"Deir el-Medina"
+],
+"aliases": [
+"Deir el-Medina",
+"workmen's village",
+"Set Maat",
+"place of truth",
+"artisans village"
+],
+"note": "'Set Maat', the walled village of the ~70 families who cut and painted the royal tombs for 400 years; the best-documented community of the ancient world thanks to thousands of ostraca (laundry lists, love poems, lawsuits, sick notes, the first recorded strike); the house plans (front room with a lit clos, kitchen, cellar), the water carried from the valley, the eight-day week with weekends; the path over the hill to the Valley of the Kings; the Great Pit; the tombs on the slope with their little pyramids; the Ptolemaic temple of Hathor; the French IFAO excavations (Bruyère)."
+},
+{
+"id": "lw-tt1-sennedjem",
+"name": "TT1: Tomb of Sennedjem",
+"site": "luxor-west",
+"area": "Deir el-Medina",
+"type": "tomb",
+"priority": 1,
+"wiki": [
+"TT1"
+],
+"aliases": [
+"Sennedjem",
+"TT1",
+"Fields of Iaru",
+"harvest scene tomb"
+],
+"note": "Found intact 1886; a single vaulted chamber painted in a few weeks for a 'servant in the Place of Truth' under Seti I/Ramesses II; the famous Field of Reeds scene with Sennedjem and his wife Iyneferti ploughing and reaping in the afterlife in white linen, the cat killing the Apophis snake under the ished tree, the mummy on the lion bed tended by Anubis, the door with the couple playing senet; the 20 mummies and furniture (Cairo); the tiny pyramid chapel above; compare with the royal tombs the same men painted."
+},
+{
+"id": "lw-tt3-pashedu",
+"name": "TT3: Tomb of Pashedu",
+"site": "luxor-west",
+"area": "Deir el-Medina",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"TT3"
+],
+"aliases": [
+"Pashedu",
+"TT3",
+"man drinking under palm tree"
+],
+"note": "Steep stairs down to a vaulted chamber; the famous scene of Pashedu kneeling to drink from a pool under a date palm; the giant Anubis jackals on the entrance; the eye of Horus carrying a torch; Ptah-Sokar falcon boat; the family rows; 19th Dynasty; usually part of the Deir el-Medina ticket with TT1 and TT359."
+},
+{
+"id": "lw-tt359-inherkhau",
+"name": "TT359: Tomb of Inherkhau",
+"site": "luxor-west",
+"area": "Deir el-Medina",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"TT359"
+],
+"aliases": [
+"Inherkhau",
+"TT359",
+"blind harper tomb",
+"cat and snake"
+],
+"note": "Foreman of the gang under Ramesses III and IV; two chambers with yellow-ground paintings: the blind harper playing to the couple, the great cat of Heliopolis cutting the Apophis serpent, the four sons of Horus, the Bennu heron, Inherkhau's grandchildren with sidelocks, the 'rowing through the night' scenes; Deir el-Medina's artists at their peak."
+},
+{
+"id": "lw-dem-hathor-temple",
+"name": "The Ptolemaic temple of Hathor and the Great Pit",
+"site": "luxor-west",
+"area": "Deir el-Medina",
+"type": "temple",
+"priority": 2,
+"wiki": [
+"Deir el-Medina"
+],
+"commons": "Deir el-Medina Ptolemaic temple Hathor Maat",
+"aliases": [
+"Hathor temple Deir el-Medina",
+"Ptolemaic temple",
+"judgment scene",
+"Great Pit",
+"monastery"
+],
+"note": "Small mud-brick-walled temple of Ptolemy IV at the north end, dedicated to Hathor and Maat, later the Coptic monastery (deir) that named the site; inside, the rare weighing-of-the-heart scene with Ammut waiting, Thoth recording, the 42 judges; the Great Pit beside it: a 50 m failed well shaft dug in the Ramesside period that the villagers later used as a rubbish dump, source of thousands of ostraca."
+},
+{
+"id": "lw-dem-strike-ostraca",
+"name": "The first strike in history and the ostraca of daily life",
+"site": "luxor-west",
+"area": "Deir el-Medina",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Deir el-Medina",
+"Turin Strike Papyrus",
+"Ostracon"
+],
+"aliases": [
+"first strike",
+"Turin strike papyrus",
+"ostraca",
+"love poems",
+"Paneb"
+],
+"note": "Year 29 of Ramesses III (c. 1157 BC): rations 18 days late, the workmen downed tools and sat in at the mortuary temples, 'we are hungry'; the scribe Amennakht's record; the ostraca world: absence lists ('brewing beer', 'scorpion bite', 'wife menstruating', 'embalming his brother'), the love songs ('my sister is unique'), the Tale of the Doomed Prince, the trial of the villain Paneb (theft, adultery, assault), wills and divorce; the female literacy debate; the tomb robbery papyri at the end of the New Kingdom."
+},
+{
+"id": "lw-voq-overview",
+"name": "Valley of the Queens",
+"site": "luxor-west",
+"area": "Valley of the Queens",
+"type": "area",
+"priority": 1,
+"wiki": [
+"Valley of the Queens"
+],
+"aliases": [
+"Valley of the Queens",
+"Ta-Set-Neferu",
+"QV",
+"queens' tombs"
+],
+"note": "'The Place of Beauty', ~90 tombs of queens and princes of the 19th-20th Dynasties (earlier queens were buried in the Kings' valley or at Deir el-Bahari); the grotto-shrine of Hathor at the head of the wadi with its waterfall in ancient rains; the sacred falcon; the four open tombs: Nefertari (QV66, extra ticket), Amunherkhepshef (QV55), Khaemwaset (QV44), Titi (QV52); the Italian Schiaparelli mission 1903-06."
+},
+{
+"id": "lw-qv66",
+"name": "QV66: Tomb of Nefertari, the Sistine Chapel of Egypt",
+"site": "luxor-west",
+"area": "Valley of the Queens",
+"type": "tomb",
+"priority": 1,
+"wiki": [
+"QV66"
+],
+"aliases": [
+"Nefertari tomb",
+"QV66",
+"most beautiful tomb",
+"Sistine Chapel of Egypt"
+],
+"note": "Extra ticket (expensive, 10 minutes, no bag): found by Schiaparelli 1904, looted in antiquity (fragments of knees in Turin); the queen 'for whom the sun shines' in transparent white linen and the vulture crown playing senet, led by Isis, Horus and Hathor, before Osiris, Khepri, Thoth and the ink palette; the Book of Gates chapters on the stairs; the stars on the ceiling, the five-pointed; the salt crystal damage and the 1986-92 Getty conservation (no retouching: what is lost is lost); the pillar hall's djed pillars; compare Abu Simbel's small temple (17 Oct)."
+},
+{
+"id": "lw-qv55",
+"name": "QV55: Amunherkhepshef, a prince of nine",
+"site": "luxor-west",
+"area": "Valley of the Queens",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"QV55"
+],
+"aliases": [
+"Amunherkhepshef tomb",
+"QV55",
+"prince's tomb",
+"foetus in a case"
+],
+"note": "Son of Ramesses III (same name as a brother in KV?), died young; the father holds the boy's hand and presents him to each god (Ptah, Thoth, Anubis, Shu, Nephthys), the prince with the sidelock and the fan; the Book of Gates with its demon-guarded portals; a mummified foetus in a glass case (not his, from another tomb; the sign is misleading); bright and well preserved."
+},
+{
+"id": "lw-qv44",
+"name": "QV44: Khaemwaset, another son of Ramesses III",
+"site": "luxor-west",
+"area": "Valley of the Queens",
+"type": "tomb",
+"priority": 2,
+"wiki": [
+"QV44"
+],
+"aliases": [
+"Khaemwaset tomb",
+"QV44",
+"prince Khaemwaset"
+],
+"note": "Not the famous Khaemwaset son of Ramesses II (the 'first Egyptologist'), but a son of Ramesses III, a sem-priest of Ptah; the long corridor with the prince before the gate guardians of the Book of the Dead, his father leading him; the colours and the twenty-eight guardians with knives; the side rooms with the four sons of Horus; peaceful and uncrowded."
+},
+{
+"id": "lw-qv52",
+"name": "QV52: Queen Titi",
+"site": "luxor-west",
+"area": "Valley of the Queens",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"QV52"
+],
+"aliases": [
+"Titi tomb",
+"QV52",
+"Queen Titi"
+],
+"note": "Short. A 20th Dynasty queen (probably wife of Ramesses III, mother of Ramesses IV), painted in pale pinks and golds, more delicate and faded; the queen before Thoth and Ptah, the Hathor cow emerging from the mountain, the sons of Horus; reopened after restoration in 2016; often closed."
+},
+{
+"id": "lw-colossi-memnon",
+"name": "The Colossi of Memnon",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Colossi of Memnon"
+],
+"aliases": [
+"Colossi of Memnon",
+"Memnon",
+"two giant statues",
+"singing statue"
+],
+"note": "Two 18 m quartzite statues of Amenhotep III (quarried near Cairo and dragged 670 km), with his mother Mutemwiya and wife Tiye at the legs and the Nile gods tying the sema-tawy; the 27 BC earthquake cracked the north one which then 'sang' at dawn (a whistle as dew evaporated), attracting Roman tourists including Hadrian and Sabina who left 107 Greek/Latin graffiti on its legs; Septimius Severus 'repaired' it in 199 AD and silenced it; the Greeks named it after Memnon, the Ethiopian hero killed by Achilles; the temple behind (Kom el-Hettan)."
+},
+{
+"id": "lw-kom-el-hettan",
+"name": "Kom el-Hettan: the lost temple behind the Colossi",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "temple",
+"priority": 2,
+"wiki": [
+"Mortuary Temple of Amenhotep III"
+],
+"aliases": [
+"Kom el-Hettan",
+"Amenhotep III temple",
+"Sourouzian",
+"new colossi"
+],
+"note": "The largest temple ever built in Egypt (35 ha, bigger than Karnak's Amun precinct), built in the floodplain so the Nile entered it each year, which destroyed it within 200 years; Merenptah quarried it (his Israel Stele came from here); Hourig Sourouzian's team since 1998 raising further colossi (the second pair and third pair now standing again), hundreds of Sekhmet statues (one per day of the year, twice), the Aegean list naming Mycenae and Knossos; walk 300 m north of the Colossi to see the re-erected pairs."
+},
+{
+"id": "lw-medinet-habu-overview",
+"name": "Medinet Habu: the mortuary temple of Ramesses III",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "temple",
+"priority": 1,
+"wiki": [
+"Medinet Habu (temple)"
+],
+"aliases": [
+"Medinet Habu",
+"Ramesses III temple",
+"Habu",
+"best colour temple"
+],
+"note": "The best-preserved mortuary temple, a copy of the Ramesseum with the colours still on the ceilings; the mud-brick enclosure with the Syrian-style Migdol gatehouse, the small 18th Dynasty temple of Amun (older, primeval mound of the Ogdoad), the chapels of the God's Wives of Amun, the palace behind the first court, the town of Djeme that grew inside the walls in Coptic times (the church in the second court); the murder of the king; 1.5 hours; often quiet, late afternoon light on the first pylon."
+},
+{
+"id": "lw-mh-migdol-gate",
+"name": "The Migdol gate and the harem rooms",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "monument",
+"priority": 2,
+"wiki": [
+"Medinet Habu (temple)"
+],
+"commons": "Medinet Habu migdol gate high gate",
+"aliases": [
+"Migdol",
+"high gate",
+"Syrian gate",
+"harem rooms"
+],
+"note": "A fortified gatehouse modelled on Syrian migdol towers the king had besieged; upstairs rooms decorated with the king relaxing with women of the harem playing senet and offering fruit (visible through the windows from below), the heads of prisoners carved under the windows as if trodden on; the harem conspiracy to murder him may have been hatched in such rooms; the Ptolemaic pylon and the god's wives' chapels in the forecourt."
+},
+{
+"id": "lw-mh-sea-peoples",
+"name": "The Sea Peoples reliefs on the first pylon and north wall",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "relief",
+"priority": 1,
+"wiki": [
+"Sea Peoples",
+"Medinet Habu (temple)"
+],
+"commons": "Medinet Habu Sea Peoples naval battle relief",
+"aliases": [
+"Sea Peoples",
+"naval battle relief",
+"Philistines relief",
+"counting hands",
+"Libyan war"
+],
+"note": "Outside north wall: the only pictured naval battle of the Bronze Age (year 8, c. 1177 BC): Egyptian archers vs. Sea Peoples ships with bird-head prows, capsized boats, the Peleset (Philistines) with feathered headdresses, Sherden with horned helmets, their ox-carts of families: the Bronze Age collapse in pictures; the first pylon: the king smiting, the Libyan wars, scribes counting piles of severed hands and phalli of the dead enemies (12,535...); the hunting scenes on the back of the pylon (bulls in the marsh)."
+},
+{
+"id": "lw-mh-courts",
+"name": "The first and second courts: Osiride pillars and the Christian church",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "monument",
+"priority": 1,
+"wiki": [
+"Medinet Habu (temple)"
+],
+"commons": "Medinet Habu second court painted ceiling columns",
+"aliases": [
+"first court",
+"second court",
+"Window of Appearances",
+"Osiride pillars",
+"painted ceiling",
+"Coptic church"
+],
+"note": "First court: Osiride colossi on the north, papyrus columns on the south, the Window of Appearances connected to the palace where the king showed himself and threw gold collars to favourites, the palace ruins behind with the bathroom and throne dais; second court: the best-preserved colour in any temple ceiling and column, the Feast of Min and the Feast of Sokar processions, the holes and broken Osiride figures where the Coptic church of Djeme stood (columns removed, faces chiselled); then the roofless hypostyle, treasury rooms with gold-weighing scenes, the sanctuaries."
+},
+{
+"id": "lw-mh-harem-conspiracy",
+"name": "The murder of Ramesses III: the harem conspiracy",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "background",
+"priority": 1,
+"wiki": [
+"Harem conspiracy"
+],
+"aliases": [
+"harem conspiracy",
+"murder of Ramesses III",
+"Pentawer",
+"Tiye the queen",
+"Judicial Papyrus of Turin"
+],
+"note": "The Judicial Papyrus of Turin: Queen Tiye plotted to put her son Pentawer on the throne; wax figures and magic spells; 38 condemned, some forced to kill themselves, some had noses and ears cut off; the judges who partied with the accused women and were punished; the 2012 CT scan: the king's throat cut to the bone, a Horus eye amulet placed in the wound by the embalmers; the 'Screaming Mummy' (Unknown Man E) identified as Pentawer by DNA, buried in a sheepskin; both mummies at NMEC."
+},
+{
+"id": "lw-mh-small-temple",
+"name": "The small temple of Amun: the oldest and holiest part",
+"site": "luxor-west",
+"area": "Colossi & Medinet Habu",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Medinet Habu (temple)"
+],
+"commons": "Medinet Habu small temple Hatshepsut Thutmose III",
+"aliases": [
+"18th Dynasty temple",
+"small Amun temple",
+"Ogdoad mound",
+"Djeme"
+],
+"note": "Short. Built by Hatshepsut and Thutmose III (her names erased) on what was believed to be the primeval mound where the eight creator gods of Hermopolis (the Ogdoad) were buried; every ten days Amun of Luxor crossed the river to visit them (the Decade Festival); extended by Kushites, Saites, Ptolemies and Romans over 1,500 years; the Roman court and the Ptolemaic pylon; the reason Ramesses III built next to it."
+},
+{
+"id": "lw-ramesseum",
+"name": "The Ramesseum and the fallen colossus of Ozymandias",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "temple",
+"priority": 2,
+"wiki": [
+"Ramesseum",
+"Ozymandias"
+],
+"aliases": [
+"Ramesseum",
+"Ozymandias",
+"fallen statue",
+"Ramesses II mortuary temple",
+"Shelley"
+],
+"note": "If time allows (between Deir el-Bahari and Medinet Habu): Ramesses II's 'House of Millions of Years'; the fallen 1,000-ton granite colossus, the largest free-standing statue ever carved in Egypt, whose shoulder measurement Diodorus gave as 'Ozymandias' (User-maat-ra), inspiring Shelley's sonnet (1818); the Younger Memnon head taken by Belzoni to the British Museum; the Battle of Kadesh on the pylon, the astronomical ceiling, the first-known temple library ('healing place of the soul'), the vaulted mud-brick storerooms and the school where Deir el-Medina ostraca tell of scribes; Osiride columns."
+},
+{
+"id": "lw-tombs-of-nobles",
+"name": "Tombs of the Nobles at Sheikh Abd el-Qurna",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "area",
+"priority": 2,
+"wiki": [
+"Sheikh Abd el-Qurna",
+"Tombs of the Nobles (Luxor)"
+],
+"aliases": [
+"Tombs of the Nobles",
+"Sheikh Abd el-Qurna",
+"nobles tombs",
+"Qurna",
+"TT tombs"
+],
+"note": "400+ private tombs of officials in the hills, grouped in small ticket packs; unlike royal tombs they show daily life: banquets, harvest, hunting, foreign tribute; the recommended packs: Rekhmire + Sennefer (TT100/96), Ramose + Userhat + Khaemhat (TT55/56/57), Nakht + Menna (TT52/69), Roy + Shuroy (Dra Abu el-Naga); the demolished village of Qurna (relocated 2006-09) that lived on and in the tombs since the Abd el-Rassul days; a good 'if time' option after Deir el-Bahari."
+},
+{
+"id": "lw-tt100-rekhmire",
+"name": "TT100: Rekhmire, the vizier's instruction manual",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"TT100"
+],
+"aliases": [
+"Rekhmire",
+"TT100",
+"vizier tomb",
+"tribute scenes",
+"craftsmen scenes"
+],
+"note": "Short. Vizier of Thutmose III and Amenhotep II; the 'Installation of the Vizier' text on his duties ('be not partial'), foreign tribute from Punt, Crete (Keftiu with Minoan vases), Nubia (giraffe, baboons), Syria; the workshops: brickmaking (with foreign slaves), metal casting of temple doors, sculptors polishing colossi, rope making: a how-to of New Kingdom crafts; the sloping ceiling rising to 8 m; no burial chamber found."
+},
+{
+"id": "lw-tt96-sennefer",
+"name": "TT96: Sennefer, the Tomb of the Vines",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"TT96"
+],
+"aliases": [
+"Sennefer",
+"tomb of vines",
+"grape ceiling",
+"TT96"
+],
+"note": "Short. Mayor of Thebes under Amenhotep II; steep stairs down to a burial chamber whose uneven ceiling is painted as a grape arbour, with his wife Meryt and the double heart amulet he wears; the funeral journey to Abydos; one of the most charming small tombs; the chapel above closed."
+},
+{
+"id": "lw-tt55-ramose",
+"name": "TT55: Ramose, the tomb that changed style mid-way",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"TT55"
+],
+"aliases": [
+"Ramose",
+"TT55",
+"Amarna style change",
+"unfinished relief"
+],
+"note": "Short. Vizier under Amenhotep III and Akhenaten: the exquisite unpainted raised reliefs of the banquet guests with elaborate wigs (classic style) on one wall, and on the opposite wall the king and Nefertiti at the Window of Appearances under the Aten rays in the new Amarna style; left unfinished when the court moved to Amarna; the mourning women in paint; the hypostyle with 32 papyrus columns."
+},
+{
+"id": "lw-tt52-nakht-tt69-menna",
+"name": "TT52 Nakht and TT69 Menna: harvest and banquet",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "tomb",
+"priority": 3,
+"wiki": [
+"TT52",
+"TT69"
+],
+"aliases": [
+"Nakht",
+"Menna",
+"TT52",
+"TT69",
+"three musicians",
+"harvest scenes"
+],
+"note": "Short. Two small 18th Dynasty tombs with the most reproduced images of Egyptian daily life: Nakht's blind harper and the three musicians (nude lute player), the fishing and fowling in the marshes, the wine press; Menna's harvest with the tax assessors, the girls fighting and pulling hair, the surveyors with the rope, the dead girl's ba bird; Menna's eyes scratched out by an enemy."
+},
+{
+"id": "lw-carter-house",
+"name": "Howard Carter's house and the replica tomb",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "site",
+"priority": 3,
+"wiki": [
+"Howard Carter House",
+"Howard Carter"
+],
+"commons": "Howard Carter House Luxor dome",
+"aliases": [
+"Carter house",
+"Castle Carter",
+"replica tomb",
+"Factum Arte"
+],
+"note": "Short. The domed mud-brick house on the road to the Valley where Carter lived 1910-39, with his darkroom, desk and the dinner table set as for Carnarvon; the exact 3D-printed facsimile of KV62's burial chamber by Factum Arte (2014) in the garden, built to take pressure off the real tomb; a cheap stop on the way back."
+},
+{
+"id": "lw-seti-i-qurna",
+"name": "Temple of Seti I at Qurna",
+"site": "luxor-west",
+"area": "More West Bank",
+"type": "temple",
+"priority": 3,
+"wiki": [
+"Mortuary Temple of Seti I"
+],
+"aliases": [
+"Seti I temple",
+"Qurna temple",
+"Gurna temple"
+],
+"note": "Short. The northernmost mortuary temple, finished by Ramesses II, dedicated to Amun and to Seti's father Ramesses I who had no time to build one; quiet, roofed hypostyle with fine reliefs, the German Institute restoration; near the ticket office; for completists."
+},
+{
+"id": "lw-qurn-and-meretseger",
+"name": "The Qurn and Meretseger, 'She Who Loves Silence'",
+"site": "luxor-west",
+"area": "Valley of the Kings",
+"type": "background",
+"priority": 2,
+"wiki": [
+"Meretseger",
+"Theban Necropolis"
+],
+"aliases": [
+"Qurn",
+"el-Qurn",
+"peak",
+"Meretseger",
+"cobra goddess",
+"natural pyramid"
+],
+"note": "The 420 m pyramid-shaped peak above the Valley, probably why the kings chose this spot (a natural pyramid of the whole necropolis); the cobra goddess Meretseger who lived in it, worshipped by the Deir el-Medina workmen who blamed her bites for their sins (the stela of Neferabu: 'I was an ignorant man... she struck me blind'); the workmen's path over the shoulder of the hill with their huts; the shrine of Ptah and Meretseger on the path to the Valley of the Queens."
+}
+]
