@@ -298,3 +298,11 @@
 [287/295] OK  lw-mh-small-temple  <- Medinet Habu (shared)
 [288/295] OK  lw-tt100-rekhmire  <- TT100
 [289/295] OK  lw-tt96-sennefer  <- TT96
+[290/295] OK  lw-tt55-ramose  <- TT55
+[291/295] OK  lw-tt52-nakht-tt69-menna  <- TT52
+[292/295] OK  lw-carter-house  <- Howard Carter (shared)
+[293/295] OK  lw-seti-i-qurna  <- Mortuary Temple of Seti I
+[294/295] OK  siwa-rommel  <- Marsa Matrouh (shared)
+      429 on en.wikipedia.org, waiting 37s
+[295/295] --  siwa-qattara  no usable lead image for ['Qattara Depression']
+done: 258 ok, 37 without image, 13.2 min

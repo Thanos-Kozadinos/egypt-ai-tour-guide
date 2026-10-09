@@ -2489,5 +2489,131 @@
   "source": "https://commons.wikimedia.org/wiki/File:Portrait_head_of_pharaoh_Sesostris-Senusret_III_from_a_sphinx_statue_02_(cropped).jpg",
   "page": "https://en.wikipedia.org/wiki/Senusret_III",
   "shared": false
+ },
+ "lw-kv15": {
+  "file": "KV15_Tomb_of_Seti_II_(9794913296).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:KV15_Tomb_of_Seti_II_(9794913296).jpg",
+  "page": "https://en.wikipedia.org/wiki/KV15",
+  "shared": false
+ },
+ "lw-kv43": {
+  "file": "3840px-1903_entdeckte_Howard_Carter_das_Grab_von_Thutmosis_IV_im_Tal_der_Könige._03_(cropped).jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-1903_entdeckte_Howard_Carter_das_Grab_von_Thutmosis_IV_im_Tal_der_Könige._03_(cropped).jpg",
+  "page": "https://en.wikipedia.org/wiki/KV43",
+  "shared": false
+ },
+ "lw-kv47": {
+  "file": "Siptah’s_sarcophagus_in_Tomb_KV47.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Siptah’s_sarcophagus_in_Tomb_KV47.jpg",
+  "page": "https://en.wikipedia.org/wiki/KV47",
+  "shared": false
+ },
+ "lw-kv1": {
+  "file": "3840px-Ramesses_VII’s_KVI_tomb_in_February_2019.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Ramesses_VII’s_KVI_tomb_in_February_2019.jpg",
+  "page": "https://en.wikipedia.org/wiki/KV1",
+  "shared": false
+ },
+ "lw-kv7": {
+  "file": "Flickr_-_archer10_(Dennis)_-_Egypt-4A-023.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_Egypt-4A-023.jpg",
+  "page": "https://en.wikipedia.org/wiki/KV7",
+  "shared": false
+ },
+ "lw-qv52": {
+  "file": "QV52_Tomb_of_Tyti_2022_18.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:QV52_Tomb_of_Tyti_2022_18.jpg",
+  "page": "https://en.wikipedia.org/wiki/QV52",
+  "shared": false
+ },
+ "lw-mh-small-temple": {
+  "file": "3840px-Templo_funerario_de_Ramsés_III,_Luxor,_Egipto,_2022-04-03,_DD_22.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Templo_funerario_de_Ramsés_III,_Luxor,_Egipto,_2022-04-03,_DD_22.jpg",
+  "page": "https://en.wikipedia.org/wiki/Medinet_Habu",
+  "shared": true
+ },
+ "lw-tt100-rekhmire": {
+  "file": "TT100.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:TT100.jpg",
+  "page": "https://en.wikipedia.org/wiki/TT100",
+  "shared": false
+ },
+ "lw-tt96-sennefer": {
+  "file": "TT96.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:TT96.jpg",
+  "page": "https://en.wikipedia.org/wiki/TT96",
+  "shared": false
+ },
+ "lw-tt55-ramose": {
+  "file": "TT55.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:TT55.jpg",
+  "page": "https://en.wikipedia.org/wiki/TT55",
+  "shared": false
+ },
+ "lw-tt52-nakht-tt69-menna": {
+  "file": "TT52.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:TT52.jpg",
+  "page": "https://en.wikipedia.org/wiki/TT52",
+  "shared": false
+ },
+ "lw-carter-house": {
+  "file": "Howard_carter.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:Howard_carter.jpg",
+  "page": "https://en.wikipedia.org/wiki/Howard_Carter",
+  "shared": true
+ },
+ "lw-seti-i-qurna": {
+  "file": "3840px-Temple_of_Sethi_I_03,_egypt_forever.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-Temple_of_Sethi_I_03,_egypt_forever.jpg",
+  "page": "https://en.wikipedia.org/wiki/Mortuary_Temple_of_Seti_I",
+  "shared": false
+ },
+ "siwa-rommel": {
+  "file": "3840px-20191112_165747jpg.jpg",
+  "artist": "",
+  "license": "",
+  "credit": "Wikimedia Commons",
+  "source": "https://commons.wikimedia.org/wiki/File:3840px-20191112_165747jpg.jpg",
+  "page": "https://en.wikipedia.org/wiki/Marsa_Matrouh",
+  "shared": true
  }
 }
